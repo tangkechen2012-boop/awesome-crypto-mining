@@ -1,0 +1,35 @@
+name: Daily Miner Price Update
+
+on:
+  schedule:
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch new miner prices (bt-miners API)
+        run: python scripts/fetch_miner_prices.py
+
+      - name: Fetch used miner prices (eBay)
+        run: python scripts/fetch_ebay_prices.py
+
+      - name: Commit and push updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add miners/prices/ data/daily-prices.json
+          git diff --staged --quiet || git commit -m "💰 Price update $(date -u +%Y-%m-%d)"
+          git push

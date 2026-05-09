@@ -1,0 +1,32 @@
+name: Daily Profitability Update
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch profitability data
+        run: python scripts/fetch_profitability.py
+
+      - name: Commit and push updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add miners/index.md miners/profitability/ data/daily-profitability.json
+          git diff --staged --quiet || git commit -m "📊 Daily profitability update $(date -u +%Y-%m-%d)"
+          git push
