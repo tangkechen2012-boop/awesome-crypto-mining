@@ -1,0 +1,2014 @@
+{
+  "date": "2026-05-09",
+  "miners": [
+    {
+      "slug": "nerdminer-tv-bitcoin-miner-1060khs",
+      "name": "NerdMiner TV Bitcoin Miner 1060KH/s",
+      "new_price_usd": 50.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antrack-v2-ec4-dthp-4-antminer-s19-xp-hyd",
+      "name": "BITMAIN ANTRACK V2-EC4-DTHP & 4 ANTMINER S19 XP+ Hyd.",
+      "new_price_usd": 11804.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antrack-v2-ec2-dt-4-antminer-s19-xp-hyd",
+      "name": "BITMAIN ANTRACK V2-EC2-DT & 4 ANTMINER S19 XP+ Hyd.",
+      "new_price_usd": 6204.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "canaan-avalon-a15-194t-bitcoin-miner",
+      "name": "Canaan Avalon A15 194T Bitcoin Miner",
+      "new_price_usd": 1130.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-s21-pro-234ths-bitcoin-miner",
+      "name": "Bitmain Antminer S21 Pro+ 234TH/S Bitcoin Miner",
+      "new_price_usd": 2070.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitdeer-sealminer-dl1-air-25ghs-litecoin-dogecoin-miner",
+      "name": "Bitdeer SealMiner DL1 Air 25Gh/s Litecoin & Dogecoin Miner",
+      "new_price_usd": 9000.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "nerdminer-nerdoctaxe-96ths-bitcoin-solo-miner",
+      "name": "NerdMiner NerdOCTAxe 9.6Th/s Bitcoin Solo Miner",
+      "new_price_usd": 279.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "nerdminer-nerdqaxe-hydro-rev-61-6ths-bitcoin-solo-miner",
+      "name": "NerdMiner NerdQaxe++ Hydro Rev 6.1 6TH/s Bitcoin Solo Miner",
+      "new_price_usd": 290.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "nerdminer-nerdqaxe-rev-61-6ths-bitcoin-miner",
+      "name": "NerdMiner NerdQaxe++ Rev 6.1 6Th/s Bitcoin Miner",
+      "new_price_usd": 219.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "microbt-whatsminer-m79-hydro-bitcoin-miner-920ths",
+      "name": "MicroBT Whatsminer M79 Hydro Bitcoin Miner 920TH/s",
+      "new_price_usd": 14500.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "pinecone-matches-inibox-pro-24-ghs-initverse-miner",
+      "name": "Pinecone Matches INIBOX PRO 2.4 Gh/s InitVerse Miner",
+      "new_price_usd": 8599.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-s23e-u2h-bitcoin-miner-865ths",
+      "name": "Bitmain Antminer S23e U2H Bitcoin Miner 865TH/S",
+      "new_price_usd": 19030.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "nerdminer-nerdoctaxe-rev-31-12ths-bitcoin-miner",
+      "name": "NerdMiner NerdOCTAxe Rev 3.1 12Th/s Bitcoin Miner",
+      "new_price_usd": 339.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-sc5-pro-ii-siacoin-miner-14ths",
+      "name": "Goldshell SC5 Pro II Siacoin Miner 14TH/s",
+      "new_price_usd": 720.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-x9-monero-miner-1m",
+      "name": "Bitmain Antminer X9 Monero Miner 1M",
+      "new_price_usd": 5600.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitaxe-supra-hex-703-42ths-bitcoin-miner",
+      "name": "Bitaxe Supra Hex 703 4.2TH/s Bitcoin Miner",
+      "new_price_usd": 210.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "microbt-whatsminer-m79s-hydro-bitcoin-miner-135phs",
+      "name": "MicroBT Whatsminer M79S Hydro Bitcoin Miner 1.35PH/s",
+      "new_price_usd": 18450.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "nerdminer-v2-bitcoin-miner-980khs",
+      "name": "NerdMiner V2 Bitcoin Miner 980KH/s",
+      "new_price_usd": 80.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "canaan-avalonminer-a16xp-300t-bitcoin-miner",
+      "name": "Canaan AvalonMiner A16XP-300T Bitcoin Miner",
+      "new_price_usd": 5950.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "canaan-avalonminer-a16-282t-bitcoin-miner",
+      "name": "Canaan AvalonMiner A16 282T Bitcoin Miner",
+      "new_price_usd": 4480.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitdeer-sealminer-a2-pro-hyd-bitcoin-miner-500ths",
+      "name": "Bitdeer SealMiner A2 Pro Hyd Bitcoin Miner 500TH/S",
+      "new_price_usd": 6090.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitdeer-sealminer-a3-hyd-bitcoin-miner-500ths",
+      "name": "Bitdeer SealMiner A3 Hyd Bitcoin Miner 500TH/S",
+      "new_price_usd": 7250.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitdeer-sealminer-a3-pro-air-bitcoin-miner-290ths",
+      "name": "Bitdeer SealMiner A3 PRO AIR Bitcoin Miner 290TH/S",
+      "new_price_usd": 4899.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitdeer-sealminer-a3-air-bitcoin-miner-260ths",
+      "name": "Bitdeer SealMiner A3 Air Bitcoin Miner 260TH/S",
+      "new_price_usd": 3999.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "elphapex-dg2-mini-litecoin-dogecoin-miner-24ghs",
+      "name": "ElphaPex DG2 Mini Litecoin & Dogecoin Miner 2.4GH/s",
+      "new_price_usd": 999.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "volcminer-d3-litecoin-dogecoin-miner",
+      "name": "VolcMiner D3 Litecoin & Dogecoin Miner",
+      "new_price_usd": 7850.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "magicminer-bg02-7ths",
+      "name": "Magicminer BG02 7TH/s",
+      "new_price_usd": 420.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "magicminer-bg01-45ths",
+      "name": "Magicminer BG01 4.5TH/s",
+      "new_price_usd": 330.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "nerdminer-nerdqaxe901-hydro-bitcoin-miner-48ths",
+      "name": "NerdMiner NerdQaxe++901 Hydro Bitcoin Miner 4.8TH/s",
+      "new_price_usd": 219.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitaxe-supra-hex-701-42ths-bitcoin-miner",
+      "name": "Bitaxe Supra Hex 701 4.2TH/s Bitcoin Miner",
+      "new_price_usd": 140.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitaxe-gamma-800-bitcoin-miner-255ths",
+      "name": "Bitaxe Gamma 800 Bitcoin Miner 2.55TH/s",
+      "new_price_usd": 220.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-xt-box-xtm-tari-miner-580ghs",
+      "name": "Goldshell XT BOX XTM (Tari) Miner 580Gh/s",
+      "new_price_usd": 900.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "fluminerl3-litecoin-dogecoin-miner-95ghs",
+      "name": "FLUMINERL3 Litecoin & Dogecoin Miner 9.5GH/s",
+      "new_price_usd": 3929.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-l11-hyd-2u-35g-litecoin-dogecoin-miner",
+      "name": "Bitmain Antminer L11 Hyd 2U 35G Litecoin & Dogecoin Miner",
+      "new_price_usd": 9000.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-l9-hyd-2u-litecoin-dogecoin-miner",
+      "name": "Bitmain Antminer L9 Hyd 2U Litecoin & Dogecoin Miner",
+      "new_price_usd": 5890.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "pinecone-matches-inibox-850-mhs-initverse-miner",
+      "name": "Pinecone Matches INIBOX 850 Mh/s InitVerse Miner",
+      "new_price_usd": 2820.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-l11-hu6-litecoin-dogecoin-miner",
+      "name": "Bitmain Antminer L11 HU6 Litecoin & Dogecoin Miner",
+      "new_price_usd": 9500.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-l11-pro-litecoin-dogecoin-miner",
+      "name": "Bitmain Antminer L11 Pro Litecoin & Dogecoin Miner",
+      "new_price_usd": 8600.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-l11-20ghs-scrypt-miner-for-ltc-doge",
+      "name": "Bitmain Antminer L11 20GH/s Scrypt Miner for LTC & DOGE",
+      "new_price_usd": 7550.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "fluminer-t3-bitcoin-miner-115ths",
+      "name": "FLUMINER T3 Bitcoin Miner 115TH/S",
+      "new_price_usd": 1890.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-s19-xp-bitcoin-miner-170ths",
+      "name": "Bitmain Antminer S19 XP+ Bitcoin Miner 170TH/s",
+      "new_price_usd": 890.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "whatsminer-m60s-bitcoin-miner-202ths",
+      "name": "Whatsminer M60S+ Bitcoin Miner 202TH/s",
+      "new_price_usd": 3800.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-ae-max-ii-aleo-miner-540mhs",
+      "name": "Goldshell AE MAX II ALEO Miner 540Mh/s",
+      "new_price_usd": 1050.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "canaan-avalon-a1566ha-2u-480t-bitcoin-hydro-miner",
+      "name": "Canaan Avalon A1566HA 2U 480T Bitcoin Hydro Miner",
+      "new_price_usd": 6299.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "nerdminer-nerdqaxe901-bitcoin-miner-48ths",
+      "name": "NerdMiner NerdQaxe++901 Bitcoin Miner 4.8TH/s",
+      "new_price_usd": 190.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "iceriver-ae2-aleo-miner-720mhs",
+      "name": "IceRiver AE2 ALEO Miner 720Mh/s",
+      "new_price_usd": 2799.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "lucky-miner-mf01-bitcoin-miner-30ths",
+      "name": "Lucky Miner MF01 Bitcoin Miner 30Th/s",
+      "new_price_usd": 1099.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "microbt-whatsminer-m60s-bitcoin-miner-226ths",
+      "name": "MicroBT Whatsminer M60S++ Bitcoin Miner 226TH/s",
+      "new_price_usd": 3999.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "microbt-whatsminer-m66s-348ths-bitcoin-miner",
+      "name": "MicroBT Whatsminer M66S++ 348Th/s Bitcoin Miner",
+      "new_price_usd": 8400.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "jasminer-x16-q-pro-ethereum-classic-miner-2050mhs",
+      "name": "Jasminer X16-Q Pro Ethereum Classic Miner 2050Mh/s",
+      "new_price_usd": 1550.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "whatsminer-m63s-hydro-bitcoin-miner-416ths",
+      "name": "Whatsminer M63S Hydro Bitcoin Miner 416TH/s",
+      "new_price_usd": 6445.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "ibelink-bm-s3-siacoin-miner-25ths",
+      "name": "iBeLink BM-S3+ Siacoin Miner 25Th/s",
+      "new_price_usd": 3199.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "volcminer-d1-pro-litecoin-dogecoin-miner",
+      "name": "VolcMiner D1 Pro Litecoin & Dogecoin Miner",
+      "new_price_usd": 5650.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "iceriver-ae1-lite-aleo-miner-300mhs",
+      "name": "IceRiver AE1 LITE ALEO Miner 300Mh/s",
+      "new_price_usd": 1090.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "fluminer-l1-pro-6ghs-litecoin-dogecoin-miner",
+      "name": "Fluminer L1 Pro 6Gh/s Litecoin & Dogecoin Miner",
+      "new_price_usd": 2250.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-s23-hyd-3u-bitcoin-miner-116phs",
+      "name": "Bitmain Antminer S23 Hyd 3U Bitcoin Miner 1.16PH/S",
+      "new_price_usd": 29800.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-s23-imm-bitcoin-miner-442ths",
+      "name": "Bitmain Antminer S23 Imm Bitcoin Miner 442TH/S",
+      "new_price_usd": 11713.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-s23-bitcoin-miner-318ths",
+      "name": "Bitmain Antminer S23 Bitcoin Miner 318TH/S",
+      "new_price_usd": 8268.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-s23-hyd-bitcoin-miner-580th",
+      "name": "Bitmain Antminer S23 Hyd Bitcoin Miner 580TH",
+      "new_price_usd": 15080.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "elphapex-dg-1s-litecoin-dogecoin-miner-10ghs",
+      "name": "ElphaPex DG 1S Litecoin & Dogecoin Miner 10GH/s",
+      "new_price_usd": 2500.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "elphapex-dg2-16-ghs-scrypt-miner",
+      "name": "ElphaPex DG2 16 GH/s Scrypt Miner",
+      "new_price_usd": 7190.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitaxe-gamma-601-bitcoin-miner-12ths",
+      "name": "Bitaxe Gamma 601 Bitcoin Miner 1.2TH/s",
+      "new_price_usd": 160.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-ae-max-aleo-miner-360mhs",
+      "name": "Goldshell AE MAX ALEO Miner 360Mh/s",
+      "new_price_usd": 999.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "iceriver-ae3-aleo-miner-2ghs",
+      "name": "IceRiver AE3 ALEO Miner 2Gh/s",
+      "new_price_usd": 5450.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-ks7-kaspa-miner-36ths",
+      "name": "Bitmain Antminer KS7 Kaspa Miner 36Th/s",
+      "new_price_usd": 1700.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-s21e-hyd-bitcoin-miner-288th",
+      "name": "Bitmain Antminer S21e Hyd Bitcoin Miner 288TH",
+      "new_price_usd": 2320.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-e-ae1m-aleo-miner-230mhs",
+      "name": "Goldshell E-AE1M ALEO Miner 230Mh/s",
+      "new_price_usd": 630.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "luckyminer-lg07-litecoin-dogecoin-miner-11m",
+      "name": "Luckyminer LG07 Litecoin & Dogecoin Miner 11M",
+      "new_price_usd": 150.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "canaan-avalon-a15-pro-218t-bitcoin-miner",
+      "name": "Canaan Avalon A15 Pro 218T Bitcoin Miner",
+      "new_price_usd": 2400.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "antminer-s19e-xp-hydro-bitcoin-miner-251ths",
+      "name": "Antminer S19e XP Hydro Bitcoin Miner 251TH/s",
+      "new_price_usd": 1650.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "elphapex-dg2-litecoin-dogecoin-miner-205ghs",
+      "name": "ElphaPex DG2+ Litecoin & Dogecoin Miner 20.5GH/s",
+      "new_price_usd": 10190.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-byte-aleo-doge-alph-xtmtari-coin-miner",
+      "name": "Goldshell BYTE ALEO & DOGE & ALPH & XTM（Tari） Coin Miner",
+      "new_price_usd": 218.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "fluminer-l2-litecoin-dogecoin-miner-1ghs",
+      "name": "FLUMINER L2 Litecoin &Dogecoin Miner 1GH/s",
+      "new_price_usd": 799.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitdeer-sealminer-a3-pro-hyd-bitcoin-miner-660ths",
+      "name": "Bitdeer SealMiner A3 Pro Hyd Bitcoin Miner 660TH/S",
+      "new_price_usd": 10899.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitdeer-sealminer-a2-pro-air-bitcoin-miner-255ths",
+      "name": "Bitdeer SealMiner A2 PRO AIR Bitcoin Miner 255TH/S",
+      "new_price_usd": 3150.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-ae-box-ii-aleo-miner-54mhs",
+      "name": "Goldshell AE BOX II ALEO Miner 54Mh/s",
+      "new_price_usd": 150.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "iceriver-ks7-lite-kaspa-miner-42ths",
+      "name": "ICERIVER KS7 LITE Kaspa Miner 4.2Th/s",
+      "new_price_usd": 730.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "iceriver-ks7-kaspa-miner-30ths",
+      "name": "ICERIVER KS7 Kaspa Miner 30Th/s",
+      "new_price_usd": 1990.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "lucky-miner-lv08-bitcoin-miner-45ths",
+      "name": "Lucky Miner Lv08 Bitcoin Miner 4.5Th/s",
+      "new_price_usd": 299.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "canaan-avalon-q-bitcoin-miner-90ths",
+      "name": "Canaan Avalon Q Bitcoin Miner 90Th/s",
+      "new_price_usd": 1399.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "ipollo-v2-ethw-etc-miner-10ghs",
+      "name": "iPollo V2 ETHW & ETC Miner 10Gh/s",
+      "new_price_usd": 5800.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "antminer-s19-xp-hydro-bitcoin-miner-279ths",
+      "name": "Antminer S19 XP+ Hydro Bitcoin Miner 279TH/s",
+      "new_price_usd": 1200.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-ae-box-pro-aleo-miner-44mhs",
+      "name": "Goldshell AE BOX PRO ALEO Miner 44Mh/s",
+      "new_price_usd": 299.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-s21-xp-hyd-bitcoin-miner-500ths",
+      "name": "Bitmain Antminer S21 XP+ Hyd Bitcoin Miner 500TH/s",
+      "new_price_usd": 12700.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "volcminer-d1-lite-litecoin-dogecoin-miner-14ghs",
+      "name": "VolcMiner D1 Lite Litecoin & Dogecoin Miner 14Gh/s",
+      "new_price_usd": 2350.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-e11-95ghs",
+      "name": "Bitmain Antminer E11 9.5Gh/s",
+      "new_price_usd": 2180.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "volcminer-d1-hydro-litecoin-dogecoin-miner-30gs-33ghs-7600w",
+      "name": "VolcMiner D1 Hydro Litecoin & Dogecoin Miner 30G/s 33Gh/s 7600W",
+      "new_price_usd": 5900.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "iceriver-ae0-aleo-miner-60mhs",
+      "name": "IceRiver AE0 ALEO Miner 60Mh/s",
+      "new_price_usd": 299.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-ae-box-aleo-miner-37mhs",
+      "name": "Goldshell AE BOX ALEO Miner 37Mh/s",
+      "new_price_usd": 299.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "canaan-avalon-mini-3-bitcoin-miner-375ths",
+      "name": "Canaan Avalon Mini 3 Bitcoin Miner 37.5Th/s",
+      "new_price_usd": 890.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "canaan-avalon-nano-3s-bitcoin-miner-6ths",
+      "name": "Canaan Avalon Nano 3S Bitcoin Miner 6Th/s",
+      "new_price_usd": 305.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "volcminer-d1-mini-pre-litecoin-dogecoin-miner-22ghs",
+      "name": "VolcMiner D1 Mini Pre Litecoin & Dogecoin Miner 2.2Gh/s",
+      "new_price_usd": 800.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-al-max-alephium-miner-83ths",
+      "name": "Goldshell AL MAX Alephium Miner 8.3TH/s",
+      "new_price_usd": 2459.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "ipollo-v2h-ethereum-classic-coin-miner-3400mhs",
+      "name": "iPollo V2H Ethereum Classic Coin Miner 3400MH/s",
+      "new_price_usd": 2000.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "ipollo-v2x-ethw-etc-miner-1200mhs",
+      "name": "iPollo V2X ETHW & ETC Miner 1200Mh/s",
+      "new_price_usd": 960.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "elphapex-dg-hydro-1-litecoin-dogecoin-miner-20ghs",
+      "name": "ElphaPex DG Hydro 1 Litecoin & Dogecoin Miner 20GH/s",
+      "new_price_usd": 7150.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitdeer-sealminer-a2-hyd-bitcoin-miner-446ths",
+      "name": "Bitdeer SealMiner A2 Hyd Bitcoin Miner 446TH/S",
+      "new_price_usd": 6150.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "ibelink-bm-l3-litecoin-dogecoin-miner-32ghs",
+      "name": "iBeLink BM-L3 Litecoin & Dogecoin Miner 3.2GH/s",
+      "new_price_usd": 3400.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "braiins-mini-miner-bmm-101-bitcoin-miner-1ths",
+      "name": "Braiins Mini Miner BMM 101 Bitcoin Miner 1TH/s",
+      "new_price_usd": 399.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-s21e-xp-hyd-bitcoin-miner-430th",
+      "name": "Bitmain Antminer S21e XP Hyd Bitcoin Miner 430TH",
+      "new_price_usd": 11100.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "xuanminer-c1-ethereum-classic-miner-12600mhs",
+      "name": "XuanMiner C1 Ethereum Classic Miner 12600Mh/s",
+      "new_price_usd": 6499.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "whatsminer-m61-bitcoin-miner-202ths",
+      "name": "Whatsminer M61 Bitcoin Miner 202TH/s",
+      "new_price_usd": 3100.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "fluminer-l1-litecoin-dogecoin-miner-53ghs",
+      "name": "FLUMINER L1 Litecoin & Dogecoin Miner 5.3GH/s",
+      "new_price_usd": 2950.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "jasminer-x44-p-ethereum-classic-miner-234ghs",
+      "name": "Jasminer X44-P Ethereum Classic Miner 23.4Gh/s",
+      "new_price_usd": 11200.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-dg-max-litecoin-dogecoin-miner-65ghs",
+      "name": "Goldshell DG MAX Litecoin & Dogecoin Miner 6.5GH/s",
+      "new_price_usd": 1999.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitdeer-sealminer-a2-air-bitcoin-miner-226ths",
+      "name": "Bitdeer SealMiner A2 Air Bitcoin Miner 226TH/S",
+      "new_price_usd": 3620.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bombax-ez100-pro-ethereum-classic-miner-15000mhs",
+      "name": "Bombax EZ100 Pro Ethereum Classic Miner 15000MH/s",
+      "new_price_usd": 14599.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "volcminer-d1-litecoin-dogecoin-miner",
+      "name": "VolcMiner D1 Litecoin & Dogecoin Miner",
+      "new_price_usd": 3400.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-s21-bitcoin-miner",
+      "name": "Bitmain Antminer S21+ Bitcoin Miner",
+      "new_price_usd": 1520.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-s21-hyd-bitcoin-miner-319ths",
+      "name": "Bitmain Antminer S21+ Hyd Bitcoin Miner 319TH/s",
+      "new_price_usd": 2300.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-al-box-iii-alephium-miner-125ths",
+      "name": "Goldshell AL Box III Alephium Miner 1.25TH/s",
+      "new_price_usd": 480.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "iceriver-ks2-lite-kaspa-miner-2ths",
+      "name": "ICERIVER KS2 LITE Kaspa Miner 2TH/s",
+      "new_price_usd": 470.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "iceriver-al2-lite-alephium-miner-2ths",
+      "name": "ICERIVER AL2 Lite Alephium Miner 2TH/s",
+      "new_price_usd": 1299.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-s21e-xp-hyd-3u-bitcoin-miner-860ths",
+      "name": "Bitmain Antminer S21e XP Hyd 3U Bitcoin Miner 860TH/S",
+      "new_price_usd": 10000.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "iceriver-al3-alephium-miner-15ths",
+      "name": "ICERIVER AL3 Alephium Miner 15TH/s",
+      "new_price_usd": 1199.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "dragonball-a40-alph-miner-33t",
+      "name": "DragonBall A40 ALPH Miner 3.3T",
+      "new_price_usd": 3999.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "iceriver-rx0-rxd-miner-260ghs",
+      "name": "ICERIVER RX0 RXD Miner 260GH/s",
+      "new_price_usd": 680.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "dragonball-a11-alph-miner-12t-rxd-miner-32t",
+      "name": "DragonBall A11 ALPH Miner 1.2T & RXD Miner 3.2T",
+      "new_price_usd": 2999.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-al-box-ii-pro-alephium-miner-950ghs",
+      "name": "Goldshell AL Box II Pro Alephium Miner 950GH/s",
+      "new_price_usd": 550.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-e-al1m-alephium-miner-44ths",
+      "name": "Goldshell E-AL1M Alephium Miner 4.4TH/s",
+      "new_price_usd": 1529.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-e-dg1m-ltc-doge-bells-miner-34ghs",
+      "name": "Goldshell E-DG1M LTC Doge Bells Miner 3.4GH/s",
+      "new_price_usd": 1180.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-al-box-ii-plus-alephium-miner-1ths",
+      "name": "Goldshell AL Box II Plus Alephium Miner 1TH/s",
+      "new_price_usd": 390.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-s19-pro-bitcoin-miner-125ths",
+      "name": "Bitmain Antminer S19 Pro++ Bitcoin Miner 125TH/s",
+      "new_price_usd": 1299.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "jasminer-x16-qe-ethereum-classic-miner-1650mhs",
+      "name": "Jasminer X16-QE Ethereum Classic Miner 1650Mh/s",
+      "new_price_usd": 620.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-e-ka1m-kaspa-miner-55ths",
+      "name": "Goldshell E-KA1M Kaspa Miner 5.5TH/s",
+      "new_price_usd": 990.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "whatsminer-m66s-hydro-298ths-bitcoin-miner-with-power-supply",
+      "name": "Whatsminer M66S Hydro 298Th/s Bitcoin Miner With Power Supply",
+      "new_price_usd": 6799.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-al1-pro-alephium-miner-166ths",
+      "name": "Bitmain Antminer AL1 Pro Alephium Miner 16.6TH/s",
+      "new_price_usd": 10599.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-s21-xp-imm-bitcoin-miner-300ths",
+      "name": "Bitmain Antminer S21 XP Imm Bitcoin Miner 300TH/S",
+      "new_price_usd": 6399.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-s21-imm-bitcoin-miner-300ths",
+      "name": "Bitmain Antminer S21 Imm Bitcoin Miner 300TH/S",
+      "new_price_usd": 1500.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "iceriver-al0-alephium-miner-400ghs",
+      "name": "ICERIVER AL0 Alephium Miner 400GH/s",
+      "new_price_usd": 440.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-al1-alephium-miner-156ths",
+      "name": "Bitmain Antminer AL1 Alephium Miner 15.6TH/s",
+      "new_price_usd": 10599.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-al-box-ii-alephium-miner-720ghs",
+      "name": "Goldshell AL Box II Alephium Miner 720GH/s",
+      "new_price_usd": 799.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "elphapex-dg-home-1-litecoin-dogecoin-miner-21-ghs",
+      "name": "ElphaPex DG HOME 1 Litecoin & Dogecoin Miner 2.1 GH/s",
+      "new_price_usd": 590.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-mini-doge-iii-plus-litecoin-dogecoin-miner-810mhs",
+      "name": "Goldshell MINI DOGE III PLUS Litecoin & Dogecoin Miner 810Mh/s",
+      "new_price_usd": 490.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-dr7-scp-miner-127ths",
+      "name": "Bitmain Antminer DR7 SCP Miner 127TH/S",
+      "new_price_usd": 2899.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "dragonball-ks6-pro-kaspa-miner-105ths",
+      "name": "DragonBall KS6 Pro Kaspa Miner 10.5TH/s",
+      "new_price_usd": 6990.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "dragonball-ks6-pro-kaspa-miner-11ths",
+      "name": "DragonBall KS6 Pro+ Kaspa Miner 11TH/s",
+      "new_price_usd": 7160.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-s21-xp-hyd-bitcoin-miner-473th",
+      "name": "Bitmain Antminer S21 XP Hyd Bitcoin Miner 473TH",
+      "new_price_usd": 5890.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-s21-xp-bitcoin-miner-270ths",
+      "name": "Bitmain Antminer S21 XP Bitcoin Miner 270TH/S",
+      "new_price_usd": 3450.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "hammer-d12-litecoin-dogecoin-miner-4700mhs",
+      "name": "HAMMER D12 Litecoin & Dogecoin Miner 4700Mh/s",
+      "new_price_usd": 4999.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-ka-box-pro-kaspa-miner-16ths",
+      "name": "Goldshell KA Box Pro Kaspa Miner 1.6TH/s",
+      "new_price_usd": 399.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "canaan-avalon-nano-3-bitcoin-miner-4ths",
+      "name": "Canaan Avalon Nano 3 Bitcoin Miner 4Th/s",
+      "new_price_usd": 299.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-hs-box-ii-handshake-miner-12ths",
+      "name": "Goldshell HS-Box II Handshake Miner 1.2Th/s",
+      "new_price_usd": 330.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "dragonball-ks6-kaspa-miner-105ths",
+      "name": "DragonBall KS6 Kaspa Miner 10.5TH/s",
+      "new_price_usd": 10499.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "canaan-avalonminer-a1566-bitcoin-miner",
+      "name": "Canaan AvalonMiner A1566 Bitcoin Miner",
+      "new_price_usd": 2800.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bombax-ez100-c-ethereum-classic-miner-3800mhs",
+      "name": "Bombax EZ100-C Ethereum Classic Miner 3800MH/s",
+      "new_price_usd": 3999.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "elphapex-dg1-litecoin-dogecoin-miner-144ghs",
+      "name": "ElphaPex DG1+ Litecoin & Dogecoin Miner 14.4GH/s",
+      "new_price_usd": 1750.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-l9-litecoin-dogecoin-miner",
+      "name": "Bitmain Antminer L9 Litecoin & Dogecoin Miner",
+      "new_price_usd": 2400.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "hammer-d10-ltc-doge-miner-with-power-supply-copy",
+      "name": "HAMMER D10+ LTC & DOGE Miner With Power Supply (Copy)",
+      "new_price_usd": 3609.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "ibelink-bm-n3-max-ckb-miner-30ths",
+      "name": "iBeLink BM-N3 Max CKB Miner 30Th/s",
+      "new_price_usd": 2250.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-al-box-alephium-miner-360ghs",
+      "name": "Goldshell AL Box Alephium Miner 360GH/s",
+      "new_price_usd": 540.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "iceriver-ks5l-kaspa-miner-12ths",
+      "name": "ICERIVER KS5L Kaspa Miner 12TH/s",
+      "new_price_usd": 480.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-mini-doge-iii-litecoin-dogecoin-miner-700mhs",
+      "name": "Goldshell MINI DOGE III Litecoin & Dogecoin Miner 700Mh/s",
+      "new_price_usd": 280.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-s21-pro-bitcoin-miner-234ths",
+      "name": "Bitmain Antminer S21 Pro Bitcoin Miner 234TH/S",
+      "new_price_usd": 2070.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "whatsminer-m63-hydro-bitcoin-miner-334ths",
+      "name": "Whatsminer M63 Hydro Bitcoin Miner 334TH/s",
+      "new_price_usd": 6000.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "elphapex-dg1-litecoin-dogecoin-miner-11ghs",
+      "name": "ElphaPex DG1 Litecoin & Dogecoin Miner 11GH/s",
+      "new_price_usd": 1450.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-ka-box-kaspa-miner-118ths",
+      "name": "Goldshell KA Box Kaspa Miner 1.18TH/s",
+      "new_price_usd": 1799.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "whatsminer-m63s-hydro-bitcoin-miner-450ths",
+      "name": "Whatsminer M63S+ Hydro Bitcoin Miner 450TH/s",
+      "new_price_usd": 9999.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "whatsminer-m60-bitcoin-miner-180ths",
+      "name": "Whatsminer M60 Bitcoin Miner 180TH/s",
+      "new_price_usd": 2500.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "whatsminer-m60s-bitcoin-miner-186ths",
+      "name": "Whatsminer M60S Bitcoin Miner 186TH/s",
+      "new_price_usd": 3600.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-ks5-pro-kaspa-miner-21ths",
+      "name": "Bitmain Antminer KS5 Pro Kaspa Miner 21Th/s",
+      "new_price_usd": 1450.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-ks5-kaspa-miner-20ths",
+      "name": "Bitmain Antminer KS5 Kaspa Miner 20Th/s",
+      "new_price_usd": 350.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "ibelink-bm-s3-siacoin-miner-19ths",
+      "name": "iBeLink BM-S3 Siacoin Miner 19Th/s",
+      "new_price_usd": 2899.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "ibelink-bm-ks-max-kaspa-miner-105ths",
+      "name": "iBeLink BM-KS Max Kaspa Miner 10.5Th/s",
+      "new_price_usd": 2500.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-sc5-pro-siacoin-miner-11ths",
+      "name": "Goldshell SC5 Pro Siacoin Miner 11TH/s",
+      "new_price_usd": 1399.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-sc-lite-siacoin-miner-44ths",
+      "name": "Goldshell SC Lite Siacoin Miner 4.4TH/s",
+      "new_price_usd": 650.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "superscalar-k10-ironfish-miner-403ghs",
+      "name": "SuperScalar K10  Ironfish Miner 403GH/S",
+      "new_price_usd": 6599.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-s19k-pro120ths-bitcoin-miner",
+      "name": "Bitmain Antminer S19k Pro120TH/s Bitcoin Miner",
+      "new_price_usd": 300.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "thewindminer-k9-kaspa-miner-103ths",
+      "name": "TheWindMiner K9 Kaspa Miner 10.3TH/s",
+      "new_price_usd": 17299.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bombax-ez100-ethereum-classic-miner-12500mhs",
+      "name": "Bombax EZ100 Ethereum Classic Miner 12500MH/s",
+      "new_price_usd": 10199.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "iceriver-ks0-pro-kaspa-miner-200ghs",
+      "name": "ICERIVER KS0 Pro Kaspa Miner 200GH/s",
+      "new_price_usd": 650.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-t21-bitcoin-miner-190ths",
+      "name": "Bitmain Antminer T21 Bitcoin Miner 190TH/s",
+      "new_price_usd": 950.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-s21-hyd-bitcoin-miner-335ths",
+      "name": "Bitmain Antminer S21 Hyd Bitcoin Miner 335TH/s",
+      "new_price_usd": 5999.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-s21-bitcoin-miner-200ths",
+      "name": "Bitmain Antminer S21 Bitcoin Miner 200TH/S",
+      "new_price_usd": 1070.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "ipollo-v1h-ethereum-classic-miner-950mhs",
+      "name": "iPollo V1H Ethereum Classic Miner 950MH/s",
+      "new_price_usd": 1399.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "ibelink-bm-k3-mini-kadena-miner-5ths",
+      "name": "iBeLink BM-K3 Mini Kadena Miner 5Th/s",
+      "new_price_usd": 538.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "canaan-avalonminer-a1466i-bitcoin-miner-150170ths",
+      "name": "Canaan AvalonMiner A1466I Bitcoin Miner 150~170TH/s",
+      "new_price_usd": 3999.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "canaan-avalonminer-a1466-bitcoin-miner-150ths",
+      "name": "Canaan AvalonMiner A1466 Bitcoin Miner 150Th/s",
+      "new_price_usd": 1929.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "canaan-avalonminer-a1446-bitcoin-miner-135ths",
+      "name": "Canaan AvalonMiner A1446 Bitcoin Miner 135Th/s",
+      "new_price_usd": 3699.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-x5-monero-miner-212k",
+      "name": "Bitmain Antminer X5 Monero Miner 212K",
+      "new_price_usd": 3199.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "iceriver-ks3m-kaspa-miner-6ths",
+      "name": "ICERIVER KS3M Kaspa Miner 6TH/s",
+      "new_price_usd": 500.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "desiweminer-k10-pro-170ths-bitcoin-miner",
+      "name": "DesiweMiner K10 Pro 170TH/S Bitcoin Miner",
+      "new_price_usd": 9250.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "jasminer-x4-qz-840mhs-ethereum-classic-miner",
+      "name": "Jasminer X4-QZ 840MH/S Ethereum Classic Miner",
+      "new_price_usd": 630.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-s19j-xp-bitcoin-miner-151ths",
+      "name": "Bitmain Antminer S19j XP Bitcoin Miner 151TH/s",
+      "new_price_usd": 699.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "iceriver-ks5m-kaspa-miner-15ths",
+      "name": "ICERIVER KS5M Kaspa Miner 15TH/s",
+      "new_price_usd": 490.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "iceriver-ks3-kaspa-miner-8ths",
+      "name": "ICERIVER KS3 Kaspa Miner 8TH/s",
+      "new_price_usd": 1950.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "iceriver-ks2-kaspa-miner-2th",
+      "name": "ICERIVER KS2 Kaspa Miner 2TH",
+      "new_price_usd": 9399.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "iceriver-ks1-kaspa-miner-1ths",
+      "name": "ICERIVER KS1 Kaspa Miner 1Th/s",
+      "new_price_usd": 3299.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "iceriver-ks0-ultra-kaspa-miner-400ghs",
+      "name": "ICERIVER KS0 Ultra Kaspa Miner 400GH/s",
+      "new_price_usd": 199.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "jasminer-x16-p-ethereum-classic-miner-5800mhs",
+      "name": "Jasminer X16-P Ethereum Classic Miner 5800Mh/s",
+      "new_price_usd": 2450.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "antminer-s19-xp-hydro-bitcoin-miner-257ths",
+      "name": "Antminer S19 XP Hydro Bitcoin Miner 257TH/s",
+      "new_price_usd": 1600.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-z15-pro-zcash-miner-840ksol",
+      "name": "Bitmain Antminer Z15 Pro Zcash Miner 840KSol",
+      "new_price_usd": 1600.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-ks3-kaspa-miner-94ths",
+      "name": "Bitmain Antminer KS3 Kaspa Miner 9.4Th/s",
+      "new_price_usd": 1300.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "yami-tech-ym-200-mini-200mhs",
+      "name": "Yami Tech YM-200 Mini+ 200MH/s",
+      "new_price_usd": 1811.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "whatsminer-m50s-126ths-bitcoin-miner-with-power-supply",
+      "name": "Whatsminer M50S 126Th/s Bitcoin Miner With Power Supply",
+      "new_price_usd": 1200.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "whatsminer-m50-bitcoin-miner-118ths",
+      "name": "Whatsminer M50 Bitcoin Miner 118Th/s",
+      "new_price_usd": 1078.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "whatsminer-m31s-bitcoin-miner-72t-with-power-supply",
+      "name": "Whatsminer M31s Bitcoin Miner 72T With Power Supply",
+      "new_price_usd": 1400.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "whatsminer-m30s-bitcoin-miner-104t110t-with-power-supply",
+      "name": "Whatsminer M30s++ Bitcoin Miner 104T~110T With Power Supply",
+      "new_price_usd": 1789.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "whatsminer-m30s-bitcoin-miner-96t102t",
+      "name": "Whatsminer M30s+ Bitcoin Miner 96T～102T",
+      "new_price_usd": 1352.48,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "whatsminer-m30s-bitcoin-miner-86t-94t",
+      "name": "Whatsminer M30s Bitcoin Miner 86T ～ 94T",
+      "new_price_usd": 1199.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "whatsminer-m20s-bitcoin-miner-68ths",
+      "name": "Whatsminer M20s Bitcoin Miner 68TH/s",
+      "new_price_usd": 1130.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-lt6-litecoin-dogecoin-miner-3350mhs",
+      "name": "Goldshell LT6 Litecoin & Dogecoin Miner 3350Mh/s",
+      "new_price_usd": 3599.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "koi-miner-c16-max-bitcoin-miner-113ths",
+      "name": "KOI Miner C16 Max Bitcoin Miner 113TH/s",
+      "new_price_usd": 8656.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "koi-miner-bitcoin-miner-c16-113t-98t-92t-83t-with-power-supply",
+      "name": "KOI Miner Bitcoin Miner C16 113T / 98T / 92T / 83T With Power Supply",
+      "new_price_usd": 7799.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "jasminer-x4-q-ethereum-classic-miner-1040mhs",
+      "name": "Jasminer X4-Q Ethereum Classic Miner 1,040MH/S",
+      "new_price_usd": 699.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "jasminer-x4-1u-c-etceth-5g-miner-450mhs-with-power-supply",
+      "name": "Jasminer X4 1U-C ETC/ETH 5G Miner 450Mh/s With Power Supply",
+      "new_price_usd": 1111.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "jasminer-x4-1u-ethereum-classic-5g-miner-520mhs",
+      "name": "Jasminer X4 1U Ethereum Classic 5G Miner 520Mh/s",
+      "new_price_usd": 1198.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "jasminer-x16-q-ethereum-classic-miner-1950mhs",
+      "name": "Jasminer X16-Q Ethereum Classic Miner 1950Mh/s",
+      "new_price_usd": 940.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "ipollo-v1-mini-classic-plus-ethereum-classic-miner-280mhs",
+      "name": "iPollo V1 Mini Classic Plus Ethereum Classic Miner 280MH/s",
+      "new_price_usd": 399.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "ipollo-v1-mini-se-plus-ethetc-miner-400mhs",
+      "name": "iPollo V1 Mini SE Plus ETH/ETC Miner 400Mh/s",
+      "new_price_usd": 999.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "ipollo-v1-mini-se-ethetc-miner-200mhs",
+      "name": "iPollo V1 Mini SE ETH/ETC Miner 200Mh/s",
+      "new_price_usd": 680.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "ipollo-v1-mini-ethereum-miner-300mhs",
+      "name": "iPollo V1 Mini Ethereum Miner 300MH/s",
+      "new_price_usd": 899.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "ipollo-v1-mini-classic-etc-coin-miner-130mhs",
+      "name": "iPollo V1 Mini Classic ETC Coin Miner 130MH/s",
+      "new_price_usd": 399.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "ipollo-v1-classic-etc-miner-1550mhs",
+      "name": "iPollo V1 Classic ETC Miner 1550Mh/s",
+      "new_price_usd": 2899.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "ipollo-v1-ethw-etc-miner-36ghs",
+      "name": "iPollo V1 ETHW & ETC Miner 3.6Gh/s",
+      "new_price_usd": 3699.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "ipollo-g1-mini-grin-coin-miner-12gs",
+      "name": "iPollo G1 Mini Grin Coin Miner 1.2G/s",
+      "new_price_usd": 280.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "ipollo-g1-grin-coin-miner-36ghs",
+      "name": "iPollo G1 Grin Coin Miner 36GH/S",
+      "new_price_usd": 2980.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "innosilicon-a11-pro-eth-miner-1500m",
+      "name": "Innosilicon A11 Pro ETH Miner 1500M",
+      "new_price_usd": 2888.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "innosilicon-a10-pro-eth-etc-miner-720m",
+      "name": "Innosilicon A10 Pro+ ETH & ETC Miner 720M",
+      "new_price_usd": 999.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "ibelink-bm-n3-ckb-miner-25ths",
+      "name": "iBeLink BM-N3 CKB Miner 25Th/s",
+      "new_price_usd": 1766.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "ibelink-bm-l1-lbry-coin-miner-145ths",
+      "name": "iBeLink BM-L1 LBRY Coin Miner 1.45TH/S",
+      "new_price_usd": 1239.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "ibelink-bm-k3-kadena-miner-70ths",
+      "name": "iBeLink BM-K3 Kadena Miner 70Th/s",
+      "new_price_usd": 899.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "ibelink-bm-k1-kadena-miner-15ths",
+      "name": "iBeLink BM-K1+ Kadena Miner 15TH/S",
+      "new_price_usd": 1499.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "ibelink-bm-k1-max-kadena-miner-32ths",
+      "name": "iBeLink BM-K1 Max Kadena Miner 32TH/S",
+      "new_price_usd": 599.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "ibelink-bm-s1-max-siacoin-miner-12ths",
+      "name": "iBeLink BM S1 Max Siacoin Miner 12TH/S",
+      "new_price_usd": 1495.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "hammer-d10-litecoin-dogecoin-miner",
+      "name": "HAMMER D10+ Litecoin & Dogecoin Miner",
+      "new_price_usd": 4999.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-x5-850mhs-litecoin-dogecoin-miner",
+      "name": "Goldshell X5 850MH/S Litecoin & Dogecoin Miner",
+      "new_price_usd": 6500.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-sc6-se-17ths-with-220v-with-power-supply",
+      "name": "Goldshell SC6 SE 17Th/s with 220V With Power Supply",
+      "new_price_usd": 2808.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-sc-box-siacoin-miner-900ghs",
+      "name": "Goldshell SC-Box Siacoin Miner 900Gh/s",
+      "new_price_usd": 299.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-sc-box-ii-siacoin-miner-19ths",
+      "name": "Goldshell SC-Box II Siacoin Miner 1.9TH/S",
+      "new_price_usd": 346.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-mini-doge-ii-litecoin-dogecoin-miner",
+      "name": "Goldshell MINI DOGE II Litecoin & Dogecoin Miner",
+      "new_price_usd": 299.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-ck-lite-ckb-miner-63-ths",
+      "name": "Goldshell CK Lite CKB Miner 6.3 TH/S",
+      "new_price_usd": 452.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-lt5-pro-litecoin-dogecoin-miner-2450m",
+      "name": "Goldshell LT5 pro Litecoin & Dogecoin Miner 2450M",
+      "new_price_usd": 8200.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-lt-lite-litecoin-dogecoin-miner-162ghs",
+      "name": "Goldshell LT Lite Litecoin & Dogecoin Miner 1.62Gh/s",
+      "new_price_usd": 6188.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-lb-lite-lbry-credits-miner-162ths-bt-miners",
+      "name": "Goldshell LB Lite LBRY Credits Miner 1.62Th/s BT-MINERS",
+      "new_price_usd": 704.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-lb-box-lbry-credits-miner-175ghs",
+      "name": "Goldshell LB Box LBRY Credits Miner 175Gh/s",
+      "new_price_usd": 160.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-kd6-se-kadena-miner-253th",
+      "name": "Goldshell KD6 SE Kadena Miner 25.3Th",
+      "new_price_usd": 4179.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-kd6-kadena-miner-292ths",
+      "name": "Goldshell KD6 Kadena Miner 29.2Th/s",
+      "new_price_usd": 3999.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-kd5-pro-kda-miner-245ths",
+      "name": "Goldshell KD5 pro KDA miner 24.5Th/s",
+      "new_price_usd": 2100.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-kd5-kadena-miner-18ths",
+      "name": "Goldshell KD5 Kadena Miner 18Th/s",
+      "new_price_usd": 1998.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-kd-box-pro-kadena-miner-26ths",
+      "name": "Goldshell KD-Box Pro Kadena Miner 2.6Th/s",
+      "new_price_usd": 1299.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-kd-box-kadena-miner-16ths",
+      "name": "Goldshell KD-Box Kadena Miner 1.6Th/s",
+      "new_price_usd": 1320.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-kd-box-ii-kadena-miner-5ths",
+      "name": "Goldshell KD-Box II Kadena Miner 5Th/s",
+      "new_price_usd": 229.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-kd-max-kadena-miner-402ths",
+      "name": "Goldshell KD Max Kadena Miner 40.2Th/s",
+      "new_price_usd": 1900.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-kd-lite-kadena-miner-162ths",
+      "name": "Goldshell KD Lite Kadena Miner 16.2Th/s",
+      "new_price_usd": 849.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-hs6-se-hns-siacoin-miner",
+      "name": "Goldshell HS6 SE HNS & Siacoin Miner",
+      "new_price_usd": 1599.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-hs6-hns-siacoin-miner",
+      "name": "Goldshell HS6 HNS & Siacoin Miner",
+      "new_price_usd": 2314.29,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-hs5-handshake-siacoin-miner-54ths",
+      "name": "Goldshell HS5 Handshake & Siacoin Miner 5.4Th/s",
+      "new_price_usd": 737.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-hs-box-handshake-miner-235ghs",
+      "name": "Goldshell HS-Box Handshake Miner 235Gh/s",
+      "new_price_usd": 233.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-hs-lite-handshake-and-sia-miner-136-ths",
+      "name": "Goldshell HS Lite Handshake and Sia Miner 1.36 TH/S",
+      "new_price_usd": 814.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-ck6-ckb-miner-193ths",
+      "name": "Goldshell CK6 CKB Miner 19.3TH/S",
+      "new_price_usd": 1299.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-ck5-ckb-miner-12ths-with-power-supply",
+      "name": "Goldshell CK5 CKB Miner 12TH/S With Power Supply",
+      "new_price_usd": 1299.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-ck-box-ii-ckb-miner-21ths",
+      "name": "Goldshell CK-Box II CKB Miner 2.1Th/s",
+      "new_price_usd": 249.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "goldshell-ck-box-ckb-miner-105ths",
+      "name": "Goldshell CK-Box CKB Miner 1.05Th/s",
+      "new_price_usd": 248.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "forest-epu-xc-ethw-etc-miner-4250mhs",
+      "name": "Forest EPU XC ETHW & ETC Miner 4250Mh/s",
+      "new_price_usd": 4499.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "canaan-avalonminer-a1246-bitcoin-miner-96ths",
+      "name": "Canaan AvalonMiner A1246 Bitcoin Miner 96Th/s",
+      "new_price_usd": 1128.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "canaan-avalonminer-1126-pro-68-ths",
+      "name": "Canaan Avalonminer 1126 Pro 68 TH/s",
+      "new_price_usd": 1086.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "canaan-avalon-made-a1366-bitcoin-miner-130ths",
+      "name": "Canaan Avalon Made A1366 Bitcoin Miner 130TH/s",
+      "new_price_usd": 2850.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "canaan-avalon-made-a1346n-bitcoin-miner-104113ths",
+      "name": "Canaan Avalon Made A1346N Bitcoin Miner 104~113TH/s",
+      "new_price_usd": 1299.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "canaan-avalon-1166-pro-78ths",
+      "name": "Canaan Avalon 1166 Pro 78TH/s",
+      "new_price_usd": 820.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-z15-420ksols-equihash-miner",
+      "name": "Bitmain Antminer Z15 420KSol/s Equihash Miner",
+      "new_price_usd": 2800.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-t19-bitcoin-miner-84ths",
+      "name": "Bitmain Antminer T19 Bitcoin Miner 84TH/S",
+      "new_price_usd": 2900.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-s19j-pro-bitcoin-miner-96ths",
+      "name": "Bitmain Antminer S19j Pro Bitcoin Miner 96TH/S",
+      "new_price_usd": 584.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-s19j-pro-bitcoin-miner-92ths",
+      "name": "Bitmain Antminer S19j Pro Bitcoin Miner 92TH/S",
+      "new_price_usd": 350.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-s19j-pro-bitcoin-miner-88ths",
+      "name": "Bitmain Antminer S19j Pro Bitcoin Miner 88TH/S",
+      "new_price_usd": 320.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-s19j-pro-bitcoin-miner-104ths",
+      "name": "Bitmain Antminer S19j Pro Bitcoin Miner 104TH/S",
+      "new_price_usd": 616.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-s19j-pro-bitcoin-miner-100ths",
+      "name": "Bitmain Antminer S19j Pro Bitcoin Miner 100TH/S",
+      "new_price_usd": 600.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-s19j-pro-bitcoin-miner-117120ths",
+      "name": "Bitmain Antminer S19j Pro+ Bitcoin Miner 117~120TH/S",
+      "new_price_usd": 420.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-s19j-bitcoin-miner-90ths",
+      "name": "Bitmain Antminer S19j Bitcoin Miner 90TH/S",
+      "new_price_usd": 320.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-s19-bitcoin-miner-95ths",
+      "name": "Bitmain Antminer S19 Bitcoin Miner 95TH/S",
+      "new_price_usd": 320.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-s19-xp-bitcoin-miner-141ths",
+      "name": "Bitmain Antminer S19 XP Bitcoin Miner 141TH/s",
+      "new_price_usd": 380.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-s19-pro-bitcoin-miner-110ths",
+      "name": "Bitmain Antminer S19 Pro Bitcoin Miner 110TH/s",
+      "new_price_usd": 1599.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "innosilicon-a10-ethmaster-ethereum-miner-500mh",
+      "name": "Innosilicon A10 ETHMaster Ethereum Miner 500Mh",
+      "new_price_usd": 3150.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "ibelink-bm-s1-siacoin-miner-68ths",
+      "name": "iBeLink BM-S1 Siacoin Miner 6.8TH/S",
+      "new_price_usd": 1149.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-s19-hydro-158th-bitcoin-miner-with-power-supply",
+      "name": "Bitmain Antminer S19 Hydro (158Th) Bitcoin Miner with Power Supply",
+      "new_price_usd": 2000.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-l7-litecoin-dogecoin-miner",
+      "name": "Bitmain Antminer L7 Litecoin & DogeCoin Miner",
+      "new_price_usd": 680.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-e9-24ghs",
+      "name": "Bitmain Antminer E9 2.4Gh/s",
+      "new_price_usd": 3480.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-d9-dash-miner-1770-ghs",
+      "name": "Bitmain Antminer D9 Dash Miner 1770 Gh/s",
+      "new_price_usd": 1320.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-d7-dash-coin-miner-1286ths",
+      "name": "Bitmain Antminer D7 Dash Coin Miner 1.286Th/s",
+      "new_price_usd": 3600.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-e9-pro-386ghs",
+      "name": "Bitmain Antminer E9 Pro 3.86GH/s",
+      "new_price_usd": 1899.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-s19-pro-100ths",
+      "name": "Bitmain Antminer S19 Pro 100Th/s",
+      "new_price_usd": 620.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "antminer-t17-58t-bitcoin-miner-with-power-supply-bt-miner-stable-version",
+      "name": "Antminer T17+ 58T Bitcoin Miner with Power Supply | BT-Miner Stable Version",
+      "new_price_usd": 5550.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "antminer-s9-se-bitcoin-miner-16ths",
+      "name": "Antminer S9 SE  Bitcoin Miner 16Th/s",
+      "new_price_usd": 200.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "antminer-s17-pro-56th59th",
+      "name": "Antminer S17 pro 56TH/59TH",
+      "new_price_usd": 1699.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-ka3-kadena-miner-166ths",
+      "name": "Bitmain Antminer KA3 Kadena Miner 166TH/s",
+      "new_price_usd": 1100.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "antminer-k7-ckb-miner-635ths",
+      "name": "Antminer K7 CKB Miner 63.5Th/s",
+      "new_price_usd": 1800.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-hs3-handshake-miner-9ths",
+      "name": "Bitmain Antminer HS3 Handshake Miner 9TH/s",
+      "new_price_usd": 2299.0,
+      "used_price_usd": null,
+      "used_source": null
+    }
+  ]
+}
