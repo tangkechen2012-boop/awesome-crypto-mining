@@ -1,29 +1,29 @@
 {
-  "date": "2026-05-09",
+  "date": "2026-05-10",
   "coins": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
       "algo": "SHA-256",
-      "price_usd": 80426,
-      "volume_usd": 31656291022.2222,
-      "market_cap_usd": 1610433206680.705
+      "price_usd": 80778,
+      "volume_usd": 18301081528.099636,
+      "market_cap_usd": 1617630729267.6448
     },
     {
       "symbol": "ZEC",
       "name": "Zcash",
       "algo": "Equihash",
-      "price_usd": 623.66,
-      "volume_usd": 1062415773.0168513,
-      "market_cap_usd": 10381916201.293308
+      "price_usd": 608.92,
+      "volume_usd": 856175154.527947,
+      "market_cap_usd": 10161813617.929424
     },
     {
       "symbol": "XMR",
       "name": "Monero",
       "algo": "RandomX",
-      "price_usd": 410.96,
-      "volume_usd": 142004615.9503089,
-      "market_cap_usd": 7565252319.175562
+      "price_usd": 403.93,
+      "volume_usd": 122685689.45351909,
+      "market_cap_usd": 7451670628.402314
     }
   ]
 }
