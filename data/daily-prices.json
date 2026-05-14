@@ -1,10 +1,10 @@
 {
-  "date": "2026-05-13",
+  "date": "2026-05-14",
   "miners": [
     {
       "slug": "bitmain-antminer-s21plus-bitcoin-miner",
       "name": "Bitmain Antminer S21+Plus Bitcoin Miner",
-      "new_price_usd": 1520.0,
+      "new_price_usd": 1600.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -81,7 +81,7 @@
     {
       "slug": "pinecone-matches-inibox-pro-24-ghs-initverse-miner",
       "name": "Pinecone Matches INIBOX PRO 2.4 Gh/s InitVerse Miner",
-      "new_price_usd": 8599.0,
+      "new_price_usd": 7999.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -767,7 +767,7 @@
     {
       "slug": "bitmain-antminer-s21-bitcoin-miner",
       "name": "Bitmain Antminer S21+ Bitcoin Miner",
-      "new_price_usd": 1520.0,
+      "new_price_usd": 1600.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -802,7 +802,7 @@
     {
       "slug": "bitmain-antminer-s21e-xp-hyd-3u-bitcoin-miner-860ths",
       "name": "Bitmain Antminer S21e XP Hyd 3U Bitcoin Miner 860TH/S",
-      "new_price_usd": 10000.0,
+      "new_price_usd": 11500.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -970,14 +970,14 @@
     {
       "slug": "bitmain-antminer-s21-xp-hyd-bitcoin-miner-473th",
       "name": "Bitmain Antminer S21 XP Hyd Bitcoin Miner 473TH",
-      "new_price_usd": 5890.0,
+      "new_price_usd": 6150.0,
       "used_price_usd": null,
       "used_source": null
     },
     {
       "slug": "bitmain-antminer-s21-xp-bitcoin-miner-270ths",
       "name": "Bitmain Antminer S21 XP Bitcoin Miner 270TH/S",
-      "new_price_usd": 3450.0,
+      "new_price_usd": 3590.0,
       "used_price_usd": null,
       "used_source": null
     },
