@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-18",
+  "date": "2026-05-19",
   "miners": [
     {
       "slug": "bitmain-antminer-s21plus-bitcoin-miner",
@@ -382,7 +382,7 @@
     {
       "slug": "iceriver-ae1-lite-aleo-miner-300mhs",
       "name": "IceRiver AE1 LITE ALEO Miner 300Mh/s",
-      "new_price_usd": 1149.0,
+      "new_price_usd": 1090.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -982,8 +982,8 @@
       "used_source": null
     },
     {
-      "slug": "private-hammer-d12-litecoin-dogecoin-miner-4700mhs",
-      "name": "Private: HAMMER D12 Litecoin & Dogecoin Miner 4700Mh/s",
+      "slug": "hammer-d12-litecoin-dogecoin-miner-4700mhs",
+      "name": "HAMMER D12 Litecoin & Dogecoin Miner 4700Mh/s",
       "new_price_usd": 4999.0,
       "used_price_usd": null,
       "used_source": null
@@ -1346,9 +1346,9 @@
       "used_source": null
     },
     {
-      "slug": "bitmain-z15-pro-zcash-miner",
-      "name": "Bitmain Z15 Pro Zcash Miner",
-      "new_price_usd": 1600.0,
+      "slug": "bitmain-antminer-z15-pro-zcash-miner-840ksol",
+      "name": "Bitmain Antminer Z15 Pro Zcash Miner 840KSol",
+      "new_price_usd": 4300.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -1829,8 +1829,8 @@
       "used_source": null
     },
     {
-      "slug": "bitmain-antminer-z15-zec-miner",
-      "name": "Bitmain Antminer Z15 ZEC Miner",
+      "slug": "bitmain-antminer-z15-420ksols-equihash-miner",
+      "name": "Bitmain Antminer Z15 420KSol/s Equihash Miner",
       "new_price_usd": 3600.0,
       "used_price_usd": null,
       "used_source": null
@@ -1936,7 +1936,7 @@
     {
       "slug": "bitmain-antminer-l7-litecoin-dogecoin-miner",
       "name": "Bitmain Antminer L7 Litecoin & DogeCoin Miner",
-      "new_price_usd": 710.0,
+      "new_price_usd": 680.0,
       "used_price_usd": null,
       "used_source": null
     },
