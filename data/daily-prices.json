@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-20",
+  "date": "2026-05-21",
   "miners": [
     {
       "slug": "bitmain-antminer-s21plus-bitcoin-miner",
@@ -1348,7 +1348,7 @@
     {
       "slug": "bitmain-z15-pro-zcash-miner",
       "name": "Bitmain Z15 Pro Zcash Miner",
-      "new_price_usd": 5350.0,
+      "new_price_usd": 3800.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -1950,7 +1950,7 @@
     {
       "slug": "bitmain-antminer-d9-dash-miner-1770-ghs",
       "name": "Bitmain Antminer D9 Dash Miner 1770 Gh/s",
-      "new_price_usd": 1320.0,
+      "new_price_usd": 1350.0,
       "used_price_usd": null,
       "used_source": null
     },
