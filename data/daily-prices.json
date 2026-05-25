@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-24",
+  "date": "2026-05-25",
   "miners": [
     {
       "slug": "bitmain-antminer-s21plus-bitcoin-miner",
@@ -81,7 +81,7 @@
     {
       "slug": "pinecone-matches-inibox-pro-24-ghs-initverse-miner",
       "name": "Pinecone Matches INIBOX PRO 2.4 Gh/s InitVerse Miner",
-      "new_price_usd": 7999.0,
+      "new_price_usd": 5200.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -970,14 +970,14 @@
     {
       "slug": "bitmain-antminer-s21-xp-hyd-bitcoin-miner-473th",
       "name": "Bitmain Antminer S21 XP Hyd Bitcoin Miner 473TH",
-      "new_price_usd": 6150.0,
+      "new_price_usd": 6250.0,
       "used_price_usd": null,
       "used_source": null
     },
     {
       "slug": "bitmain-antminer-s21-xp-bitcoin-miner-270ths",
       "name": "Bitmain Antminer S21 XP Bitcoin Miner 270TH/S",
-      "new_price_usd": 3590.0,
+      "new_price_usd": 2565.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -1348,7 +1348,7 @@
     {
       "slug": "bitmain-z15-pro-zcash-miner",
       "name": "Bitmain Z15 Pro Zcash Miner",
-      "new_price_usd": 3800.0,
+      "new_price_usd": 4900.0,
       "used_price_usd": null,
       "used_source": null
     },
