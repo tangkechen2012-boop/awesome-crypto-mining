@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-26",
+  "date": "2026-05-27",
   "miners": [
     {
       "slug": "bitmain-antminer-s21plus-bitcoin-miner",
@@ -277,7 +277,7 @@
     {
       "slug": "bitmain-antminer-l11-20ghs-scrypt-miner-for-ltc-doge",
       "name": "Bitmain Antminer L11 20GH/s Scrypt Miner for LTC & DOGE",
-      "new_price_usd": 7550.0,
+      "new_price_usd": 6200.0,
       "used_price_usd": null,
       "used_source": null
     },
