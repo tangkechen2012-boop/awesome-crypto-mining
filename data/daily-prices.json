@@ -1,6 +1,13 @@
 {
-  "date": "2026-05-27",
+  "date": "2026-05-28",
   "miners": [
+    {
+      "slug": "iceriver-xp-xp0-150ghs-xphash-xphere-miner",
+      "name": "ICERIVER XP XP0 150GH/s XPHash Xphere Miner",
+      "new_price_usd": 949.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
     {
       "slug": "bitmain-antminer-s21plus-bitcoin-miner",
       "name": "Bitmain Antminer S21+Plus Bitcoin Miner",
@@ -452,7 +459,7 @@
     {
       "slug": "iceriver-ae3-aleo-miner-2ghs",
       "name": "IceRiver AE3 ALEO Miner 2Gh/s",
-      "new_price_usd": 5450.0,
+      "new_price_usd": 5999.0,
       "used_price_usd": null,
       "used_source": null
     },
