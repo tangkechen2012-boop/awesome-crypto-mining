@@ -1,10 +1,10 @@
 {
-  "date": "2026-05-28",
+  "date": "2026-05-29",
   "miners": [
     {
-      "slug": "iceriver-xp-xp0-150ghs-xphash-xphere-miner",
-      "name": "ICERIVER XP XP0 150GH/s XPHash Xphere Miner",
-      "new_price_usd": 949.0,
+      "slug": "iceriver-xp0-150ghs-xp-xphere-miner",
+      "name": "ICERIVER XP0 150GH/s XP Xphere Miner",
+      "new_price_usd": 1590.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -1355,7 +1355,7 @@
     {
       "slug": "bitmain-z15-pro-zcash-miner",
       "name": "Bitmain Z15 Pro Zcash Miner",
-      "new_price_usd": 4900.0,
+      "new_price_usd": 4100.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -1838,7 +1838,7 @@
     {
       "slug": "bitmain-antminer-z15-zec-miner",
       "name": "Bitmain Antminer Z15 ZEC Miner",
-      "new_price_usd": 3600.0,
+      "new_price_usd": 4900.0,
       "used_price_usd": null,
       "used_source": null
     },
