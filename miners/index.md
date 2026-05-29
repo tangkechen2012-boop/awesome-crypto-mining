@@ -1,105 +1,91 @@
 # ⛏️ Miner Profitability Rankings
 
-> **Last updated:** 2026-05-28 | **Electricity cost:** $0.06/kWh | **Source:** bt-miners.com API
+> **Last updated:** 2026-05-29 | **Electricity cost:** $0.06/kWh | **Source:** bt-miners.com API
 
 <!-- AUTO-UPDATED BY GITHUB ACTIONS -->
 
 | Rank | Miner | Coin | Daily Profit | Monthly | Hashrate | Power | Details |
 |------|-------|------|-------------|---------|----------|-------|---------|
-| 1 | IceRiver AE3 ALEO Miner 2Gh/s | ALEO | $230.58 | $6917.40 | 2Gh | 3,400W | [View](miners/specs/iceriver-ae3-aleo-miner-2ghs.md) |
-| 2 | IceRiver AE2 ALEO Miner 720Mh/s | ALEO | $82.86 | $2485.80 | 720Mh | 1,300W | [View](miners/specs/iceriver-ae2-aleo-miner-720mhs.md) |
-| 3 | Goldshell AE MAX II ALEO Miner 540Mh/s | ALEO | $57.87 | $1736.10 | 540Mh | 3,200W | [View](miners/specs/goldshell-ae-max-ii-aleo-miner-540mhs.md) |
-| 4 | Bitmain Z15 Pro Zcash Miner | ZEC | $38.83 | $1164.90 | 840Kh | 2,780W | [View](miners/specs/bitmain-z15-pro-zcash-miner.md) |
-| 5 | Goldshell AE MAX ALEO Miner 360Mh/s | ALEO | $36.34 | $1090.20 | 360Mh | 3,300W | [View](miners/specs/goldshell-ae-max-aleo-miner-360mhs.md) |
-| 6 | IceRiver AE1 LITE ALEO Miner 300Mh/s | ALEO | $34.61 | $1038.30 | 300Mh | 500W | [View](miners/specs/iceriver-ae1-lite-aleo-miner-300mhs.md) |
-| 7 | Bitmain Antminer X9 Monero Miner 1M | XMR | $28.43 | $852.90 | 1Mh | 2,472W | [View](miners/specs/bitmain-antminer-x9-monero-miner-1m.md) |
-| 8 | Goldshell E-AE1M ALEO Miner 230Mh/s | ALEO | $23.43 | $702.90 | 230Mh | 2,000W | [View](miners/specs/goldshell-e-ae1m-aleo-miner-230mhs.md) |
-| 9 | Bitmain Antminer Z15 ZEC Miner | ZEC | $19.19 | $575.70 | 420Kh | 1,510W | [View](miners/specs/bitmain-antminer-z15-zec-miner.md) |
-| 10 | Bitmain Antminer S23 Hyd 3U Bitcoin Miner 1.16PH/S | BTC+FB+NMC | $18.83 | $564.90 | 1160Th | 11,020W | [View](miners/specs/bitmain-antminer-s23-hyd-3u-bitcoin-miner-116phs.md) |
-| 11 | Bitmain Antminer S23e U2H Bitcoin Miner 865TH/S | BTC+FB+NMC | $13.21 | $396.30 | 865Th | 8,650W | [View](miners/specs/bitmain-antminer-s23e-u2h-bitcoin-miner-865ths.md) |
-| 12 | Bitmain Antminer S23 Hyd Bitcoin Miner 580TH | BTC+FB+NMC | $9.42 | $282.60 | 580Th | 5,510W | [View](miners/specs/bitmain-antminer-s23-hyd-bitcoin-miner-580th.md) |
-| 13 | Bitmain Antminer S21e XP Hyd 3U Bitcoin Miner 860TH/S | BTC+FB+NMC | $8.18 | $245.40 | 860Th | 11,180W | [View](miners/specs/bitmain-antminer-s21e-xp-hyd-3u-bitcoin-miner-860ths.md) |
-| 14 | MicroBT Whatsminer M79S Hydro Bitcoin Miner 1.35PH/s | BTC+FB+NMC | $8.14 | $244.20 | 1350Th | 20,000W | [View](miners/specs/microbt-whatsminer-m79s-hydro-bitcoin-miner-135phs.md) |
-| 15 | Jasminer X44-P Ethereum Classic Miner 23.4Gh/s | ETC | $8.08 | $242.40 | 23.4Gh | 2,550W | [View](miners/specs/jasminer-x44-p-ethereum-classic-miner-234ghs.md) |
-| 16 | IceRiver AE0 ALEO Miner 60Mh/s | ALEO | $6.92 | $207.60 | 60Mh | 100W | [View](miners/specs/iceriver-ae0-aleo-miner-60mhs.md) |
-| 17 | Bitdeer SealMiner A3 Pro Hyd Bitcoin Miner 660TH/S | BTC+FB+NMC | $6.91 | $207.30 | 660Th | 8,250W | [View](miners/specs/bitdeer-sealminer-a3-pro-hyd-bitcoin-miner-660ths.md) |
-| 18 | Bitmain Antminer S21 XP+ Hyd Bitcoin Miner 500TH/s | BTC+FB+NMC | $6.68 | $200.40 | 500Th | 5,500W | [View](miners/specs/bitmain-antminer-s21-xp-hyd-bitcoin-miner-500ths.md) |
-| 19 | Bitmain Antminer L11 Hyd 2U 35G Litecoin & Dogecoin Miner | LTC+DOGE+BEL+LKY+PEP+JKC+DINGO | $6.47 | $194.10 | 35Gh | 5,775W | [View](miners/specs/bitmain-antminer-l11-hyd-2u-35g-litecoin-dogecoin-miner.md) |
-| 20 | Bitmain Antminer L11 HU6 Litecoin & Dogecoin Miner | LTC+DOGE+BEL+LKY+PEP+JKC+DINGO | $5.65 | $169.50 | 33Gh | 5,676W | [View](miners/specs/bitmain-antminer-l11-hu6-litecoin-dogecoin-miner.md) |
-| 21 | Bitdeer SealMiner DL1 Air 25Gh/s Litecoin & Dogecoin Miner | LTC+DOGE+BEL+LKY+PEP+JKC+DINGO | $5.58 | $167.40 | 25Gh | 3,625W | [View](miners/specs/bitdeer-sealminer-dl1-air-25ghs-litecoin-dogecoin-miner.md) |
-| 22 | Bitmain Antminer S21 XP Hyd Bitcoin Miner 473TH | BTC+FB+NMC | $5.41 | $162.30 | 473Th | 5,676W | [View](miners/specs/bitmain-antminer-s21-xp-hyd-bitcoin-miner-473th.md) |
-| 23 | Goldshell AE BOX II ALEO Miner 54Mh/s | ALEO | $5.38 | $161.40 | 54Mh | 530W | [View](miners/specs/goldshell-ae-box-ii-aleo-miner-54mhs.md) |
-| 24 | Bitmain Antminer S23 Imm Bitcoin Miner 442TH/S | BTC+FB+NMC | $5.06 | $151.80 | 442Th | 5,304W | [View](miners/specs/bitmain-antminer-s23-imm-bitcoin-miner-442ths.md) |
-| 25 | Bitmain Antminer X5 Monero Miner 212K | XMR | $4.44 | $133.20 | 212Kh | 1,350W | [View](miners/specs/bitmain-antminer-x5-monero-miner-212k.md) |
-| 26 | Goldshell AE BOX PRO ALEO Miner 44Mh/s | ALEO | $4.33 | $129.90 | 44Mh | 460W | [View](miners/specs/goldshell-ae-box-pro-aleo-miner-44mhs.md) |
-| 27 | Bitdeer SealMiner A3 Hyd Bitcoin Miner 500TH/S | BTC+FB+NMC | $4.28 | $128.40 | 500Th | 6,750W | [View](miners/specs/bitdeer-sealminer-a3-hyd-bitcoin-miner-500ths.md) |
-| 28 | Bitmain Antminer S23 Bitcoin Miner 318TH/S | BTC+FB+NMC | $4.25 | $127.50 | 318Th | 3,498W | [View](miners/specs/bitmain-antminer-s23-bitcoin-miner-318ths.md) |
-| 29 | Bitmain Antminer S21e XP Hyd Bitcoin Miner 430TH | BTC+FB+NMC | $4.09 | $122.70 | 430Th | 5,590W | [View](miners/specs/bitmain-antminer-s21e-xp-hyd-bitcoin-miner-430th.md) |
-| 30 | MicroBT Whatsminer M79 Hydro Bitcoin Miner 920TH/s | BTC+FB+NMC | $3.88 | $116.40 | 920Th | 14,500W | [View](miners/specs/microbt-whatsminer-m79-hydro-bitcoin-miner-920ths.md) |
-| 31 | iPollo G1 Grin Coin Miner 36GH/S | MWC | $3.78 | $113.40 | 126H | 2,800W | [View](miners/specs/ipollo-g1-grin-coin-miner-36ghs.md) |
-| 32 | Goldshell AE BOX ALEO Miner 37Mh/s | ALEO | $3.70 | $111.00 | 37Mh | 360W | [View](miners/specs/goldshell-ae-box-aleo-miner-37mhs.md) |
-| 33 | Bitmain Antminer L11 Pro Litecoin & Dogecoin Miner | LTC+DOGE+BEL+LKY+PEP+JKC+DINGO | $3.60 | $108.00 | 21Gh | 3,612W | [View](miners/specs/bitmain-antminer-l11-pro-litecoin-dogecoin-miner.md) |
-| 34 | Bitmain Antminer D9 Dash Miner 1770 Gh/s | DASH | $3.33 | $99.90 | 1.77Th | 2,839W | [View](miners/specs/bitmain-antminer-d9-dash-miner-1770-ghs.md) |
-| 35 | VolcMiner D3 Litecoin & Dogecoin Miner | LTC+DOGE+BEL+LKY+PEP+JKC+DINGO | $3.16 | $94.80 | 20Gh | 3,580W | [View](miners/specs/volcminer-d3-litecoin-dogecoin-miner.md) |
-| 36 | Bitdeer SealMiner A3 PRO AIR Bitcoin Miner 290TH/S | BTC+FB+NMC | $3.04 | $91.20 | 290Th | 3,625W | [View](miners/specs/bitdeer-sealminer-a3-pro-air-bitcoin-miner-290ths.md) |
-| 37 | Bitmain Antminer L11 20GH/s Scrypt Miner for LTC & DOGE | LTC+DOGE+BEL+LKY+PEP+JKC+DINGO | $2.97 | $89.10 | 20Gh | 3,680W | [View](miners/specs/bitmain-antminer-l11-20ghs-scrypt-miner-for-ltc-doge.md) |
-| 38 | Canaan AvalonMiner A16XP-300T Bitcoin Miner | BTC+FB+NMC | $2.95 | $88.50 | 300Th | 3,850W | [View](miners/specs/canaan-avalonminer-a16xp-300t-bitcoin-miner.md) |
-| 39 | Bitdeer SealMiner A2 Pro Hyd Bitcoin Miner 500TH/S | BTC+FB+NMC | $2.93 | $87.90 | 500Th | 7,450W | [View](miners/specs/bitdeer-sealminer-a2-pro-hyd-bitcoin-miner-500ths.md) |
-| 40 | ElphaPex DG2+ Litecoin & Dogecoin Miner 20.5GH/s | LTC+DOGE+BEL+LKY+PEP+JKC+DINGO | $2.79 | $83.70 | 20.5Gh | 3,900W | [View](miners/specs/elphapex-dg2-litecoin-dogecoin-miner-205ghs.md) |
-| 41 | iPollo V2 ETHW & ETC Miner 10Gh/s | ETC | $2.67 | $80.10 | 10Gh | 1,500W | [View](miners/specs/ipollo-v2-ethw-etc-miner-10ghs.md) |
-| 42 | Bitmain Antminer L9 Hyd 2U Litecoin & Dogecoin Miner | LTC+DOGE+BEL+LKY+PEP+JKC+DINGO | $2.66 | $79.80 | 27Gh | 5,670W | [View](miners/specs/bitmain-antminer-l9-hyd-2u-litecoin-dogecoin-miner.md) |
-| 43 | Bitmain Antminer S21 XP Imm Bitcoin Miner 300TH/S | BTC+FB+NMC | $2.57 | $77.10 | 300Th | 4,050W | [View](miners/specs/bitmain-antminer-s21-xp-imm-bitcoin-miner-300ths.md) |
-| 44 | Bombax EZ100 Ethereum Classic Miner 12500MH/s | ETC | $2.52 | $75.60 | 12.5Gh | 2,300W | [View](miners/specs/bombax-ez100-ethereum-classic-miner-12500mhs.md) |
-| 45 | Bombax EZ100 Pro Ethereum Classic Miner 15000MH/s | ETC | $2.37 | $71.10 | 15Gh | 3,100W | [View](miners/specs/bombax-ez100-pro-ethereum-classic-miner-15000mhs.md) |
-| 46 | VolcMiner D1 Pro Litecoin & Dogecoin Miner | LTC+DOGE+BEL+LKY+PEP+JKC+DINGO | $2.31 | $69.30 | 18Gh | 3,500W | [View](miners/specs/volcminer-d1-pro-litecoin-dogecoin-miner.md) |
-| 47 | Bitmain Antminer S21 XP Bitcoin Miner 270TH/S | BTC+FB+NMC | $2.31 | $69.30 | 270Th | 3,645W | [View](miners/specs/bitmain-antminer-s21-xp-bitcoin-miner-270ths.md) |
-| 48 | Canaan AvalonMiner A16 282T Bitcoin Miner | BTC+FB+NMC | $2.23 | $66.90 | 282Th | 3,900W | [View](miners/specs/canaan-avalonminer-a16-282t-bitcoin-miner.md) |
-| 49 | Bitdeer SealMiner A3 Air Bitcoin Miner 260TH/S | BTC+FB+NMC | $1.98 | $59.40 | 260Th | 3,640W | [View](miners/specs/bitdeer-sealminer-a3-air-bitcoin-miner-260ths.md) |
-| 50 | Bitmain Antminer S21+ Hyd Bitcoin Miner 319TH/s | BTC+FB+NMC | $1.81 | $54.30 | 319Th | 4,785W | [View](miners/specs/bitmain-antminer-s21-hyd-bitcoin-miner-319ths.md) |
-| 51 | Bitmain Antminer S21 Hyd Bitcoin Miner 335TH/s | BTC+FB+NMC | $1.75 | $52.50 | 335Th | 5,104W | [View](miners/specs/bitmain-antminer-s21-hyd-bitcoin-miner-335ths.md) |
-| 52 | Bitmain Antminer L9 Litecoin & Dogecoin Miner | LTC+DOGE+BEL+LKY+PEP+JKC+DINGO | $1.67 | $50.10 | 17Gh | 3,570W | [View](miners/specs/bitmain-antminer-l9-litecoin-dogecoin-miner.md) |
-| 53 | MicroBT Whatsminer M66S++ 348Th/s Bitcoin Miner | BTC+FB+NMC | $1.64 | $49.20 | 348Th | 5,394W | [View](miners/specs/microbt-whatsminer-m66s-348ths-bitcoin-miner.md) |
-| 54 | Pinecone Matches INIBOX PRO 2.4 Gh/s InitVerse Miner | INITVERSE | $1.59 | $47.70 | 2.4Gh | 1,280W | [View](miners/specs/pinecone-matches-inibox-pro-24-ghs-initverse-miner.md) |
-| 55 | Bitdeer SealMiner A2 PRO AIR Bitcoin Miner 255TH/S | BTC+FB+NMC | $1.51 | $45.30 | 255Th | 3,790W | [View](miners/specs/bitdeer-sealminer-a2-pro-air-bitcoin-miner-255ths.md) |
-| 56 | FLUMINERL3 Litecoin & Dogecoin Miner 9.5GH/s | LTC+DOGE+BEL+LKY+PEP+JKC+DINGO | $1.50 | $45.00 | 9.5Gh | 1,700W | [View](miners/specs/fluminerl3-litecoin-dogecoin-miner-95ghs.md) |
-| 57 | Bitmain Antminer S21 Pro+ 234TH/S Bitcoin Miner | BTC+FB+NMC | $1.33 | $39.90 | 234Th | 3,510W | [View](miners/specs/bitmain-antminer-s21-pro-234ths-bitcoin-miner.md) |
-| 58 | Bitmain Antminer S21 Pro Bitcoin Miner 234TH/S | BTC+FB+NMC | $1.33 | $39.90 | 234Th | 3,510W | [View](miners/specs/bitmain-antminer-s21-pro-bitcoin-miner-234ths.md) |
-| 59 | Bitmain Antminer KS7 Kaspa Miner 36Th/s | KAS | $1.29 | $38.70 | 36Th | 2,772W | [View](miners/specs/bitmain-antminer-ks7-kaspa-miner-36ths.md) |
-| 60 | ElphaPex DG2 16 GH/s Scrypt Miner | LTC+DOGE+BEL+LKY+PEP+JKC+DINGO | $1.27 | $38.10 | 16Gh | 3,520W | [View](miners/specs/elphapex-dg2-16-ghs-scrypt-miner.md) |
-| 61 | Bitdeer SealMiner A2 Hyd Bitcoin Miner 446TH/S | BTC+FB+NMC | $1.25 | $37.50 | 446Th | 7,360W | [View](miners/specs/bitdeer-sealminer-a2-hyd-bitcoin-miner-446ths.md) |
-| 62 | Canaan Avalon A1566HA 2U 480T Bitcoin Hydro Miner | BTC+FB+NMC | $1.07 | $32.10 | 480Th | 8,064W | [View](miners/specs/canaan-avalon-a1566ha-2u-480t-bitcoin-hydro-miner.md) |
-| 63 | MicroBT Whatsminer M60S++ Bitcoin Miner 226TH/s | BTC+FB+NMC | $0.88 | $26.40 | 226Th | 3,600W | [View](miners/specs/microbt-whatsminer-m60s-bitcoin-miner-226ths.md) |
-| 64 | Whatsminer M63S+ Hydro Bitcoin Miner 450TH/s | BTC+FB+NMC | $0.83 | $24.90 | 450Th | 7,650W | [View](miners/specs/whatsminer-m63s-hydro-bitcoin-miner-450ths.md) |
-| 65 | Goldshell XT BOX XTM (Tari) Miner 580Gh/s | XTM | $0.77 | $23.10 | 580Gh | 400W | [View](miners/specs/goldshell-xt-box-xtm-tari-miner-580ghs.md) |
-| 66 | FLUMINER T3 Bitcoin Miner 115TH/S | BTC+FB+NMC | $0.70 | $21.00 | 115Th | 1,700W | [View](miners/specs/fluminer-t3-bitcoin-miner-115ths.md) |
-| 67 | VolcMiner D1 Hydro Litecoin & Dogecoin Miner 30G/s 33Gh/s 7600W | LTC+DOGE+BEL+LKY+PEP+JKC+DINGO | $0.66 | $19.80 | 30.4Gh | 7,600W | [View](miners/specs/volcminer-d1-hydro-litecoin-dogecoin-miner-30gs-33ghs-7600w.md) |
-| 68 | XuanMiner C1 Ethereum Classic Miner 12600Mh/s | ETC | $0.65 | $19.50 | 12.6Gh | 3,300W | [View](miners/specs/xuanminer-c1-ethereum-classic-miner-12600mhs.md) |
-| 69 | Bombax EZ100-C Ethereum Classic Miner 3800MH/s | ETC | $0.65 | $19.50 | 3.8Gh | 760W | [View](miners/specs/bombax-ez100-c-ethereum-classic-miner-3800mhs.md) |
-| 70 | Bitdeer SealMiner A2 Air Bitcoin Miner 226TH/S | BTC+FB+NMC | $0.63 | $18.90 | 226Th | 3,729W | [View](miners/specs/bitdeer-sealminer-a2-air-bitcoin-miner-226ths.md) |
-| 71 | Bitmain Antminer S21+Plus Bitcoin Miner | BTC+FB+NMC | $0.60 | $18.00 | 216Th | 3,564W | [View](miners/specs/bitmain-antminer-s21plus-bitcoin-miner.md) |
-| 72 | Bitmain Antminer S21+ Bitcoin Miner | BTC+FB+NMC | $0.60 | $18.00 | 216Th | 3,564W | [View](miners/specs/bitmain-antminer-s21-bitcoin-miner.md) |
-| 73 | VolcMiner D1 Litecoin & Dogecoin Miner | LTC+DOGE+BEL+LKY+PEP+JKC+DINGO | $0.54 | $16.20 | 16Gh | 3,900W | [View](miners/specs/volcminer-d1-litecoin-dogecoin-miner.md) |
-| 74 | Bitmain Antminer S21e Hyd Bitcoin Miner 288TH | BTC+FB+NMC | $0.53 | $15.90 | 288Th | 4,896W | [View](miners/specs/bitmain-antminer-s21e-hyd-bitcoin-miner-288th.md) |
-| 75 | Goldshell BYTE ALEO & DOGE & ALPH & XTM（Tari） Coin Miner | ALEO+DOGE+LTC+BEL | $0.53 | $15.90 | 5.5Mh | 65W | [View](miners/specs/goldshell-byte-aleo-doge-alph-xtmtari-coin-miner.md) |
-| 76 | Bitmain Antminer E11 9.5Gh/s | ETC | $0.53 | $15.90 | 9.5Gh | 2,470W | [View](miners/specs/bitmain-antminer-e11-95ghs.md) |
-| 77 | Whatsminer M63S Hydro Bitcoin Miner 416TH/s | BTC+FB+NMC | $0.49 | $14.70 | 416Th | 7,215W | [View](miners/specs/whatsminer-m63s-hydro-bitcoin-miner-416ths.md) |
-| 78 | Pinecone Matches INIBOX 850 Mh/s InitVerse Miner | INITVERSE | $0.48 | $14.40 | 850Mh | 500W | [View](miners/specs/pinecone-matches-inibox-850-mhs-initverse-miner.md) |
-| 79 | Canaan Avalon A15 Pro 218T Bitcoin Miner | BTC+FB+NMC | $0.48 | $14.40 | 218Th | 3,662W | [View](miners/specs/canaan-avalon-a15-pro-218t-bitcoin-miner.md) |
-| 80 | iPollo V2H Ethereum Classic Coin Miner 3400MH/s | ETC | $0.45 | $13.50 | 3.4Gh | 750W | [View](miners/specs/ipollo-v2h-ethereum-classic-coin-miner-3400mhs.md) |
-| 81 | Whatsminer M60S+ Bitcoin Miner 202TH/s | BTC+FB+NMC | $0.36 | $10.80 | 202Th | 3,441W | [View](miners/specs/whatsminer-m60s-bitcoin-miner-202ths.md) |
-| 82 | iPollo V2X ETHW & ETC Miner 1200Mh/s | ETC | $0.35 | $10.50 | 1.2Gh | 165W | [View](miners/specs/ipollo-v2x-ethw-etc-miner-1200mhs.md) |
-| 83 | FLUMINER L1 Litecoin & Dogecoin Miner 5.3GH/s | LTC+DOGE+BEL+LKY+PEP+JKC+DINGO | $0.35 | $10.50 | 5.3Gh | 1,200W | [View](miners/specs/fluminer-l1-litecoin-dogecoin-miner-53ghs.md) |
-| 84 | Bitmain Antminer D7 Dash Coin Miner 1.286Th/s | DASH | $0.33 | $9.90 | 1.29Th | 3,148W | [View](miners/specs/bitmain-antminer-d7-dash-coin-miner-1286ths.md) |
-| 85 | Fluminer L1 Pro 6Gh/s Litecoin & Dogecoin Miner | LTC+DOGE+BEL+LKY+PEP+JKC+DINGO | $0.32 | $9.60 | 6Gh | 1,400W | [View](miners/specs/fluminer-l1-pro-6ghs-litecoin-dogecoin-miner.md) |
-| 86 | ElphaPex DG2 Mini Litecoin & Dogecoin Miner 2.4GH/s | LTC+DOGE+BEL+LKY+PEP+JKC+DINGO | $0.19 | $5.70 | 2.4Gh | 530W | [View](miners/specs/elphapex-dg2-mini-litecoin-dogecoin-miner-24ghs.md) |
-| 87 | Bitmain Antminer S21 Bitcoin Miner 200TH/S | BTC+FB+NMC | $0.18 | $5.40 | 200Th | 3,500W | [View](miners/specs/bitmain-antminer-s21-bitcoin-miner-200ths.md) |
-| 88 | VolcMiner D1 Mini Pre Litecoin & Dogecoin Miner 2.2Gh/s | LTC+DOGE+BEL+LKY+PEP+JKC+DINGO | $0.14 | $4.20 | 2.2Gh | 500W | [View](miners/specs/volcminer-d1-mini-pre-litecoin-dogecoin-miner-22ghs.md) |
-| 89 | Jasminer X16-Q Pro Ethereum Classic Miner 2050Mh/s | ETC | $0.12 | $3.60 | 2.05Gh | 530W | [View](miners/specs/jasminer-x16-q-pro-ethereum-classic-miner-2050mhs.md) |
-| 90 | Bitaxe Supra Hex 701 4.2TH/s Bitcoin Miner | BTC+FB+NMC | $0.11 | $3.30 | 4.2Th | 17W | [View](miners/specs/bitaxe-supra-hex-701-42ths-bitcoin-miner.md) |
-| 91 | iPollo G1 Mini Grin Coin Miner 1.2G/s | MWC | $0.07 | $2.10 | 4.2H | 120W | [View](miners/specs/ipollo-g1-mini-grin-coin-miner-12gs.md) |
-| 92 | Bitaxe Gamma 800 Bitcoin Miner 2.55TH/s | BTC+FB+NMC | $0.06 | $1.80 | 2.55Th | 17W | [View](miners/specs/bitaxe-gamma-800-bitcoin-miner-255ths.md) |
-| 93 | FLUMINER L2 Litecoin &Dogecoin Miner 1GH/s | LTC+DOGE+BEL+LKY+PEP+JKC+DINGO | $0.06 | $1.80 | 1Gh | 230W | [View](miners/specs/fluminer-l2-litecoin-dogecoin-miner-1ghs.md) |
-| 94 | NerdMiner NerdOCTAxe 9.6Th/s Bitcoin Solo Miner | BTC+FB+NMC | $0.02 | $0.60 | 9.6Th | 160W | [View](miners/specs/nerdminer-nerdoctaxe-96ths-bitcoin-solo-miner.md) |
-| 95 | NerdMiner NerdQaxe++ Hydro Rev 6.1 6TH/s Bitcoin Solo Miner | BTC+FB+NMC | $0.01 | $0.30 | 6Th | 103W | [View](miners/specs/nerdminer-nerdqaxe-hydro-rev-61-6ths-bitcoin-solo-miner.md) |
-| 96 | NerdMiner NerdQaxe++ Rev 6.1 6Th/s Bitcoin Miner | BTC+FB+NMC | $0.01 | $0.30 | 6Th | 103W | [View](miners/specs/nerdminer-nerdqaxe-rev-61-6ths-bitcoin-miner.md) |
-| 97 | Bitaxe Gamma 601 Bitcoin Miner 1.2TH/s | BTC+FB+NMC | $0.01 | $0.30 | 1.2Th | 17W | [View](miners/specs/bitaxe-gamma-601-bitcoin-miner-12ths.md) |
+| 1 | Bitmain Z15 Pro Zcash Miner | ZEC | $38.63 | $1158.90 | 840Kh | 2,780W | [View](miners/specs/bitmain-z15-pro-zcash-miner.md) |
+| 2 | Bitmain Antminer X9 Monero Miner 1M | XMR | $23.65 | $709.50 | 1Mh | 2,472W | [View](miners/specs/bitmain-antminer-x9-monero-miner-1m.md) |
+| 3 | Bitmain Antminer Z15 ZEC Miner | ZEC | $19.08 | $572.40 | 420Kh | 1,510W | [View](miners/specs/bitmain-antminer-z15-zec-miner.md) |
+| 4 | Bitmain Antminer S23 Hyd 3U Bitcoin Miner 1.16PH/S | BTC+FB+NMC | $18.22 | $546.60 | 1160Th | 11,020W | [View](miners/specs/bitmain-antminer-s23-hyd-3u-bitcoin-miner-116phs.md) |
+| 5 | Bitmain Antminer S23e U2H Bitcoin Miner 865TH/S | BTC+FB+NMC | $12.75 | $382.50 | 865Th | 8,650W | [View](miners/specs/bitmain-antminer-s23e-u2h-bitcoin-miner-865ths.md) |
+| 6 | Bitmain Antminer S23 Hyd Bitcoin Miner 580TH | BTC+FB+NMC | $9.11 | $273.30 | 580Th | 5,510W | [View](miners/specs/bitmain-antminer-s23-hyd-bitcoin-miner-580th.md) |
+| 7 | Bitmain Antminer S21e XP Hyd 3U Bitcoin Miner 860TH/S | BTC+FB+NMC | $7.73 | $231.90 | 860Th | 11,180W | [View](miners/specs/bitmain-antminer-s21e-xp-hyd-3u-bitcoin-miner-860ths.md) |
+| 8 | MicroBT Whatsminer M79S Hydro Bitcoin Miner 1.35PH/s | BTC+FB+NMC | $7.42 | $222.60 | 1350Th | 20,000W | [View](miners/specs/microbt-whatsminer-m79s-hydro-bitcoin-miner-135phs.md) |
+| 9 | Jasminer X44-P Ethereum Classic Miner 23.4Gh/s | ETC | $7.41 | $222.30 | 23.4Gh | 2,550W | [View](miners/specs/jasminer-x44-p-ethereum-classic-miner-234ghs.md) |
+| 10 | Bitmain Antminer L11 Hyd 2U 35G Litecoin & Dogecoin Miner | LTC+DOGE+BEL+LKY+PEP+JKC+DINGO | $6.69 | $200.70 | 35Gh | 5,775W | [View](miners/specs/bitmain-antminer-l11-hyd-2u-35g-litecoin-dogecoin-miner.md) |
+| 11 | Bitdeer SealMiner A3 Pro Hyd Bitcoin Miner 660TH/S | BTC+FB+NMC | $6.56 | $196.80 | 660Th | 8,250W | [View](miners/specs/bitdeer-sealminer-a3-pro-hyd-bitcoin-miner-660ths.md) |
+| 12 | Bitmain Antminer S21 XP+ Hyd Bitcoin Miner 500TH/s | BTC+FB+NMC | $6.41 | $192.30 | 500Th | 5,500W | [View](miners/specs/bitmain-antminer-s21-xp-hyd-bitcoin-miner-500ths.md) |
+| 13 | Bitmain Antminer L11 HU6 Litecoin & Dogecoin Miner | LTC+DOGE+BEL+LKY+PEP+JKC+DINGO | $5.86 | $175.80 | 33Gh | 5,676W | [View](miners/specs/bitmain-antminer-l11-hu6-litecoin-dogecoin-miner.md) |
+| 14 | Bitdeer SealMiner DL1 Air 25Gh/s Litecoin & Dogecoin Miner | LTC+DOGE+BEL+LKY+PEP+JKC+DINGO | $5.74 | $172.20 | 25Gh | 3,625W | [View](miners/specs/bitdeer-sealminer-dl1-air-25ghs-litecoin-dogecoin-miner.md) |
+| 15 | Bitmain Antminer S21 XP Hyd Bitcoin Miner 473TH | BTC+FB+NMC | $5.16 | $154.80 | 473Th | 5,676W | [View](miners/specs/bitmain-antminer-s21-xp-hyd-bitcoin-miner-473th.md) |
+| 16 | Bitmain Antminer S23 Imm Bitcoin Miner 442TH/S | BTC+FB+NMC | $4.82 | $144.60 | 442Th | 5,304W | [View](miners/specs/bitmain-antminer-s23-imm-bitcoin-miner-442ths.md) |
+| 17 | Bitmain Antminer S23 Bitcoin Miner 318TH/S | BTC+FB+NMC | $4.08 | $122.40 | 318Th | 3,498W | [View](miners/specs/bitmain-antminer-s23-bitcoin-miner-318ths.md) |
+| 18 | Bitdeer SealMiner A3 Hyd Bitcoin Miner 500TH/S | BTC+FB+NMC | $4.01 | $120.30 | 500Th | 6,750W | [View](miners/specs/bitdeer-sealminer-a3-hyd-bitcoin-miner-500ths.md) |
+| 19 | Bitmain Antminer S21e XP Hyd Bitcoin Miner 430TH | BTC+FB+NMC | $3.86 | $115.80 | 430Th | 5,590W | [View](miners/specs/bitmain-antminer-s21e-xp-hyd-bitcoin-miner-430th.md) |
+| 20 | Bitmain Antminer L11 Pro Litecoin & Dogecoin Miner | LTC+DOGE+BEL+LKY+PEP+JKC+DINGO | $3.73 | $111.90 | 21Gh | 3,612W | [View](miners/specs/bitmain-antminer-l11-pro-litecoin-dogecoin-miner.md) |
+| 21 | Bitmain Antminer X5 Monero Miner 212K | XMR | $3.43 | $102.90 | 212Kh | 1,350W | [View](miners/specs/bitmain-antminer-x5-monero-miner-212k.md) |
+| 22 | MicroBT Whatsminer M79 Hydro Bitcoin Miner 920TH/s | BTC+FB+NMC | $3.39 | $101.70 | 920Th | 14,500W | [View](miners/specs/microbt-whatsminer-m79-hydro-bitcoin-miner-920ths.md) |
+| 23 | VolcMiner D3 Litecoin & Dogecoin Miner | LTC+DOGE+BEL+LKY+PEP+JKC+DINGO | $3.28 | $98.40 | 20Gh | 3,580W | [View](miners/specs/volcminer-d3-litecoin-dogecoin-miner.md) |
+| 24 | Bitmain Antminer L11 20GH/s Scrypt Miner for LTC & DOGE | LTC+DOGE+BEL+LKY+PEP+JKC+DINGO | $3.09 | $92.70 | 20Gh | 3,680W | [View](miners/specs/bitmain-antminer-l11-20ghs-scrypt-miner-for-ltc-doge.md) |
+| 25 | ElphaPex DG2+ Litecoin & Dogecoin Miner 20.5GH/s | LTC+DOGE+BEL+LKY+PEP+JKC+DINGO | $2.92 | $87.60 | 20.5Gh | 3,900W | [View](miners/specs/elphapex-dg2-litecoin-dogecoin-miner-205ghs.md) |
+| 26 | Bitdeer SealMiner A3 PRO AIR Bitcoin Miner 290TH/S | BTC+FB+NMC | $2.88 | $86.40 | 290Th | 3,625W | [View](miners/specs/bitdeer-sealminer-a3-pro-air-bitcoin-miner-290ths.md) |
+| 27 | Bitmain Antminer L9 Hyd 2U Litecoin & Dogecoin Miner | LTC+DOGE+BEL+LKY+PEP+JKC+DINGO | $2.83 | $84.90 | 27Gh | 5,670W | [View](miners/specs/bitmain-antminer-l9-hyd-2u-litecoin-dogecoin-miner.md) |
+| 28 | Canaan AvalonMiner A16XP-300T Bitcoin Miner | BTC+FB+NMC | $2.79 | $83.70 | 300Th | 3,850W | [View](miners/specs/canaan-avalonminer-a16xp-300t-bitcoin-miner.md) |
+| 29 | Bitdeer SealMiner A2 Pro Hyd Bitcoin Miner 500TH/S | BTC+FB+NMC | $2.67 | $80.10 | 500Th | 7,450W | [View](miners/specs/bitdeer-sealminer-a2-pro-hyd-bitcoin-miner-500ths.md) |
+| 30 | VolcMiner D1 Pro Litecoin & Dogecoin Miner | LTC+DOGE+BEL+LKY+PEP+JKC+DINGO | $2.42 | $72.60 | 18Gh | 3,500W | [View](miners/specs/volcminer-d1-pro-litecoin-dogecoin-miner.md) |
+| 31 | Bitmain Antminer S21 XP Imm Bitcoin Miner 300TH/S | BTC+FB+NMC | $2.41 | $72.30 | 300Th | 4,050W | [View](miners/specs/bitmain-antminer-s21-xp-imm-bitcoin-miner-300ths.md) |
+| 32 | iPollo V2 ETHW & ETC Miner 10Gh/s | ETC | $2.38 | $71.40 | 10Gh | 1,500W | [View](miners/specs/ipollo-v2-ethw-etc-miner-10ghs.md) |
+| 33 | Bitmain Antminer S21 XP Bitcoin Miner 270TH/S | BTC+FB+NMC | $2.17 | $65.10 | 270Th | 3,645W | [View](miners/specs/bitmain-antminer-s21-xp-bitcoin-miner-270ths.md) |
+| 34 | Bombax EZ100 Ethereum Classic Miner 12500MH/s | ETC | $2.16 | $64.80 | 12.5Gh | 2,300W | [View](miners/specs/bombax-ez100-ethereum-classic-miner-12500mhs.md) |
+| 35 | Canaan AvalonMiner A16 282T Bitcoin Miner | BTC+FB+NMC | $2.08 | $62.40 | 282Th | 3,900W | [View](miners/specs/canaan-avalonminer-a16-282t-bitcoin-miner.md) |
+| 36 | Bombax EZ100 Pro Ethereum Classic Miner 15000MH/s | ETC | $1.94 | $58.20 | 15Gh | 3,100W | [View](miners/specs/bombax-ez100-pro-ethereum-classic-miner-15000mhs.md) |
+| 37 | Bitdeer SealMiner A3 Air Bitcoin Miner 260TH/S | BTC+FB+NMC | $1.84 | $55.20 | 260Th | 3,640W | [View](miners/specs/bitdeer-sealminer-a3-air-bitcoin-miner-260ths.md) |
+| 38 | Bitmain Antminer L9 Litecoin & Dogecoin Miner | LTC+DOGE+BEL+LKY+PEP+JKC+DINGO | $1.78 | $53.40 | 17Gh | 3,570W | [View](miners/specs/bitmain-antminer-l9-litecoin-dogecoin-miner.md) |
+| 39 | Bitmain Antminer S21+ Hyd Bitcoin Miner 319TH/s | BTC+FB+NMC | $1.64 | $49.20 | 319Th | 4,785W | [View](miners/specs/bitmain-antminer-s21-hyd-bitcoin-miner-319ths.md) |
+| 40 | Bitmain Antminer S21 Hyd Bitcoin Miner 335TH/s | BTC+FB+NMC | $1.57 | $47.10 | 335Th | 5,104W | [View](miners/specs/bitmain-antminer-s21-hyd-bitcoin-miner-335ths.md) |
+| 41 | FLUMINERL3 Litecoin & Dogecoin Miner 9.5GH/s | LTC+DOGE+BEL+LKY+PEP+JKC+DINGO | $1.56 | $46.80 | 9.5Gh | 1,700W | [View](miners/specs/fluminerl3-litecoin-dogecoin-miner-95ghs.md) |
+| 42 | MicroBT Whatsminer M66S++ 348Th/s Bitcoin Miner | BTC+FB+NMC | $1.46 | $43.80 | 348Th | 5,394W | [View](miners/specs/microbt-whatsminer-m66s-348ths-bitcoin-miner.md) |
+| 43 | Bitdeer SealMiner A2 PRO AIR Bitcoin Miner 255TH/S | BTC+FB+NMC | $1.38 | $41.40 | 255Th | 3,790W | [View](miners/specs/bitdeer-sealminer-a2-pro-air-bitcoin-miner-255ths.md) |
+| 44 | ElphaPex DG2 16 GH/s Scrypt Miner | LTC+DOGE+BEL+LKY+PEP+JKC+DINGO | $1.37 | $41.10 | 16Gh | 3,520W | [View](miners/specs/elphapex-dg2-16-ghs-scrypt-miner.md) |
+| 45 | iPollo G1 Grin Coin Miner 36GH/S | MWC | $1.32 | $39.60 | 126H | 2,800W | [View](miners/specs/ipollo-g1-grin-coin-miner-36ghs.md) |
+| 46 | Pinecone Matches INIBOX PRO 2.4 Gh/s InitVerse Miner | INITVERSE | $1.26 | $37.80 | 2.4Gh | 1,280W | [View](miners/specs/pinecone-matches-inibox-pro-24-ghs-initverse-miner.md) |
+| 47 | Bitmain Antminer S21 Pro+ 234TH/S Bitcoin Miner | BTC+FB+NMC | $1.20 | $36.00 | 234Th | 3,510W | [View](miners/specs/bitmain-antminer-s21-pro-234ths-bitcoin-miner.md) |
+| 48 | Bitmain Antminer S21 Pro Bitcoin Miner 234TH/S | BTC+FB+NMC | $1.20 | $36.00 | 234Th | 3,510W | [View](miners/specs/bitmain-antminer-s21-pro-bitcoin-miner-234ths.md) |
+| 49 | Bitdeer SealMiner A2 Hyd Bitcoin Miner 446TH/S | BTC+FB+NMC | $1.01 | $30.30 | 446Th | 7,360W | [View](miners/specs/bitdeer-sealminer-a2-hyd-bitcoin-miner-446ths.md) |
+| 50 | Bitmain Antminer KS7 Kaspa Miner 36Th/s | KAS | $1.00 | $30.00 | 36Th | 2,772W | [View](miners/specs/bitmain-antminer-ks7-kaspa-miner-36ths.md) |
+| 51 | VolcMiner D1 Hydro Litecoin & Dogecoin Miner 30G/s 33Gh/s 7600W | LTC+DOGE+BEL+LKY+PEP+JKC+DINGO | $0.85 | $25.50 | 30.4Gh | 7,600W | [View](miners/specs/volcminer-d1-hydro-litecoin-dogecoin-miner-30gs-33ghs-7600w.md) |
+| 52 | Canaan Avalon A1566HA 2U 480T Bitcoin Hydro Miner | BTC+FB+NMC | $0.81 | $24.30 | 480Th | 8,064W | [View](miners/specs/canaan-avalon-a1566ha-2u-480t-bitcoin-hydro-miner.md) |
+| 53 | MicroBT Whatsminer M60S++ Bitcoin Miner 226TH/s | BTC+FB+NMC | $0.76 | $22.80 | 226Th | 3,600W | [View](miners/specs/microbt-whatsminer-m60s-bitcoin-miner-226ths.md) |
+| 54 | Goldshell XT BOX XTM (Tari) Miner 580Gh/s | XTM | $0.66 | $19.80 | 580Gh | 400W | [View](miners/specs/goldshell-xt-box-xtm-tari-miner-580ghs.md) |
+| 55 | FLUMINER T3 Bitcoin Miner 115TH/S | BTC+FB+NMC | $0.64 | $19.20 | 115Th | 1,700W | [View](miners/specs/fluminer-t3-bitcoin-miner-115ths.md) |
+| 56 | VolcMiner D1 Litecoin & Dogecoin Miner | LTC+DOGE+BEL+LKY+PEP+JKC+DINGO | $0.64 | $19.20 | 16Gh | 3,900W | [View](miners/specs/volcminer-d1-litecoin-dogecoin-miner.md) |
+| 57 | Whatsminer M63S+ Hydro Bitcoin Miner 450TH/s | BTC+FB+NMC | $0.59 | $17.70 | 450Th | 7,650W | [View](miners/specs/whatsminer-m63s-hydro-bitcoin-miner-450ths.md) |
+| 58 | Bombax EZ100-C Ethereum Classic Miner 3800MH/s | ETC | $0.54 | $16.20 | 3.8Gh | 760W | [View](miners/specs/bombax-ez100-c-ethereum-classic-miner-3800mhs.md) |
+| 59 | Bitdeer SealMiner A2 Air Bitcoin Miner 226TH/S | BTC+FB+NMC | $0.51 | $15.30 | 226Th | 3,729W | [View](miners/specs/bitdeer-sealminer-a2-air-bitcoin-miner-226ths.md) |
+| 60 | Bitmain Antminer S21+Plus Bitcoin Miner | BTC+FB+NMC | $0.49 | $14.70 | 216Th | 3,564W | [View](miners/specs/bitmain-antminer-s21plus-bitcoin-miner.md) |
+| 61 | Bitmain Antminer S21+ Bitcoin Miner | BTC+FB+NMC | $0.49 | $14.70 | 216Th | 3,564W | [View](miners/specs/bitmain-antminer-s21-bitcoin-miner.md) |
+| 62 | FLUMINER L1 Litecoin & Dogecoin Miner 5.3GH/s | LTC+DOGE+BEL+LKY+PEP+JKC+DINGO | $0.39 | $11.70 | 5.3Gh | 1,200W | [View](miners/specs/fluminer-l1-litecoin-dogecoin-miner-53ghs.md) |
+| 63 | Bitmain Antminer S21e Hyd Bitcoin Miner 288TH | BTC+FB+NMC | $0.38 | $11.40 | 288Th | 4,896W | [View](miners/specs/bitmain-antminer-s21e-hyd-bitcoin-miner-288th.md) |
+| 64 | Canaan Avalon A15 Pro 218T Bitcoin Miner | BTC+FB+NMC | $0.37 | $11.10 | 218Th | 3,662W | [View](miners/specs/canaan-avalon-a15-pro-218t-bitcoin-miner.md) |
+| 65 | Pinecone Matches INIBOX 850 Mh/s InitVerse Miner | INITVERSE | $0.36 | $10.80 | 850Mh | 500W | [View](miners/specs/pinecone-matches-inibox-850-mhs-initverse-miner.md) |
+| 66 | Fluminer L1 Pro 6Gh/s Litecoin & Dogecoin Miner | LTC+DOGE+BEL+LKY+PEP+JKC+DINGO | $0.36 | $10.80 | 6Gh | 1,400W | [View](miners/specs/fluminer-l1-pro-6ghs-litecoin-dogecoin-miner.md) |
+| 67 | iPollo V2H Ethereum Classic Coin Miner 3400MH/s | ETC | $0.35 | $10.50 | 3.4Gh | 750W | [View](miners/specs/ipollo-v2h-ethereum-classic-coin-miner-3400mhs.md) |
+| 68 | iPollo V2X ETHW & ETC Miner 1200Mh/s | ETC | $0.31 | $9.30 | 1.2Gh | 165W | [View](miners/specs/ipollo-v2x-ethw-etc-miner-1200mhs.md) |
+| 69 | XuanMiner C1 Ethereum Classic Miner 12600Mh/s | ETC | $0.29 | $8.70 | 12.6Gh | 3,300W | [View](miners/specs/xuanminer-c1-ethereum-classic-miner-12600mhs.md) |
+| 70 | Whatsminer M63S Hydro Bitcoin Miner 416TH/s | BTC+FB+NMC | $0.27 | $8.10 | 416Th | 7,215W | [View](miners/specs/whatsminer-m63s-hydro-bitcoin-miner-416ths.md) |
+| 71 | Whatsminer M60S+ Bitcoin Miner 202TH/s | BTC+FB+NMC | $0.25 | $7.50 | 202Th | 3,441W | [View](miners/specs/whatsminer-m60s-bitcoin-miner-202ths.md) |
+| 72 | Bitmain Antminer E11 9.5Gh/s | ETC | $0.25 | $7.50 | 9.5Gh | 2,470W | [View](miners/specs/bitmain-antminer-e11-95ghs.md) |
+| 73 | ElphaPex DG2 Mini Litecoin & Dogecoin Miner 2.4GH/s | LTC+DOGE+BEL+LKY+PEP+JKC+DINGO | $0.20 | $6.00 | 2.4Gh | 530W | [View](miners/specs/elphapex-dg2-mini-litecoin-dogecoin-miner-24ghs.md) |
+| 74 | VolcMiner D1 Mini Pre Litecoin & Dogecoin Miner 2.2Gh/s | LTC+DOGE+BEL+LKY+PEP+JKC+DINGO | $0.16 | $4.80 | 2.2Gh | 500W | [View](miners/specs/volcminer-d1-mini-pre-litecoin-dogecoin-miner-22ghs.md) |
+| 75 | Bitaxe Supra Hex 701 4.2TH/s Bitcoin Miner | BTC+FB+NMC | $0.11 | $3.30 | 4.2Th | 17W | [View](miners/specs/bitaxe-supra-hex-701-42ths-bitcoin-miner.md) |
+| 76 | FLUMINER L2 Litecoin &Dogecoin Miner 1GH/s | LTC+DOGE+BEL+LKY+PEP+JKC+DINGO | $0.07 | $2.10 | 1Gh | 230W | [View](miners/specs/fluminer-l2-litecoin-dogecoin-miner-1ghs.md) |
+| 77 | Bitmain Antminer S21 Bitcoin Miner 200TH/S | BTC+FB+NMC | $0.07 | $2.10 | 200Th | 3,500W | [View](miners/specs/bitmain-antminer-s21-bitcoin-miner-200ths.md) |
+| 78 | Jasminer X16-Q Pro Ethereum Classic Miner 2050Mh/s | ETC | $0.06 | $1.80 | 2.05Gh | 530W | [View](miners/specs/jasminer-x16-q-pro-ethereum-classic-miner-2050mhs.md) |
+| 79 | Bitaxe Gamma 800 Bitcoin Miner 2.55TH/s | BTC+FB+NMC | $0.05 | $1.50 | 2.55Th | 17W | [View](miners/specs/bitaxe-gamma-800-bitcoin-miner-255ths.md) |
+| 80 | NerdMiner NerdOCTAxe 9.6Th/s Bitcoin Solo Miner | BTC+FB+NMC | $0.02 | $0.60 | 9.6Th | 160W | [View](miners/specs/nerdminer-nerdoctaxe-96ths-bitcoin-solo-miner.md) |
+| 81 | NerdMiner NerdQaxe++ Hydro Rev 6.1 6TH/s Bitcoin Solo Miner | BTC+FB+NMC | $0.01 | $0.30 | 6Th | 103W | [View](miners/specs/nerdminer-nerdqaxe-hydro-rev-61-6ths-bitcoin-solo-miner.md) |
+| 82 | NerdMiner NerdQaxe++ Rev 6.1 6Th/s Bitcoin Miner | BTC+FB+NMC | $0.01 | $0.30 | 6Th | 103W | [View](miners/specs/nerdminer-nerdqaxe-rev-61-6ths-bitcoin-miner.md) |
+| 83 | Bitaxe Gamma 601 Bitcoin Miner 1.2TH/s | BTC+FB+NMC | $0.01 | $0.30 | 1.2Th | 17W | [View](miners/specs/bitaxe-gamma-601-bitcoin-miner-12ths.md) |
