@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-31",
+  "date": "2026-06-01",
   "electricity_cost_kwh": 0.06,
   "total_miners": 289,
   "profitable_miners": 83,
@@ -8,8 +8,8 @@
       "slug": "bitmain-z15-pro-zcash-miner",
       "name": "Bitmain Z15 Pro Zcash Miner",
       "coin": "ZEC",
-      "daily_profit_usd": 38.63,
-      "monthly_profit_usd": 1158.9,
+      "daily_profit_usd": 40.39,
+      "monthly_profit_usd": 1211.7,
       "hashrate": "840Kh",
       "power_w": 2780
     },
@@ -17,8 +17,8 @@
       "slug": "bitmain-antminer-x9-monero-miner-1m",
       "name": "Bitmain Antminer X9 Monero Miner 1M",
       "coin": "XMR",
-      "daily_profit_usd": 23.65,
-      "monthly_profit_usd": 709.5,
+      "daily_profit_usd": 25.61,
+      "monthly_profit_usd": 768.3,
       "hashrate": "1Mh",
       "power_w": 2472
     },
@@ -26,8 +26,8 @@
       "slug": "bitmain-antminer-z15-zec-miner",
       "name": "Bitmain Antminer Z15 ZEC Miner",
       "coin": "ZEC",
-      "daily_profit_usd": 19.08,
-      "monthly_profit_usd": 572.4,
+      "daily_profit_usd": 19.97,
+      "monthly_profit_usd": 599.1,
       "hashrate": "420Kh",
       "power_w": 1510
     },
@@ -35,8 +35,8 @@
       "slug": "bitmain-antminer-s23-hyd-3u-bitcoin-miner-116phs",
       "name": "Bitmain Antminer S23 Hyd 3U Bitcoin Miner 1.16PH/S",
       "coin": "BTC+FB+NMC",
-      "daily_profit_usd": 18.22,
-      "monthly_profit_usd": 546.6,
+      "daily_profit_usd": 17.6,
+      "monthly_profit_usd": 528.0,
       "hashrate": "1160Th",
       "power_w": 11020
     },
@@ -44,8 +44,8 @@
       "slug": "bitmain-antminer-s23e-u2h-bitcoin-miner-865ths",
       "name": "Bitmain Antminer S23e U2H Bitcoin Miner 865TH/S",
       "coin": "BTC+FB+NMC",
-      "daily_profit_usd": 12.75,
-      "monthly_profit_usd": 382.5,
+      "daily_profit_usd": 12.3,
+      "monthly_profit_usd": 369.0,
       "hashrate": "865Th",
       "power_w": 8650
     },
@@ -53,17 +53,35 @@
       "slug": "bitmain-antminer-s23-hyd-bitcoin-miner-580th",
       "name": "Bitmain Antminer S23 Hyd Bitcoin Miner 580TH",
       "coin": "BTC+FB+NMC",
-      "daily_profit_usd": 9.11,
-      "monthly_profit_usd": 273.3,
+      "daily_profit_usd": 8.8,
+      "monthly_profit_usd": 264.0,
       "hashrate": "580Th",
       "power_w": 5510
+    },
+    {
+      "slug": "bitmain-antminer-l11-hyd-2u-35g-litecoin-dogecoin-miner",
+      "name": "Bitmain Antminer L11 Hyd 2U 35G Litecoin & Dogecoin Miner",
+      "coin": "LTC+DOGE+BEL+LKY+PEP+JKC+DINGO",
+      "daily_profit_usd": 7.39,
+      "monthly_profit_usd": 221.7,
+      "hashrate": "35Gh",
+      "power_w": 5775
+    },
+    {
+      "slug": "jasminer-x44-p-ethereum-classic-miner-234ghs",
+      "name": "Jasminer X44-P Ethereum Classic Miner 23.4Gh/s",
+      "coin": "ETC",
+      "daily_profit_usd": 7.28,
+      "monthly_profit_usd": 218.4,
+      "hashrate": "23.4Gh",
+      "power_w": 2550
     },
     {
       "slug": "bitmain-antminer-s21e-xp-hyd-3u-bitcoin-miner-860ths",
       "name": "Bitmain Antminer S21e XP Hyd 3U Bitcoin Miner 860TH/S",
       "coin": "BTC+FB+NMC",
-      "daily_profit_usd": 7.73,
-      "monthly_profit_usd": 231.9,
+      "daily_profit_usd": 7.27,
+      "monthly_profit_usd": 218.1,
       "hashrate": "860Th",
       "power_w": 11180
     },
@@ -71,53 +89,17 @@
       "slug": "microbt-whatsminer-m79s-hydro-bitcoin-miner-135phs",
       "name": "MicroBT Whatsminer M79S Hydro Bitcoin Miner 1.35PH/s",
       "coin": "BTC+FB+NMC",
-      "daily_profit_usd": 7.42,
-      "monthly_profit_usd": 222.6,
+      "daily_profit_usd": 6.71,
+      "monthly_profit_usd": 201.3,
       "hashrate": "1350Th",
       "power_w": 20000
-    },
-    {
-      "slug": "jasminer-x44-p-ethereum-classic-miner-234ghs",
-      "name": "Jasminer X44-P Ethereum Classic Miner 23.4Gh/s",
-      "coin": "ETC",
-      "daily_profit_usd": 7.41,
-      "monthly_profit_usd": 222.3,
-      "hashrate": "23.4Gh",
-      "power_w": 2550
-    },
-    {
-      "slug": "bitmain-antminer-l11-hyd-2u-35g-litecoin-dogecoin-miner",
-      "name": "Bitmain Antminer L11 Hyd 2U 35G Litecoin & Dogecoin Miner",
-      "coin": "LTC+DOGE+BEL+LKY+PEP+JKC+DINGO",
-      "daily_profit_usd": 6.69,
-      "monthly_profit_usd": 200.7,
-      "hashrate": "35Gh",
-      "power_w": 5775
-    },
-    {
-      "slug": "bitdeer-sealminer-a3-pro-hyd-bitcoin-miner-660ths",
-      "name": "Bitdeer SealMiner A3 Pro Hyd Bitcoin Miner 660TH/S",
-      "coin": "BTC+FB+NMC",
-      "daily_profit_usd": 6.56,
-      "monthly_profit_usd": 196.8,
-      "hashrate": "660Th",
-      "power_w": 8250
-    },
-    {
-      "slug": "bitmain-antminer-s21-xp-hyd-bitcoin-miner-500ths",
-      "name": "Bitmain Antminer S21 XP+ Hyd Bitcoin Miner 500TH/s",
-      "coin": "BTC+FB+NMC",
-      "daily_profit_usd": 6.41,
-      "monthly_profit_usd": 192.3,
-      "hashrate": "500Th",
-      "power_w": 5500
     },
     {
       "slug": "bitmain-antminer-l11-hu6-litecoin-dogecoin-miner",
       "name": "Bitmain Antminer L11 HU6 Litecoin & Dogecoin Miner",
       "coin": "LTC+DOGE+BEL+LKY+PEP+JKC+DINGO",
-      "daily_profit_usd": 5.86,
-      "monthly_profit_usd": 175.8,
+      "daily_profit_usd": 6.52,
+      "monthly_profit_usd": 195.6,
       "hashrate": "33Gh",
       "power_w": 5676
     },
@@ -125,17 +107,35 @@
       "slug": "bitdeer-sealminer-dl1-air-25ghs-litecoin-dogecoin-miner",
       "name": "Bitdeer SealMiner DL1 Air 25Gh/s Litecoin & Dogecoin Miner",
       "coin": "LTC+DOGE+BEL+LKY+PEP+JKC+DINGO",
-      "daily_profit_usd": 5.74,
-      "monthly_profit_usd": 172.2,
+      "daily_profit_usd": 6.24,
+      "monthly_profit_usd": 187.2,
       "hashrate": "25Gh",
       "power_w": 3625
+    },
+    {
+      "slug": "bitdeer-sealminer-a3-pro-hyd-bitcoin-miner-660ths",
+      "name": "Bitdeer SealMiner A3 Pro Hyd Bitcoin Miner 660TH/S",
+      "coin": "BTC+FB+NMC",
+      "daily_profit_usd": 6.21,
+      "monthly_profit_usd": 186.3,
+      "hashrate": "660Th",
+      "power_w": 8250
+    },
+    {
+      "slug": "bitmain-antminer-s21-xp-hyd-bitcoin-miner-500ths",
+      "name": "Bitmain Antminer S21 XP+ Hyd Bitcoin Miner 500TH/s",
+      "coin": "BTC+FB+NMC",
+      "daily_profit_usd": 6.15,
+      "monthly_profit_usd": 184.5,
+      "hashrate": "500Th",
+      "power_w": 5500
     },
     {
       "slug": "bitmain-antminer-s21-xp-hyd-bitcoin-miner-473th",
       "name": "Bitmain Antminer S21 XP Hyd Bitcoin Miner 473TH",
       "coin": "BTC+FB+NMC",
-      "daily_profit_usd": 5.16,
-      "monthly_profit_usd": 154.8,
+      "daily_profit_usd": 4.91,
+      "monthly_profit_usd": 147.3,
       "hashrate": "473Th",
       "power_w": 5676
     },
@@ -143,116 +143,134 @@
       "slug": "bitmain-antminer-s23-imm-bitcoin-miner-442ths",
       "name": "Bitmain Antminer S23 Imm Bitcoin Miner 442TH/S",
       "coin": "BTC+FB+NMC",
-      "daily_profit_usd": 4.82,
-      "monthly_profit_usd": 144.6,
+      "daily_profit_usd": 4.59,
+      "monthly_profit_usd": 137.7,
       "hashrate": "442Th",
       "power_w": 5304
-    },
-    {
-      "slug": "bitmain-antminer-s23-bitcoin-miner-318ths",
-      "name": "Bitmain Antminer S23 Bitcoin Miner 318TH/S",
-      "coin": "BTC+FB+NMC",
-      "daily_profit_usd": 4.08,
-      "monthly_profit_usd": 122.4,
-      "hashrate": "318Th",
-      "power_w": 3498
-    },
-    {
-      "slug": "bitdeer-sealminer-a3-hyd-bitcoin-miner-500ths",
-      "name": "Bitdeer SealMiner A3 Hyd Bitcoin Miner 500TH/S",
-      "coin": "BTC+FB+NMC",
-      "daily_profit_usd": 4.01,
-      "monthly_profit_usd": 120.3,
-      "hashrate": "500Th",
-      "power_w": 6750
-    },
-    {
-      "slug": "bitmain-antminer-s21e-xp-hyd-bitcoin-miner-430th",
-      "name": "Bitmain Antminer S21e XP Hyd Bitcoin Miner 430TH",
-      "coin": "BTC+FB+NMC",
-      "daily_profit_usd": 3.86,
-      "monthly_profit_usd": 115.8,
-      "hashrate": "430Th",
-      "power_w": 5590
     },
     {
       "slug": "bitmain-antminer-l11-pro-litecoin-dogecoin-miner",
       "name": "Bitmain Antminer L11 Pro Litecoin & Dogecoin Miner",
       "coin": "LTC+DOGE+BEL+LKY+PEP+JKC+DINGO",
-      "daily_profit_usd": 3.73,
-      "monthly_profit_usd": 111.9,
+      "daily_profit_usd": 4.15,
+      "monthly_profit_usd": 124.5,
       "hashrate": "21Gh",
       "power_w": 3612
+    },
+    {
+      "slug": "bitmain-antminer-s23-bitcoin-miner-318ths",
+      "name": "Bitmain Antminer S23 Bitcoin Miner 318TH/S",
+      "coin": "BTC+FB+NMC",
+      "daily_profit_usd": 3.91,
+      "monthly_profit_usd": 117.3,
+      "hashrate": "318Th",
+      "power_w": 3498
     },
     {
       "slug": "bitmain-antminer-x5-monero-miner-212k",
       "name": "Bitmain Antminer X5 Monero Miner 212K",
       "coin": "XMR",
-      "daily_profit_usd": 3.43,
-      "monthly_profit_usd": 102.9,
+      "daily_profit_usd": 3.84,
+      "monthly_profit_usd": 115.2,
       "hashrate": "212Kh",
       "power_w": 1350
     },
     {
-      "slug": "microbt-whatsminer-m79-hydro-bitcoin-miner-920ths",
-      "name": "MicroBT Whatsminer M79 Hydro Bitcoin Miner 920TH/s",
+      "slug": "bitdeer-sealminer-a3-hyd-bitcoin-miner-500ths",
+      "name": "Bitdeer SealMiner A3 Hyd Bitcoin Miner 500TH/S",
       "coin": "BTC+FB+NMC",
-      "daily_profit_usd": 3.39,
-      "monthly_profit_usd": 101.7,
-      "hashrate": "920Th",
-      "power_w": 14500
+      "daily_profit_usd": 3.75,
+      "monthly_profit_usd": 112.5,
+      "hashrate": "500Th",
+      "power_w": 6750
     },
     {
       "slug": "volcminer-d3-litecoin-dogecoin-miner",
       "name": "VolcMiner D3 Litecoin & Dogecoin Miner",
       "coin": "LTC+DOGE+BEL+LKY+PEP+JKC+DINGO",
-      "daily_profit_usd": 3.28,
-      "monthly_profit_usd": 98.4,
+      "daily_profit_usd": 3.69,
+      "monthly_profit_usd": 110.7,
       "hashrate": "20Gh",
       "power_w": 3580
+    },
+    {
+      "slug": "bitmain-antminer-s21e-xp-hyd-bitcoin-miner-430th",
+      "name": "Bitmain Antminer S21e XP Hyd Bitcoin Miner 430TH",
+      "coin": "BTC+FB+NMC",
+      "daily_profit_usd": 3.64,
+      "monthly_profit_usd": 109.2,
+      "hashrate": "430Th",
+      "power_w": 5590
+    },
+    {
+      "slug": "ipollo-g1-grin-coin-miner-36ghs",
+      "name": "iPollo G1 Grin Coin Miner 36GH/S",
+      "coin": "MWC",
+      "daily_profit_usd": 3.59,
+      "monthly_profit_usd": 107.7,
+      "hashrate": "126H",
+      "power_w": 2800
     },
     {
       "slug": "bitmain-antminer-l11-20ghs-scrypt-miner-for-ltc-doge",
       "name": "Bitmain Antminer L11 20GH/s Scrypt Miner for LTC & DOGE",
       "coin": "LTC+DOGE+BEL+LKY+PEP+JKC+DINGO",
-      "daily_profit_usd": 3.09,
-      "monthly_profit_usd": 92.7,
+      "daily_profit_usd": 3.49,
+      "monthly_profit_usd": 104.7,
       "hashrate": "20Gh",
       "power_w": 3680
-    },
-    {
-      "slug": "elphapex-dg2-litecoin-dogecoin-miner-205ghs",
-      "name": "ElphaPex DG2+ Litecoin & Dogecoin Miner 20.5GH/s",
-      "coin": "LTC+DOGE+BEL+LKY+PEP+JKC+DINGO",
-      "daily_profit_usd": 2.92,
-      "monthly_profit_usd": 87.6,
-      "hashrate": "20.5Gh",
-      "power_w": 3900
-    },
-    {
-      "slug": "bitdeer-sealminer-a3-pro-air-bitcoin-miner-290ths",
-      "name": "Bitdeer SealMiner A3 PRO AIR Bitcoin Miner 290TH/S",
-      "coin": "BTC+FB+NMC",
-      "daily_profit_usd": 2.88,
-      "monthly_profit_usd": 86.4,
-      "hashrate": "290Th",
-      "power_w": 3625
     },
     {
       "slug": "bitmain-antminer-l9-hyd-2u-litecoin-dogecoin-miner",
       "name": "Bitmain Antminer L9 Hyd 2U Litecoin & Dogecoin Miner",
       "coin": "LTC+DOGE+BEL+LKY+PEP+JKC+DINGO",
-      "daily_profit_usd": 2.83,
-      "monthly_profit_usd": 84.9,
+      "daily_profit_usd": 3.37,
+      "monthly_profit_usd": 101.1,
       "hashrate": "27Gh",
       "power_w": 5670
+    },
+    {
+      "slug": "elphapex-dg2-litecoin-dogecoin-miner-205ghs",
+      "name": "ElphaPex DG2+ Litecoin & Dogecoin Miner 20.5GH/s",
+      "coin": "LTC+DOGE+BEL+LKY+PEP+JKC+DINGO",
+      "daily_profit_usd": 3.33,
+      "monthly_profit_usd": 99.9,
+      "hashrate": "20.5Gh",
+      "power_w": 3900
+    },
+    {
+      "slug": "microbt-whatsminer-m79-hydro-bitcoin-miner-920ths",
+      "name": "MicroBT Whatsminer M79 Hydro Bitcoin Miner 920TH/s",
+      "coin": "BTC+FB+NMC",
+      "daily_profit_usd": 2.9,
+      "monthly_profit_usd": 87.0,
+      "hashrate": "920Th",
+      "power_w": 14500
+    },
+    {
+      "slug": "volcminer-d1-pro-litecoin-dogecoin-miner",
+      "name": "VolcMiner D1 Pro Litecoin & Dogecoin Miner",
+      "coin": "LTC+DOGE+BEL+LKY+PEP+JKC+DINGO",
+      "daily_profit_usd": 2.78,
+      "monthly_profit_usd": 83.4,
+      "hashrate": "18Gh",
+      "power_w": 3500
+    },
+    {
+      "slug": "bitdeer-sealminer-a3-pro-air-bitcoin-miner-290ths",
+      "name": "Bitdeer SealMiner A3 PRO AIR Bitcoin Miner 290TH/S",
+      "coin": "BTC+FB+NMC",
+      "daily_profit_usd": 2.73,
+      "monthly_profit_usd": 81.9,
+      "hashrate": "290Th",
+      "power_w": 3625
     },
     {
       "slug": "canaan-avalonminer-a16xp-300t-bitcoin-miner",
       "name": "Canaan AvalonMiner A16XP-300T Bitcoin Miner",
       "coin": "BTC+FB+NMC",
-      "daily_profit_usd": 2.79,
-      "monthly_profit_usd": 83.7,
+      "daily_profit_usd": 2.63,
+      "monthly_profit_usd": 78.9,
       "hashrate": "300Th",
       "power_w": 3850
     },
@@ -260,125 +278,152 @@
       "slug": "bitdeer-sealminer-a2-pro-hyd-bitcoin-miner-500ths",
       "name": "Bitdeer SealMiner A2 Pro Hyd Bitcoin Miner 500TH/S",
       "coin": "BTC+FB+NMC",
-      "daily_profit_usd": 2.67,
-      "monthly_profit_usd": 80.1,
+      "daily_profit_usd": 2.4,
+      "monthly_profit_usd": 72.0,
       "hashrate": "500Th",
       "power_w": 7450
-    },
-    {
-      "slug": "volcminer-d1-pro-litecoin-dogecoin-miner",
-      "name": "VolcMiner D1 Pro Litecoin & Dogecoin Miner",
-      "coin": "LTC+DOGE+BEL+LKY+PEP+JKC+DINGO",
-      "daily_profit_usd": 2.42,
-      "monthly_profit_usd": 72.6,
-      "hashrate": "18Gh",
-      "power_w": 3500
-    },
-    {
-      "slug": "bitmain-antminer-s21-xp-imm-bitcoin-miner-300ths",
-      "name": "Bitmain Antminer S21 XP Imm Bitcoin Miner 300TH/S",
-      "coin": "BTC+FB+NMC",
-      "daily_profit_usd": 2.41,
-      "monthly_profit_usd": 72.3,
-      "hashrate": "300Th",
-      "power_w": 4050
     },
     {
       "slug": "ipollo-v2-ethw-etc-miner-10ghs",
       "name": "iPollo V2 ETHW & ETC Miner 10Gh/s",
       "coin": "ETC",
-      "daily_profit_usd": 2.38,
-      "monthly_profit_usd": 71.4,
+      "daily_profit_usd": 2.32,
+      "monthly_profit_usd": 69.6,
       "hashrate": "10Gh",
       "power_w": 1500
     },
     {
-      "slug": "bitmain-antminer-s21-xp-bitcoin-miner-270ths",
-      "name": "Bitmain Antminer S21 XP Bitcoin Miner 270TH/S",
+      "slug": "bitmain-antminer-s21-xp-imm-bitcoin-miner-300ths",
+      "name": "Bitmain Antminer S21 XP Imm Bitcoin Miner 300TH/S",
       "coin": "BTC+FB+NMC",
-      "daily_profit_usd": 2.17,
-      "monthly_profit_usd": 65.1,
-      "hashrate": "270Th",
-      "power_w": 3645
-    },
-    {
-      "slug": "bombax-ez100-ethereum-classic-miner-12500mhs",
-      "name": "Bombax EZ100 Ethereum Classic Miner 12500MH/s",
-      "coin": "ETC",
-      "daily_profit_usd": 2.16,
-      "monthly_profit_usd": 64.8,
-      "hashrate": "12.5Gh",
-      "power_w": 2300
-    },
-    {
-      "slug": "canaan-avalonminer-a16-282t-bitcoin-miner",
-      "name": "Canaan AvalonMiner A16 282T Bitcoin Miner",
-      "coin": "BTC+FB+NMC",
-      "daily_profit_usd": 2.08,
-      "monthly_profit_usd": 62.4,
-      "hashrate": "282Th",
-      "power_w": 3900
-    },
-    {
-      "slug": "bombax-ez100-pro-ethereum-classic-miner-15000mhs",
-      "name": "Bombax EZ100 Pro Ethereum Classic Miner 15000MH/s",
-      "coin": "ETC",
-      "daily_profit_usd": 1.94,
-      "monthly_profit_usd": 58.2,
-      "hashrate": "15Gh",
-      "power_w": 3100
-    },
-    {
-      "slug": "bitdeer-sealminer-a3-air-bitcoin-miner-260ths",
-      "name": "Bitdeer SealMiner A3 Air Bitcoin Miner 260TH/S",
-      "coin": "BTC+FB+NMC",
-      "daily_profit_usd": 1.84,
-      "monthly_profit_usd": 55.2,
-      "hashrate": "260Th",
-      "power_w": 3640
+      "daily_profit_usd": 2.25,
+      "monthly_profit_usd": 67.5,
+      "hashrate": "300Th",
+      "power_w": 4050
     },
     {
       "slug": "bitmain-antminer-l9-litecoin-dogecoin-miner",
       "name": "Bitmain Antminer L9 Litecoin & Dogecoin Miner",
       "coin": "LTC+DOGE+BEL+LKY+PEP+JKC+DINGO",
-      "daily_profit_usd": 1.78,
-      "monthly_profit_usd": 53.4,
+      "daily_profit_usd": 2.12,
+      "monthly_profit_usd": 63.6,
       "hashrate": "17Gh",
       "power_w": 3570
     },
     {
-      "slug": "bitmain-antminer-s21-hyd-bitcoin-miner-319ths",
-      "name": "Bitmain Antminer S21+ Hyd Bitcoin Miner 319TH/s",
-      "coin": "BTC+FB+NMC",
-      "daily_profit_usd": 1.64,
-      "monthly_profit_usd": 49.2,
-      "hashrate": "319Th",
-      "power_w": 4785
+      "slug": "bombax-ez100-ethereum-classic-miner-12500mhs",
+      "name": "Bombax EZ100 Ethereum Classic Miner 12500MH/s",
+      "coin": "ETC",
+      "daily_profit_usd": 2.09,
+      "monthly_profit_usd": 62.7,
+      "hashrate": "12.5Gh",
+      "power_w": 2300
     },
     {
-      "slug": "bitmain-antminer-s21-hyd-bitcoin-miner-335ths",
-      "name": "Bitmain Antminer S21 Hyd Bitcoin Miner 335TH/s",
+      "slug": "bitmain-antminer-s21-xp-bitcoin-miner-270ths",
+      "name": "Bitmain Antminer S21 XP Bitcoin Miner 270TH/S",
       "coin": "BTC+FB+NMC",
-      "daily_profit_usd": 1.57,
-      "monthly_profit_usd": 47.1,
-      "hashrate": "335Th",
-      "power_w": 5104
+      "daily_profit_usd": 2.02,
+      "monthly_profit_usd": 60.6,
+      "hashrate": "270Th",
+      "power_w": 3645
+    },
+    {
+      "slug": "canaan-avalonminer-a16-282t-bitcoin-miner",
+      "name": "Canaan AvalonMiner A16 282T Bitcoin Miner",
+      "coin": "BTC+FB+NMC",
+      "daily_profit_usd": 1.93,
+      "monthly_profit_usd": 57.9,
+      "hashrate": "282Th",
+      "power_w": 3900
+    },
+    {
+      "slug": "pinecone-matches-inibox-pro-24-ghs-initverse-miner",
+      "name": "Pinecone Matches INIBOX PRO 2.4 Gh/s InitVerse Miner",
+      "coin": "INITVERSE",
+      "daily_profit_usd": 1.9,
+      "monthly_profit_usd": 57.0,
+      "hashrate": "2.4Gh",
+      "power_w": 1280
+    },
+    {
+      "slug": "bombax-ez100-pro-ethereum-classic-miner-15000mhs",
+      "name": "Bombax EZ100 Pro Ethereum Classic Miner 15000MH/s",
+      "coin": "ETC",
+      "daily_profit_usd": 1.85,
+      "monthly_profit_usd": 55.5,
+      "hashrate": "15Gh",
+      "power_w": 3100
     },
     {
       "slug": "fluminerl3-litecoin-dogecoin-miner-95ghs",
       "name": "FLUMINERL3 Litecoin & Dogecoin Miner 9.5GH/s",
       "coin": "LTC+DOGE+BEL+LKY+PEP+JKC+DINGO",
-      "daily_profit_usd": 1.56,
-      "monthly_profit_usd": 46.8,
+      "daily_profit_usd": 1.75,
+      "monthly_profit_usd": 52.5,
       "hashrate": "9.5Gh",
       "power_w": 1700
+    },
+    {
+      "slug": "bitdeer-sealminer-a3-air-bitcoin-miner-260ths",
+      "name": "Bitdeer SealMiner A3 Air Bitcoin Miner 260TH/S",
+      "coin": "BTC+FB+NMC",
+      "daily_profit_usd": 1.7,
+      "monthly_profit_usd": 51.0,
+      "hashrate": "260Th",
+      "power_w": 3640
+    },
+    {
+      "slug": "elphapex-dg2-16-ghs-scrypt-miner",
+      "name": "ElphaPex DG2 16 GH/s Scrypt Miner",
+      "coin": "LTC+DOGE+BEL+LKY+PEP+JKC+DINGO",
+      "daily_profit_usd": 1.69,
+      "monthly_profit_usd": 50.7,
+      "hashrate": "16Gh",
+      "power_w": 3520
+    },
+    {
+      "slug": "bitmain-antminer-d9-dash-miner-1770-ghs",
+      "name": "Bitmain Antminer D9 Dash Miner 1770 Gh/s",
+      "coin": "DASH",
+      "daily_profit_usd": 1.56,
+      "monthly_profit_usd": 46.8,
+      "hashrate": "1.77Th",
+      "power_w": 2839
+    },
+    {
+      "slug": "bitmain-antminer-s21-hyd-bitcoin-miner-319ths",
+      "name": "Bitmain Antminer S21+ Hyd Bitcoin Miner 319TH/s",
+      "coin": "BTC+FB+NMC",
+      "daily_profit_usd": 1.47,
+      "monthly_profit_usd": 44.1,
+      "hashrate": "319Th",
+      "power_w": 4785
+    },
+    {
+      "slug": "volcminer-d1-hydro-litecoin-dogecoin-miner-30gs-33ghs-7600w",
+      "name": "VolcMiner D1 Hydro Litecoin & Dogecoin Miner 30G/s 33Gh/s 7600W",
+      "coin": "LTC+DOGE+BEL+LKY+PEP+JKC+DINGO",
+      "daily_profit_usd": 1.46,
+      "monthly_profit_usd": 43.8,
+      "hashrate": "30.4Gh",
+      "power_w": 7600
+    },
+    {
+      "slug": "bitmain-antminer-s21-hyd-bitcoin-miner-335ths",
+      "name": "Bitmain Antminer S21 Hyd Bitcoin Miner 335TH/s",
+      "coin": "BTC+FB+NMC",
+      "daily_profit_usd": 1.39,
+      "monthly_profit_usd": 41.7,
+      "hashrate": "335Th",
+      "power_w": 5104
     },
     {
       "slug": "microbt-whatsminer-m66s-348ths-bitcoin-miner",
       "name": "MicroBT Whatsminer M66S++ 348Th/s Bitcoin Miner",
       "coin": "BTC+FB+NMC",
-      "daily_profit_usd": 1.46,
-      "monthly_profit_usd": 43.8,
+      "daily_profit_usd": 1.27,
+      "monthly_profit_usd": 38.1,
       "hashrate": "348Th",
       "power_w": 5394
     },
@@ -386,44 +431,17 @@
       "slug": "bitdeer-sealminer-a2-pro-air-bitcoin-miner-255ths",
       "name": "Bitdeer SealMiner A2 PRO AIR Bitcoin Miner 255TH/S",
       "coin": "BTC+FB+NMC",
-      "daily_profit_usd": 1.38,
-      "monthly_profit_usd": 41.4,
+      "daily_profit_usd": 1.24,
+      "monthly_profit_usd": 37.2,
       "hashrate": "255Th",
       "power_w": 3790
-    },
-    {
-      "slug": "elphapex-dg2-16-ghs-scrypt-miner",
-      "name": "ElphaPex DG2 16 GH/s Scrypt Miner",
-      "coin": "LTC+DOGE+BEL+LKY+PEP+JKC+DINGO",
-      "daily_profit_usd": 1.37,
-      "monthly_profit_usd": 41.1,
-      "hashrate": "16Gh",
-      "power_w": 3520
-    },
-    {
-      "slug": "ipollo-g1-grin-coin-miner-36ghs",
-      "name": "iPollo G1 Grin Coin Miner 36GH/S",
-      "coin": "MWC",
-      "daily_profit_usd": 1.32,
-      "monthly_profit_usd": 39.6,
-      "hashrate": "126H",
-      "power_w": 2800
-    },
-    {
-      "slug": "pinecone-matches-inibox-pro-24-ghs-initverse-miner",
-      "name": "Pinecone Matches INIBOX PRO 2.4 Gh/s InitVerse Miner",
-      "coin": "INITVERSE",
-      "daily_profit_usd": 1.26,
-      "monthly_profit_usd": 37.8,
-      "hashrate": "2.4Gh",
-      "power_w": 1280
     },
     {
       "slug": "bitmain-antminer-s21-pro-234ths-bitcoin-miner",
       "name": "Bitmain Antminer S21 Pro+ 234TH/S Bitcoin Miner",
       "coin": "BTC+FB+NMC",
-      "daily_profit_usd": 1.2,
-      "monthly_profit_usd": 36.0,
+      "daily_profit_usd": 1.08,
+      "monthly_profit_usd": 32.4,
       "hashrate": "234Th",
       "power_w": 3510
     },
@@ -431,53 +449,44 @@
       "slug": "bitmain-antminer-s21-pro-bitcoin-miner-234ths",
       "name": "Bitmain Antminer S21 Pro Bitcoin Miner 234TH/S",
       "coin": "BTC+FB+NMC",
-      "daily_profit_usd": 1.2,
-      "monthly_profit_usd": 36.0,
+      "daily_profit_usd": 1.08,
+      "monthly_profit_usd": 32.4,
       "hashrate": "234Th",
       "power_w": 3510
     },
     {
-      "slug": "bitdeer-sealminer-a2-hyd-bitcoin-miner-446ths",
-      "name": "Bitdeer SealMiner A2 Hyd Bitcoin Miner 446TH/S",
-      "coin": "BTC+FB+NMC",
-      "daily_profit_usd": 1.01,
-      "monthly_profit_usd": 30.3,
-      "hashrate": "446Th",
-      "power_w": 7360
+      "slug": "volcminer-d1-litecoin-dogecoin-miner",
+      "name": "VolcMiner D1 Litecoin & Dogecoin Miner",
+      "coin": "LTC+DOGE+BEL+LKY+PEP+JKC+DINGO",
+      "daily_profit_usd": 0.96,
+      "monthly_profit_usd": 28.8,
+      "hashrate": "16Gh",
+      "power_w": 3900
     },
     {
       "slug": "bitmain-antminer-ks7-kaspa-miner-36ths",
       "name": "Bitmain Antminer KS7 Kaspa Miner 36Th/s",
       "coin": "KAS",
-      "daily_profit_usd": 1.0,
-      "monthly_profit_usd": 30.0,
+      "daily_profit_usd": 0.83,
+      "monthly_profit_usd": 24.9,
       "hashrate": "36Th",
       "power_w": 2772
     },
     {
-      "slug": "volcminer-d1-hydro-litecoin-dogecoin-miner-30gs-33ghs-7600w",
-      "name": "VolcMiner D1 Hydro Litecoin & Dogecoin Miner 30G/s 33Gh/s 7600W",
-      "coin": "LTC+DOGE+BEL+LKY+PEP+JKC+DINGO",
-      "daily_profit_usd": 0.85,
-      "monthly_profit_usd": 25.5,
-      "hashrate": "30.4Gh",
-      "power_w": 7600
-    },
-    {
-      "slug": "canaan-avalon-a1566ha-2u-480t-bitcoin-hydro-miner",
-      "name": "Canaan Avalon A1566HA 2U 480T Bitcoin Hydro Miner",
+      "slug": "bitdeer-sealminer-a2-hyd-bitcoin-miner-446ths",
+      "name": "Bitdeer SealMiner A2 Hyd Bitcoin Miner 446TH/S",
       "coin": "BTC+FB+NMC",
-      "daily_profit_usd": 0.81,
-      "monthly_profit_usd": 24.3,
-      "hashrate": "480Th",
-      "power_w": 8064
+      "daily_profit_usd": 0.77,
+      "monthly_profit_usd": 23.1,
+      "hashrate": "446Th",
+      "power_w": 7360
     },
     {
       "slug": "microbt-whatsminer-m60s-bitcoin-miner-226ths",
       "name": "MicroBT Whatsminer M60S++ Bitcoin Miner 226TH/s",
       "coin": "BTC+FB+NMC",
-      "daily_profit_usd": 0.76,
-      "monthly_profit_usd": 22.8,
+      "daily_profit_usd": 0.64,
+      "monthly_profit_usd": 19.2,
       "hashrate": "226Th",
       "power_w": 3600
     },
@@ -485,53 +494,71 @@
       "slug": "goldshell-xt-box-xtm-tari-miner-580ghs",
       "name": "Goldshell XT BOX XTM (Tari) Miner 580Gh/s",
       "coin": "XTM",
-      "daily_profit_usd": 0.66,
-      "monthly_profit_usd": 19.8,
+      "daily_profit_usd": 0.63,
+      "monthly_profit_usd": 18.9,
       "hashrate": "580Gh",
       "power_w": 400
+    },
+    {
+      "slug": "pinecone-matches-inibox-850-mhs-initverse-miner",
+      "name": "Pinecone Matches INIBOX 850 Mh/s InitVerse Miner",
+      "coin": "INITVERSE",
+      "daily_profit_usd": 0.58,
+      "monthly_profit_usd": 17.4,
+      "hashrate": "850Mh",
+      "power_w": 500
     },
     {
       "slug": "fluminer-t3-bitcoin-miner-115ths",
       "name": "FLUMINER T3 Bitcoin Miner 115TH/S",
       "coin": "BTC+FB+NMC",
-      "daily_profit_usd": 0.64,
-      "monthly_profit_usd": 19.2,
+      "daily_profit_usd": 0.58,
+      "monthly_profit_usd": 17.4,
       "hashrate": "115Th",
       "power_w": 1700
     },
     {
-      "slug": "volcminer-d1-litecoin-dogecoin-miner",
-      "name": "VolcMiner D1 Litecoin & Dogecoin Miner",
-      "coin": "LTC+DOGE+BEL+LKY+PEP+JKC+DINGO",
-      "daily_profit_usd": 0.64,
-      "monthly_profit_usd": 19.2,
-      "hashrate": "16Gh",
-      "power_w": 3900
-    },
-    {
-      "slug": "whatsminer-m63s-hydro-bitcoin-miner-450ths",
-      "name": "Whatsminer M63S+ Hydro Bitcoin Miner 450TH/s",
+      "slug": "canaan-avalon-a1566ha-2u-480t-bitcoin-hydro-miner",
+      "name": "Canaan Avalon A1566HA 2U 480T Bitcoin Hydro Miner",
       "coin": "BTC+FB+NMC",
-      "daily_profit_usd": 0.59,
-      "monthly_profit_usd": 17.7,
-      "hashrate": "450Th",
-      "power_w": 7650
+      "daily_profit_usd": 0.56,
+      "monthly_profit_usd": 16.8,
+      "hashrate": "480Th",
+      "power_w": 8064
     },
     {
       "slug": "bombax-ez100-c-ethereum-classic-miner-3800mhs",
       "name": "Bombax EZ100-C Ethereum Classic Miner 3800MH/s",
       "coin": "ETC",
-      "daily_profit_usd": 0.54,
-      "monthly_profit_usd": 16.2,
+      "daily_profit_usd": 0.52,
+      "monthly_profit_usd": 15.6,
       "hashrate": "3.8Gh",
       "power_w": 760
+    },
+    {
+      "slug": "fluminer-l1-litecoin-dogecoin-miner-53ghs",
+      "name": "FLUMINER L1 Litecoin & Dogecoin Miner 5.3GH/s",
+      "coin": "LTC+DOGE+BEL+LKY+PEP+JKC+DINGO",
+      "daily_profit_usd": 0.49,
+      "monthly_profit_usd": 14.7,
+      "hashrate": "5.3Gh",
+      "power_w": 1200
+    },
+    {
+      "slug": "fluminer-l1-pro-6ghs-litecoin-dogecoin-miner",
+      "name": "Fluminer L1 Pro 6Gh/s Litecoin & Dogecoin Miner",
+      "coin": "LTC+DOGE+BEL+LKY+PEP+JKC+DINGO",
+      "daily_profit_usd": 0.48,
+      "monthly_profit_usd": 14.4,
+      "hashrate": "6Gh",
+      "power_w": 1400
     },
     {
       "slug": "bitdeer-sealminer-a2-air-bitcoin-miner-226ths",
       "name": "Bitdeer SealMiner A2 Air Bitcoin Miner 226TH/S",
       "coin": "BTC+FB+NMC",
-      "daily_profit_usd": 0.51,
-      "monthly_profit_usd": 15.3,
+      "daily_profit_usd": 0.39,
+      "monthly_profit_usd": 11.7,
       "hashrate": "226Th",
       "power_w": 3729
     },
@@ -539,8 +566,8 @@
       "slug": "bitmain-antminer-s21plus-bitcoin-miner",
       "name": "Bitmain Antminer S21+Plus Bitcoin Miner",
       "coin": "BTC+FB+NMC",
-      "daily_profit_usd": 0.49,
-      "monthly_profit_usd": 14.7,
+      "daily_profit_usd": 0.37,
+      "monthly_profit_usd": 11.1,
       "hashrate": "216Th",
       "power_w": 3564
     },
@@ -548,62 +575,26 @@
       "slug": "bitmain-antminer-s21-bitcoin-miner",
       "name": "Bitmain Antminer S21+ Bitcoin Miner",
       "coin": "BTC+FB+NMC",
-      "daily_profit_usd": 0.49,
-      "monthly_profit_usd": 14.7,
+      "daily_profit_usd": 0.37,
+      "monthly_profit_usd": 11.1,
       "hashrate": "216Th",
       "power_w": 3564
     },
     {
-      "slug": "fluminer-l1-litecoin-dogecoin-miner-53ghs",
-      "name": "FLUMINER L1 Litecoin & Dogecoin Miner 5.3GH/s",
-      "coin": "LTC+DOGE+BEL+LKY+PEP+JKC+DINGO",
-      "daily_profit_usd": 0.39,
-      "monthly_profit_usd": 11.7,
-      "hashrate": "5.3Gh",
-      "power_w": 1200
-    },
-    {
-      "slug": "bitmain-antminer-s21e-hyd-bitcoin-miner-288th",
-      "name": "Bitmain Antminer S21e Hyd Bitcoin Miner 288TH",
+      "slug": "whatsminer-m63s-hydro-bitcoin-miner-450ths",
+      "name": "Whatsminer M63S+ Hydro Bitcoin Miner 450TH/s",
       "coin": "BTC+FB+NMC",
-      "daily_profit_usd": 0.38,
-      "monthly_profit_usd": 11.4,
-      "hashrate": "288Th",
-      "power_w": 4896
-    },
-    {
-      "slug": "canaan-avalon-a15-pro-218t-bitcoin-miner",
-      "name": "Canaan Avalon A15 Pro 218T Bitcoin Miner",
-      "coin": "BTC+FB+NMC",
-      "daily_profit_usd": 0.37,
-      "monthly_profit_usd": 11.1,
-      "hashrate": "218Th",
-      "power_w": 3662
-    },
-    {
-      "slug": "pinecone-matches-inibox-850-mhs-initverse-miner",
-      "name": "Pinecone Matches INIBOX 850 Mh/s InitVerse Miner",
-      "coin": "INITVERSE",
-      "daily_profit_usd": 0.36,
-      "monthly_profit_usd": 10.8,
-      "hashrate": "850Mh",
-      "power_w": 500
-    },
-    {
-      "slug": "fluminer-l1-pro-6ghs-litecoin-dogecoin-miner",
-      "name": "Fluminer L1 Pro 6Gh/s Litecoin & Dogecoin Miner",
-      "coin": "LTC+DOGE+BEL+LKY+PEP+JKC+DINGO",
-      "daily_profit_usd": 0.36,
-      "monthly_profit_usd": 10.8,
-      "hashrate": "6Gh",
-      "power_w": 1400
+      "daily_profit_usd": 0.35,
+      "monthly_profit_usd": 10.5,
+      "hashrate": "450Th",
+      "power_w": 7650
     },
     {
       "slug": "ipollo-v2h-ethereum-classic-coin-miner-3400mhs",
       "name": "iPollo V2H Ethereum Classic Coin Miner 3400MH/s",
       "coin": "ETC",
-      "daily_profit_usd": 0.35,
-      "monthly_profit_usd": 10.5,
+      "daily_profit_usd": 0.33,
+      "monthly_profit_usd": 9.9,
       "hashrate": "3.4Gh",
       "power_w": 750
     },
@@ -617,58 +608,67 @@
       "power_w": 165
     },
     {
-      "slug": "xuanminer-c1-ethereum-classic-miner-12600mhs",
-      "name": "XuanMiner C1 Ethereum Classic Miner 12600Mh/s",
-      "coin": "ETC",
-      "daily_profit_usd": 0.29,
-      "monthly_profit_usd": 8.7,
-      "hashrate": "12.6Gh",
-      "power_w": 3300
+      "slug": "elphapex-dg2-mini-litecoin-dogecoin-miner-24ghs",
+      "name": "ElphaPex DG2 Mini Litecoin & Dogecoin Miner 2.4GH/s",
+      "coin": "LTC+DOGE+BEL+LKY+PEP+JKC+DINGO",
+      "daily_profit_usd": 0.25,
+      "monthly_profit_usd": 7.5,
+      "hashrate": "2.4Gh",
+      "power_w": 530
     },
     {
-      "slug": "whatsminer-m63s-hydro-bitcoin-miner-416ths",
-      "name": "Whatsminer M63S Hydro Bitcoin Miner 416TH/s",
-      "coin": "BTC+FB+NMC",
-      "daily_profit_usd": 0.27,
-      "monthly_profit_usd": 8.1,
-      "hashrate": "416Th",
-      "power_w": 7215
-    },
-    {
-      "slug": "whatsminer-m60s-bitcoin-miner-202ths",
-      "name": "Whatsminer M60S+ Bitcoin Miner 202TH/s",
+      "slug": "canaan-avalon-a15-pro-218t-bitcoin-miner",
+      "name": "Canaan Avalon A15 Pro 218T Bitcoin Miner",
       "coin": "BTC+FB+NMC",
       "daily_profit_usd": 0.25,
       "monthly_profit_usd": 7.5,
-      "hashrate": "202Th",
-      "power_w": 3441
+      "hashrate": "218Th",
+      "power_w": 3662
+    },
+    {
+      "slug": "bitmain-antminer-s21e-hyd-bitcoin-miner-288th",
+      "name": "Bitmain Antminer S21e Hyd Bitcoin Miner 288TH",
+      "coin": "BTC+FB+NMC",
+      "daily_profit_usd": 0.22,
+      "monthly_profit_usd": 6.6,
+      "hashrate": "288Th",
+      "power_w": 4896
+    },
+    {
+      "slug": "xuanminer-c1-ethereum-classic-miner-12600mhs",
+      "name": "XuanMiner C1 Ethereum Classic Miner 12600Mh/s",
+      "coin": "ETC",
+      "daily_profit_usd": 0.22,
+      "monthly_profit_usd": 6.6,
+      "hashrate": "12.6Gh",
+      "power_w": 3300
     },
     {
       "slug": "bitmain-antminer-e11-95ghs",
       "name": "Bitmain Antminer E11 9.5Gh/s",
       "coin": "ETC",
-      "daily_profit_usd": 0.25,
-      "monthly_profit_usd": 7.5,
-      "hashrate": "9.5Gh",
-      "power_w": 2470
-    },
-    {
-      "slug": "elphapex-dg2-mini-litecoin-dogecoin-miner-24ghs",
-      "name": "ElphaPex DG2 Mini Litecoin & Dogecoin Miner 2.4GH/s",
-      "coin": "LTC+DOGE+BEL+LKY+PEP+JKC+DINGO",
       "daily_profit_usd": 0.2,
       "monthly_profit_usd": 6.0,
-      "hashrate": "2.4Gh",
-      "power_w": 530
+      "hashrate": "9.5Gh",
+      "power_w": 2470
     },
     {
       "slug": "volcminer-d1-mini-pre-litecoin-dogecoin-miner-22ghs",
       "name": "VolcMiner D1 Mini Pre Litecoin & Dogecoin Miner 2.2Gh/s",
       "coin": "LTC+DOGE+BEL+LKY+PEP+JKC+DINGO",
-      "daily_profit_usd": 0.16,
-      "monthly_profit_usd": 4.8,
+      "daily_profit_usd": 0.2,
+      "monthly_profit_usd": 6.0,
       "hashrate": "2.2Gh",
       "power_w": 500
+    },
+    {
+      "slug": "whatsminer-m60s-bitcoin-miner-202ths",
+      "name": "Whatsminer M60S+ Bitcoin Miner 202TH/s",
+      "coin": "BTC+FB+NMC",
+      "daily_profit_usd": 0.14,
+      "monthly_profit_usd": 4.2,
+      "hashrate": "202Th",
+      "power_w": 3441
     },
     {
       "slug": "bitaxe-supra-hex-701-42ths-bitcoin-miner",
@@ -683,28 +683,19 @@
       "slug": "fluminer-l2-litecoin-dogecoin-miner-1ghs",
       "name": "FLUMINER L2 Litecoin &Dogecoin Miner 1GH/s",
       "coin": "LTC+DOGE+BEL+LKY+PEP+JKC+DINGO",
-      "daily_profit_usd": 0.07,
-      "monthly_profit_usd": 2.1,
+      "daily_profit_usd": 0.09,
+      "monthly_profit_usd": 2.7,
       "hashrate": "1Gh",
       "power_w": 230
     },
     {
-      "slug": "bitmain-antminer-s21-bitcoin-miner-200ths",
-      "name": "Bitmain Antminer S21 Bitcoin Miner 200TH/S",
-      "coin": "BTC+FB+NMC",
+      "slug": "ipollo-g1-mini-grin-coin-miner-12gs",
+      "name": "iPollo G1 Mini Grin Coin Miner 1.2G/s",
+      "coin": "MWC",
       "daily_profit_usd": 0.07,
       "monthly_profit_usd": 2.1,
-      "hashrate": "200Th",
-      "power_w": 3500
-    },
-    {
-      "slug": "jasminer-x16-q-pro-ethereum-classic-miner-2050mhs",
-      "name": "Jasminer X16-Q Pro Ethereum Classic Miner 2050Mh/s",
-      "coin": "ETC",
-      "daily_profit_usd": 0.06,
-      "monthly_profit_usd": 1.8,
-      "hashrate": "2.05Gh",
-      "power_w": 530
+      "hashrate": "4.2H",
+      "power_w": 120
     },
     {
       "slug": "bitaxe-gamma-800-bitcoin-miner-255ths",
@@ -716,31 +707,40 @@
       "power_w": 17
     },
     {
+      "slug": "jasminer-x16-q-pro-ethereum-classic-miner-2050mhs",
+      "name": "Jasminer X16-Q Pro Ethereum Classic Miner 2050Mh/s",
+      "coin": "ETC",
+      "daily_profit_usd": 0.05,
+      "monthly_profit_usd": 1.5,
+      "hashrate": "2.05Gh",
+      "power_w": 530
+    },
+    {
+      "slug": "whatsminer-m63s-hydro-bitcoin-miner-416ths",
+      "name": "Whatsminer M63S Hydro Bitcoin Miner 416TH/s",
+      "coin": "BTC+FB+NMC",
+      "daily_profit_usd": 0.05,
+      "monthly_profit_usd": 1.5,
+      "hashrate": "416Th",
+      "power_w": 7215
+    },
+    {
+      "slug": "elphapex-dg1-litecoin-dogecoin-miner-144ghs",
+      "name": "ElphaPex DG1+ Litecoin & Dogecoin Miner 14.4GH/s",
+      "coin": "LTC+DOGE+BEL+LKY+PEP+JKC+DINGO",
+      "daily_profit_usd": 0.02,
+      "monthly_profit_usd": 0.6,
+      "hashrate": "14.4Gh",
+      "power_w": 3950
+    },
+    {
       "slug": "nerdminer-nerdoctaxe-96ths-bitcoin-solo-miner",
       "name": "NerdMiner NerdOCTAxe 9.6Th/s Bitcoin Solo Miner",
       "coin": "BTC+FB+NMC",
-      "daily_profit_usd": 0.02,
-      "monthly_profit_usd": 0.6,
+      "daily_profit_usd": 0.01,
+      "monthly_profit_usd": 0.3,
       "hashrate": "9.6Th",
       "power_w": 160
-    },
-    {
-      "slug": "nerdminer-nerdqaxe-hydro-rev-61-6ths-bitcoin-solo-miner",
-      "name": "NerdMiner NerdQaxe++ Hydro Rev 6.1 6TH/s Bitcoin Solo Miner",
-      "coin": "BTC+FB+NMC",
-      "daily_profit_usd": 0.01,
-      "monthly_profit_usd": 0.3,
-      "hashrate": "6Th",
-      "power_w": 103
-    },
-    {
-      "slug": "nerdminer-nerdqaxe-rev-61-6ths-bitcoin-miner",
-      "name": "NerdMiner NerdQaxe++ Rev 6.1 6Th/s Bitcoin Miner",
-      "coin": "BTC+FB+NMC",
-      "daily_profit_usd": 0.01,
-      "monthly_profit_usd": 0.3,
-      "hashrate": "6Th",
-      "power_w": 103
     },
     {
       "slug": "bitaxe-gamma-601-bitcoin-miner-12ths",
