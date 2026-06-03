@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-02",
+  "date": "2026-06-03",
   "miners": [
     {
       "slug": "iceriver-xp0-150ghs-xp-xphere-miner",
@@ -130,7 +130,7 @@
     {
       "slug": "microbt-whatsminer-m79s-hydro-bitcoin-miner-135phs",
       "name": "MicroBT Whatsminer M79S Hydro Bitcoin Miner 1.35PH/s",
-      "new_price_usd": 18450.0,
+      "new_price_usd": 12100.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -977,7 +977,7 @@
     {
       "slug": "bitmain-antminer-s21-xp-hyd-bitcoin-miner-473th",
       "name": "Bitmain Antminer S21 XP Hyd Bitcoin Miner 473TH",
-      "new_price_usd": 6250.0,
+      "new_price_usd": 5250.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -1047,7 +1047,7 @@
     {
       "slug": "bitmain-antminer-l9-litecoin-dogecoin-miner",
       "name": "Bitmain Antminer L9 Litecoin & Dogecoin Miner",
-      "new_price_usd": 2400.0,
+      "new_price_usd": 1800.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -1838,7 +1838,7 @@
     {
       "slug": "bitmain-antminer-z15-zec-miner",
       "name": "Bitmain Antminer Z15 ZEC Miner",
-      "new_price_usd": 4900.0,
+      "new_price_usd": 3600.0,
       "used_price_usd": null,
       "used_source": null
     },
