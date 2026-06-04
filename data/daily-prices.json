@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-03",
+  "date": "2026-06-04",
   "miners": [
     {
       "slug": "iceriver-xp0-150ghs-xp-xphere-miner",
@@ -284,7 +284,7 @@
     {
       "slug": "bitmain-antminer-l11-20ghs-scrypt-miner-for-ltc-doge",
       "name": "Bitmain Antminer L11 20GH/s Scrypt Miner for LTC & DOGE",
-      "new_price_usd": 6200.0,
+      "new_price_usd": 6100.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -977,7 +977,7 @@
     {
       "slug": "bitmain-antminer-s21-xp-hyd-bitcoin-miner-473th",
       "name": "Bitmain Antminer S21 XP Hyd Bitcoin Miner 473TH",
-      "new_price_usd": 5250.0,
+      "new_price_usd": 5500.0,
       "used_price_usd": null,
       "used_source": null
     },
