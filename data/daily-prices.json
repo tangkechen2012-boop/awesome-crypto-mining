@@ -1,10 +1,31 @@
 {
-  "date": "2026-06-04",
+  "date": "2026-06-05",
   "miners": [
     {
-      "slug": "iceriver-xp0-150ghs-xp-xphere-miner",
-      "name": "ICERIVER XP0 150GH/s XP Xphere Miner",
-      "new_price_usd": 1590.0,
+      "slug": "whatsminer-m7d-hydro-bitcoin-miner-634ths",
+      "name": "WhatsMiner M7D Hydro Bitcoin Miner 634TH/s",
+      "new_price_usd": 6117.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "whatsminer-m7ds-hydro-bitcoin-miner-680ths",
+      "name": "WhatsMiner M7DS Hydro Bitcoin Miner 680TH/s",
+      "new_price_usd": 19999.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitdeer-sealminer-a4-pro-hydro-bitcoin-miner-680ths",
+      "name": "Bitdeer SealMiner A4 Pro Hydro Bitcoin Miner 680TH/S",
+      "new_price_usd": 8649.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitdeer-sealminer-a4-ultra-hydro-bitcoin-miner-886ths",
+      "name": "Bitdeer SealMiner A4 Ultra Hydro Bitcoin Miner 886TH/S",
+      "new_price_usd": 19800.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -88,7 +109,7 @@
     {
       "slug": "pinecone-matches-inibox-pro-24-ghs-initverse-miner",
       "name": "Pinecone Matches INIBOX PRO 2.4 Gh/s InitVerse Miner",
-      "new_price_usd": 5200.0,
+      "new_price_usd": 2200.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -389,7 +410,7 @@
     {
       "slug": "iceriver-ae1-lite-aleo-miner-300mhs",
       "name": "IceRiver AE1 LITE ALEO Miner 300Mh/s",
-      "new_price_usd": 1149.0,
+      "new_price_usd": 1090.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -401,8 +422,8 @@
       "used_source": null
     },
     {
-      "slug": "bitmain-antminer-s23-hyd-3u-bitcoin-miner-116phs",
-      "name": "Bitmain Antminer S23 Hyd 3U Bitcoin Miner 1.16PH/S",
+      "slug": "bitmain-antminer-s23-hyd-3u-bitcoin-miner-1160ths",
+      "name": "Bitmain Antminer S23 Hyd 3U Bitcoin Miner 1160TH/S",
       "new_price_usd": 29800.0,
       "used_price_usd": null,
       "used_source": null
@@ -529,7 +550,7 @@
     {
       "slug": "bitdeer-sealminer-a3-pro-hyd-bitcoin-miner-660ths",
       "name": "Bitdeer SealMiner A3 Pro Hyd Bitcoin Miner 660TH/S",
-      "new_price_usd": 10899.0,
+      "new_price_usd": 9800.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -620,7 +641,7 @@
     {
       "slug": "volcminer-d1-hydro-litecoin-dogecoin-miner-30gs-33ghs-7600w",
       "name": "VolcMiner D1 Hydro Litecoin & Dogecoin Miner 30G/s 33Gh/s 7600W",
-      "new_price_usd": 5900.0,
+      "new_price_usd": 6140.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -989,8 +1010,8 @@
       "used_source": null
     },
     {
-      "slug": "private-hammer-d12-litecoin-dogecoin-miner-4700mhs",
-      "name": "Private: HAMMER D12 Litecoin & Dogecoin Miner 4700Mh/s",
+      "slug": "hammer-d12-litecoin-dogecoin-miner-4700mhs",
+      "name": "HAMMER D12 Litecoin & Dogecoin Miner 4700Mh/s",
       "new_price_usd": 4999.0,
       "used_price_usd": null,
       "used_source": null
@@ -1353,8 +1374,8 @@
       "used_source": null
     },
     {
-      "slug": "bitmain-z15-pro-zcash-miner",
-      "name": "Bitmain Z15 Pro Zcash Miner",
+      "slug": "bitmain-antminer-z15-pro-zcash-miner-840ksol",
+      "name": "Bitmain Antminer Z15 Pro Zcash Miner 840KSol",
       "new_price_usd": 4100.0,
       "used_price_usd": null,
       "used_source": null
@@ -1836,8 +1857,8 @@
       "used_source": null
     },
     {
-      "slug": "bitmain-antminer-z15-zec-miner",
-      "name": "Bitmain Antminer Z15 ZEC Miner",
+      "slug": "bitmain-antminer-z15-420ksols-equihash-miner",
+      "name": "Bitmain Antminer Z15 420KSol/s Equihash Miner",
       "new_price_usd": 3600.0,
       "used_price_usd": null,
       "used_source": null
@@ -1943,7 +1964,7 @@
     {
       "slug": "bitmain-antminer-l7-litecoin-dogecoin-miner",
       "name": "Bitmain Antminer L7 Litecoin & DogeCoin Miner",
-      "new_price_usd": 710.0,
+      "new_price_usd": 680.0,
       "used_price_usd": null,
       "used_source": null
     },
