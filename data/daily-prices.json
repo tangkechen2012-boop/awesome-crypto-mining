@@ -1,6 +1,13 @@
 {
-  "date": "2026-06-08",
+  "date": "2026-06-09",
   "miners": [
+    {
+      "slug": "nerdminer-nerdoctaxe-rev-31-hydro-12ths-bitcoin-solo-miner",
+      "name": "NerdMiner NerdOCTAxe Rev 3.1 Hydro 12Th/s Bitcoin Solo Miner",
+      "new_price_usd": 360.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
     {
       "slug": "whatsminer-m7d-hydro-bitcoin-miner-634ths",
       "name": "WhatsMiner M7D Hydro Bitcoin Miner 634TH/s",
@@ -1383,7 +1390,7 @@
     {
       "slug": "bitmain-z15-pro-zcash-miner",
       "name": "Bitmain Z15 Pro Zcash Miner",
-      "new_price_usd": 4100.0,
+      "new_price_usd": 4600.0,
       "used_price_usd": null,
       "used_source": null
     },
