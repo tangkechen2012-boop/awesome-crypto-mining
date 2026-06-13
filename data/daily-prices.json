@@ -1,6 +1,20 @@
 {
-  "date": "2026-06-12",
+  "date": "2026-06-13",
   "miners": [
+    {
+      "slug": "dogexus-dx01-litecoin-dogecoin-solo-miner-60mhs",
+      "name": "DOGEXUS DX01 Litecoin & Dogecoin Solo Miner 60MH/s",
+      "new_price_usd": 190.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
+    {
+      "slug": "bitmain-antminer-l11-hyd-2u-35g-litecoin-dogecoin-miner-copy",
+      "name": "Bitmain Antminer L11 Hyd 2U 35G Litecoin & Dogecoin Miner (Copy)",
+      "new_price_usd": 9000.0,
+      "used_price_usd": null,
+      "used_source": null
+    },
     {
       "slug": "nerdminer-nerdoctaxe-rev-31-hydro-12ths-bitcoin-solo-miner",
       "name": "NerdMiner NerdOCTAxe Rev 3.1 Hydro 12Th/s Bitcoin Solo Miner",
@@ -319,7 +333,7 @@
     {
       "slug": "bitmain-antminer-l11-20ghs-scrypt-miner-for-ltc-doge",
       "name": "Bitmain Antminer L11 20GH/s Scrypt Miner for LTC & DOGE",
-      "new_price_usd": 6100.0,
+      "new_price_usd": 5650.0,
       "used_price_usd": null,
       "used_source": null
     },
