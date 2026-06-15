@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-14",
+  "date": "2026-06-15",
   "miners": [
     {
       "slug": "dogexus-dx01-litecoin-dogecoin-solo-miner-60mhs",
@@ -1096,7 +1096,7 @@
     {
       "slug": "bitmain-antminer-l9-litecoin-dogecoin-miner",
       "name": "Bitmain Antminer L9 Litecoin & Dogecoin Miner",
-      "new_price_usd": 1800.0,
+      "new_price_usd": 2500.0,
       "used_price_usd": null,
       "used_source": null
     },
