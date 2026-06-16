@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-15",
+  "date": "2026-06-16",
   "miners": [
     {
       "slug": "dogexus-dx01-litecoin-dogecoin-solo-miner-60mhs",
@@ -53,7 +53,7 @@
     {
       "slug": "iceriver-xp0-150ghs-xp-xphere-miner",
       "name": "ICERIVER XP0 150GH/s XP Xphere Miner",
-      "new_price_usd": 1590.0,
+      "new_price_usd": 1190.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -312,7 +312,7 @@
     {
       "slug": "pinecone-matches-inibox-850-mhs-initverse-miner",
       "name": "Pinecone Matches INIBOX 850 Mh/s InitVerse Miner",
-      "new_price_usd": 2820.0,
+      "new_price_usd": 350.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -333,7 +333,7 @@
     {
       "slug": "bitmain-antminer-l11-20ghs-scrypt-miner-for-ltc-doge",
       "name": "Bitmain Antminer L11 20GH/s Scrypt Miner for LTC & DOGE",
-      "new_price_usd": 5650.0,
+      "new_price_usd": 4700.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -618,8 +618,8 @@
       "used_source": null
     },
     {
-      "slug": "canaan-avalon-q-bitcoin-miner-90ths",
-      "name": "Canaan Avalon Q Bitcoin Miner 90Th/s",
+      "slug": "canaan-avalon-q-90ths-bitcoin-miner",
+      "name": "Canaan Avalon Q 90TH/s Bitcoin Miner",
       "new_price_usd": 1399.0,
       "used_price_usd": null,
       "used_source": null
