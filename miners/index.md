@@ -1,6 +1,6 @@
 # ⛏️ Miner Profitability Rankings
 
-> **Last updated:** 2026-06-18 | **Electricity cost:** $0.06/kWh | **Source:** bt-miners.com API
+> **Last updated:** 2026-06-19 | **Electricity cost:** $0.06/kWh | **Source:** bt-miners.com API
 
 <!-- AUTO-UPDATED BY GITHUB ACTIONS -->
 
