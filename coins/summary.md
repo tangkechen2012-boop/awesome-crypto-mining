@@ -1,13 +1,13 @@
 # 💰 Coin Prices
 
-> **Last updated:** 2026-07-04 | **Source:** CoinGecko
+> **Last updated:** 2026-07-05 | **Source:** CoinGecko
 
 <!-- AUTO-UPDATED BY GITHUB ACTIONS -->
 
 | Coin | Algorithm | Price (USD) | 24h Volume | Market Cap | Details |
 |------|-----------|-------------|------------|------------|---------|
-| BTC | SHA-256 | $62,459.00 | $24.1B | $1.3T | [View](coins/bitcoin.md) |
-| ZEC | Equihash | $461.0400 | $429.8M | $7.7B | [View](coins/zcash.md) |
-| XMR | RandomX | $325.6000 | $101.2M | $6.1B | [View](coins/monero.md) |
-| KAS | kHeavyHash | $0.031588 | $7.2M | $869.4M | [View](coins/kaspa.md) |
-| ETC | ETHash | $7.1600 | $30.9M | $1.1B | [View](coins/ethereum-classic.md) |
+| BTC | SHA-256 | $62,702.00 | $17.9B | $1.3T | [View](coins/bitcoin.md) |
+| ZEC | Equihash | $456.4200 | $280.2M | $7.7B | [View](coins/zcash.md) |
+| XMR | RandomX | $332.1900 | $111.9M | $6.2B | [View](coins/monero.md) |
+| KAS | kHeavyHash | $0.030912 | $10.3M | $849.9M | [View](coins/kaspa.md) |
+| ETC | ETHash | $7.0800 | $29.7M | $1.1B | [View](coins/ethereum-classic.md) |
