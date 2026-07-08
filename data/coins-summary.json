@@ -1,53 +1,61 @@
 {
-  "date": "2026-07-07",
+  "date": "2026-07-08",
   "coins": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
       "algo": "SHA-256",
-      "price_usd": 63088,
-      "volume_usd": 36949090552.502365,
-      "market_cap_usd": 1265520125054.1946
+      "price_usd": 62760,
+      "volume_usd": 31283336287.16651,
+      "market_cap_usd": 1258596123849.0876
     },
     {
       "symbol": "ZEC",
       "name": "Zcash",
       "algo": "Equihash",
-      "price_usd": 448.08,
-      "volume_usd": 340057479.08483535,
-      "market_cap_usd": 7528796709.708284
+      "price_usd": 482.66,
+      "volume_usd": 575351711.4569427,
+      "market_cap_usd": 8104349462.361938
     },
     {
       "symbol": "XMR",
       "name": "Monero",
       "algo": "RandomX",
-      "price_usd": 325.84,
-      "volume_usd": 109000932.62544459,
-      "market_cap_usd": 6117977202.69311
+      "price_usd": 331.09,
+      "volume_usd": 107696708.2357179,
+      "market_cap_usd": 6216251670.4149
     },
     {
       "symbol": "KAS",
       "name": "Kaspa",
       "algo": "kHeavyHash",
-      "price_usd": 0.02962715,
-      "volume_usd": 11098197.672040168,
-      "market_cap_usd": 814502159.4863434
+      "price_usd": 0.02913512,
+      "volume_usd": 7923957.132250747,
+      "market_cap_usd": 801061040.7611542
     },
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
       "algo": "ETHash",
-      "price_usd": 7.03,
-      "volume_usd": 31334782.441648304,
-      "market_cap_usd": 1100593712.2891774
+      "price_usd": 6.9,
+      "volume_usd": 36047629.20318249,
+      "market_cap_usd": 1078670394.2035801
     },
     {
       "symbol": "LTC",
       "name": "Litecoin",
       "algo": "Scrypt",
-      "price_usd": 44.07,
-      "volume_usd": 236882885.53484905,
-      "market_cap_usd": 3410306128.5549726
+      "price_usd": 43.64,
+      "volume_usd": 244779237.61419678,
+      "market_cap_usd": 3375765040.2493706
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "algo": "Scrypt",
+      "price_usd": 0.072647,
+      "volume_usd": 596073185.7090286,
+      "market_cap_usd": 11258604394.456976
     }
   ]
 }
