@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-24",
+  "date": "2026-07-25",
   "miners": [
     {
       "slug": "dogexus-dx01-litecoin-dogecoin-solo-miner-60mhs",
@@ -382,7 +382,7 @@
     {
       "slug": "iceriver-ae2-aleo-miner-720mhs",
       "name": "IceRiver AE2 ALEO Miner 720Mh/s",
-      "new_price_usd": 2799.0,
+      "new_price_usd": 1100.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -1402,9 +1402,9 @@
       "used_source": null
     },
     {
-      "slug": "bitmain-z15-pro-zcash-miner",
-      "name": "Bitmain Z15 Pro Zcash Miner",
-      "new_price_usd": 6500.0,
+      "slug": "bitmain-antminer-z15-pro-zcash-miner",
+      "name": "Bitmain Antminer Z15 Pro Zcash Miner",
+      "new_price_usd": 4200.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -1885,8 +1885,8 @@
       "used_source": null
     },
     {
-      "slug": "bitmain-antminer-z15-zec-miner",
-      "name": "Bitmain Antminer Z15 ZEC Miner",
+      "slug": "bitmain-antminer-z15-zcash-miner",
+      "name": "Bitmain Antminer Z15 Zcash Miner",
       "new_price_usd": 3600.0,
       "used_price_usd": null,
       "used_source": null
