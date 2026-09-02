@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "miners": [
     {
       "slug": "bitmain-antminer-s23-xp-hyd-bitcoin-miner-600th",
@@ -172,7 +172,7 @@
     {
       "slug": "goldshell-sc5-pro-ii-siacoin-miner-14ths",
       "name": "Goldshell SC5 Pro II Siacoin Miner 14TH/s",
-      "new_price_usd": 1880.0,
+      "new_price_usd": 2580.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -438,7 +438,7 @@
     {
       "slug": "ibelink-bm-s3-siacoin-miner-25ths",
       "name": "iBeLink BM-S3+ Siacoin Miner 25Th/s",
-      "new_price_usd": 1980.0,
+      "new_price_usd": 2380.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -569,8 +569,8 @@
       "used_source": null
     },
     {
-      "slug": "elphapex-dg2-litecoin-dogecoin-miner-205ghs",
-      "name": "ElphaPex DG2+ Litecoin & Dogecoin Miner 20.5GH/s",
+      "slug": "elphapex-dg2-litecoin-dogecoin-miner",
+      "name": "ElphaPex DG2+ Litecoin & Dogecoin Miner",
       "new_price_usd": 10190.0,
       "used_price_usd": null,
       "used_source": null
@@ -681,8 +681,8 @@
       "used_source": null
     },
     {
-      "slug": "volcminer-d1-hydro-litecoin-dogecoin-miner-30gs-33ghs-7600w",
-      "name": "VolcMiner D1 Hydro Litecoin & Dogecoin Miner 30G/s 33Gh/s 7600W",
+      "slug": "volcminer-d1-hydro-litecoin-dogecoin-miner",
+      "name": "VolcMiner D1 Hydro Litecoin & Dogecoin Miner",
       "new_price_usd": 6140.0,
       "used_price_usd": null,
       "used_source": null
@@ -1229,14 +1229,14 @@
     {
       "slug": "goldshell-sc5-pro-siacoin-miner-11ths",
       "name": "Goldshell SC5 Pro Siacoin Miner 11TH/s",
-      "new_price_usd": 1880.0,
+      "new_price_usd": 2380.0,
       "used_price_usd": null,
       "used_source": null
     },
     {
       "slug": "goldshell-sc-lite-siacoin-miner-44ths",
       "name": "Goldshell SC Lite Siacoin Miner 4.4TH/s",
-      "new_price_usd": 850.0,
+      "new_price_usd": 1450.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -1803,7 +1803,7 @@
     {
       "slug": "goldshell-hs6-hns-siacoin-miner",
       "name": "Goldshell HS6 HNS & Siacoin Miner",
-      "new_price_usd": 1980.0,
+      "new_price_usd": 2380.0,
       "used_price_usd": null,
       "used_source": null
     },
