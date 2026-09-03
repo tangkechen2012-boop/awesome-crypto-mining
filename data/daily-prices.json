@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "miners": [
     {
       "slug": "bitmain-antminer-s23-xp-hyd-bitcoin-miner-600th",
@@ -172,7 +172,7 @@
     {
       "slug": "goldshell-sc5-pro-ii-siacoin-miner-14ths",
       "name": "Goldshell SC5 Pro II Siacoin Miner 14TH/s",
-      "new_price_usd": 2580.0,
+      "new_price_usd": 2880.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -438,7 +438,7 @@
     {
       "slug": "ibelink-bm-s3-siacoin-miner-25ths",
       "name": "iBeLink BM-S3+ Siacoin Miner 25Th/s",
-      "new_price_usd": 2380.0,
+      "new_price_usd": 3199.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -1229,7 +1229,7 @@
     {
       "slug": "goldshell-sc5-pro-siacoin-miner-11ths",
       "name": "Goldshell SC5 Pro Siacoin Miner 11TH/s",
-      "new_price_usd": 2380.0,
+      "new_price_usd": 2880.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -1418,7 +1418,7 @@
     {
       "slug": "bitmain-antminer-z15-pro-zcash-miner",
       "name": "Bitmain Antminer Z15 Pro Zcash Miner",
-      "new_price_usd": 5800.0,
+      "new_price_usd": 6200.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -1677,14 +1677,14 @@
     {
       "slug": "goldshell-sc-box-siacoin-miner-900ghs",
       "name": "Goldshell SC-Box Siacoin Miner 900Gh/s",
-      "new_price_usd": 750.0,
+      "new_price_usd": 850.0,
       "used_price_usd": null,
       "used_source": null
     },
     {
       "slug": "goldshell-sc-box-ii-siacoin-miner-19ths",
       "name": "Goldshell SC-Box II Siacoin Miner 1.9TH/S",
-      "new_price_usd": 409.0,
+      "new_price_usd": 880.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -1803,7 +1803,7 @@
     {
       "slug": "goldshell-hs6-hns-siacoin-miner",
       "name": "Goldshell HS6 HNS & Siacoin Miner",
-      "new_price_usd": 2380.0,
+      "new_price_usd": 2414.29,
       "used_price_usd": null,
       "used_source": null
     },
@@ -1992,7 +1992,7 @@
     {
       "slug": "ibelink-bm-s1-siacoin-miner-68ths",
       "name": "iBeLink BM-S1 Siacoin Miner 6.8TH/S",
-      "new_price_usd": 1399.0,
+      "new_price_usd": 3199.0,
       "used_price_usd": null,
       "used_source": null
     },
