@@ -1,45 +1,61 @@
 {
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "coins": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
       "algo": "SHA-256",
-      "price_usd": 80824,
-      "volume_usd": 40617494683.52424,
-      "market_cap_usd": 1622896647553.7358
+      "price_usd": 79649,
+      "volume_usd": 32134543878.659126,
+      "market_cap_usd": 1599307367803.3352
     },
     {
       "symbol": "ZEC",
       "name": "Zcash",
       "algo": "Equihash",
-      "price_usd": 954.66,
-      "volume_usd": 1015022460.0657125,
-      "market_cap_usd": 16143995080.951252
+      "price_usd": 1014.78,
+      "volume_usd": 1287476012.492722,
+      "market_cap_usd": 17152150821.471073
     },
     {
       "symbol": "XMR",
       "name": "Monero",
       "algo": "RandomX",
-      "price_usd": 523.57,
-      "volume_usd": 145549816.5510409,
-      "market_cap_usd": 9843108723.252203
+      "price_usd": 527.78,
+      "volume_usd": 196477643.31691787,
+      "market_cap_usd": 9919497816.049572
     },
     {
       "symbol": "KAS",
       "name": "Kaspa",
       "algo": "kHeavyHash",
-      "price_usd": 0.02929383,
-      "volume_usd": 12057202.350927697,
-      "market_cap_usd": 811090976.1134204
+      "price_usd": 0.03054059,
+      "volume_usd": 13154631.442593489,
+      "market_cap_usd": 845324425.2113134
     },
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
       "algo": "ETHash",
-      "price_usd": 7.56,
-      "volume_usd": 41870699.117251985,
-      "market_cap_usd": 1195238099.0380456
+      "price_usd": 7.66,
+      "volume_usd": 41622776.02043057,
+      "market_cap_usd": 1211382924.414769
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "algo": "Scrypt",
+      "price_usd": 53.46,
+      "volume_usd": 317067744.4262544,
+      "market_cap_usd": 4146499796.9436646
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "algo": "Scrypt",
+      "price_usd": 0.08497,
+      "volume_usd": 825025807.6102487,
+      "market_cap_usd": 13234174185.275873
     }
   ]
 }
