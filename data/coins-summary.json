@@ -1,61 +1,45 @@
 {
-  "date": "2026-09-05",
+  "date": "2026-09-06",
   "coins": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
       "algo": "SHA-256",
-      "price_usd": 79649,
-      "volume_usd": 32134543878.659126,
-      "market_cap_usd": 1599307367803.3352
+      "price_usd": 79818,
+      "volume_usd": 19515616032.575047,
+      "market_cap_usd": 1602852583006.7864
     },
     {
       "symbol": "ZEC",
       "name": "Zcash",
       "algo": "Equihash",
-      "price_usd": 1014.78,
-      "volume_usd": 1287476012.492722,
-      "market_cap_usd": 17152150821.471073
+      "price_usd": 1169.83,
+      "volume_usd": 998553323.7997422,
+      "market_cap_usd": 19789375177.199673
     },
     {
       "symbol": "XMR",
       "name": "Monero",
       "algo": "RandomX",
-      "price_usd": 527.78,
-      "volume_usd": 196477643.31691787,
-      "market_cap_usd": 9919497816.049572
+      "price_usd": 551.76,
+      "volume_usd": 113848835.9637387,
+      "market_cap_usd": 10368502793.367144
     },
     {
       "symbol": "KAS",
       "name": "Kaspa",
       "algo": "kHeavyHash",
-      "price_usd": 0.03054059,
-      "volume_usd": 13154631.442593489,
-      "market_cap_usd": 845324425.2113134
+      "price_usd": 0.03027365,
+      "volume_usd": 9576444.373292126,
+      "market_cap_usd": 838533809.2849468
     },
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
       "algo": "ETHash",
-      "price_usd": 7.66,
-      "volume_usd": 41622776.02043057,
-      "market_cap_usd": 1211382924.414769
-    },
-    {
-      "symbol": "LTC",
-      "name": "Litecoin",
-      "algo": "Scrypt",
-      "price_usd": 53.46,
-      "volume_usd": 317067744.4262544,
-      "market_cap_usd": 4146499796.9436646
-    },
-    {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
-      "algo": "Scrypt",
-      "price_usd": 0.08497,
-      "volume_usd": 825025807.6102487,
-      "market_cap_usd": 13234174185.275873
+      "price_usd": 7.8,
+      "volume_usd": 50394379.662885174,
+      "market_cap_usd": 1233194337.7875876
     }
   ]
 }
