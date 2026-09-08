@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "miners": [
     {
       "slug": "bitmain-antminer-s23-xp-hyd-bitcoin-miner-600th",
@@ -11,7 +11,7 @@
     {
       "slug": "bitmain-antminer-z15-zcash-miner",
       "name": "Bitmain Antminer Z15 Zcash Miner",
-      "new_price_usd": 3000.0,
+      "new_price_usd": 3600.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -172,7 +172,7 @@
     {
       "slug": "goldshell-sc5-pro-ii-siacoin-miner-14ths",
       "name": "Goldshell SC5 Pro II Siacoin Miner 14TH/s",
-      "new_price_usd": 2880.0,
+      "new_price_usd": 2150.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -347,7 +347,7 @@
     {
       "slug": "bitmain-antminer-l11-20ghs-scrypt-miner-for-ltc-dogecoin",
       "name": "Bitmain Antminer L11 20GH/s Scrypt Miner for LTC & DOGECOIN",
-      "new_price_usd": 4450.0,
+      "new_price_usd": 5350.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -438,7 +438,7 @@
     {
       "slug": "ibelink-bm-s3-siacoin-miner-25ths",
       "name": "iBeLink BM-S3+ Siacoin Miner 25Th/s",
-      "new_price_usd": 3199.0,
+      "new_price_usd": 5900.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -1075,7 +1075,7 @@
     {
       "slug": "goldshell-hs-box-ii-handshake-miner-12ths",
       "name": "Goldshell HS-Box II Handshake Miner 1.2Th/s",
-      "new_price_usd": 1380.0,
+      "new_price_usd": 1580.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -1215,7 +1215,7 @@
     {
       "slug": "ibelink-bm-s3-siacoin-miner-19ths",
       "name": "iBeLink BM-S3 Siacoin Miner 19Th/s",
-      "new_price_usd": 1580.0,
+      "new_price_usd": 2599.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -1229,14 +1229,14 @@
     {
       "slug": "goldshell-sc5-pro-siacoin-miner-11ths",
       "name": "Goldshell SC5 Pro Siacoin Miner 11TH/s",
-      "new_price_usd": 2880.0,
+      "new_price_usd": 2150.0,
       "used_price_usd": null,
       "used_source": null
     },
     {
       "slug": "goldshell-sc-lite-siacoin-miner-44ths",
       "name": "Goldshell SC Lite Siacoin Miner 4.4TH/s",
-      "new_price_usd": 1450.0,
+      "new_price_usd": 1980.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -1418,7 +1418,7 @@
     {
       "slug": "bitmain-antminer-z15-pro-zcash-miner",
       "name": "Bitmain Antminer Z15 Pro Zcash Miner",
-      "new_price_usd": 6200.0,
+      "new_price_usd": 7300.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -1677,14 +1677,14 @@
     {
       "slug": "goldshell-sc-box-siacoin-miner-900ghs",
       "name": "Goldshell SC-Box Siacoin Miner 900Gh/s",
-      "new_price_usd": 850.0,
+      "new_price_usd": 1680.0,
       "used_price_usd": null,
       "used_source": null
     },
     {
       "slug": "goldshell-sc-box-ii-siacoin-miner-19ths",
       "name": "Goldshell SC-Box II Siacoin Miner 1.9TH/S",
-      "new_price_usd": 880.0,
+      "new_price_usd": 1680.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -1901,7 +1901,7 @@
     {
       "slug": "bitmain-antminer-z15-zcash-miner",
       "name": "Bitmain Antminer Z15 Zcash Miner",
-      "new_price_usd": 4000.0,
+      "new_price_usd": 4300.0,
       "used_price_usd": null,
       "used_source": null
     },
