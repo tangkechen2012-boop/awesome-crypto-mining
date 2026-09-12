@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-11",
+  "date": "2026-09-12",
   "miners": [
     {
       "slug": "bitmain-antminer-s23-xp-hyd-bitcoin-miner-600th",
@@ -172,7 +172,7 @@
     {
       "slug": "goldshell-sc5-pro-ii-siacoin-miner-14ths",
       "name": "Goldshell SC5 Pro II Siacoin Miner 14TH/s",
-      "new_price_usd": 2150.0,
+      "new_price_usd": 1550.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -438,7 +438,7 @@
     {
       "slug": "ibelink-bm-s3-siacoin-miner-25ths",
       "name": "iBeLink BM-S3+ Siacoin Miner 25Th/s",
-      "new_price_usd": 5900.0,
+      "new_price_usd": 5700.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -1229,7 +1229,7 @@
     {
       "slug": "goldshell-sc5-pro-siacoin-miner-11ths",
       "name": "Goldshell SC5 Pro Siacoin Miner 11TH/s",
-      "new_price_usd": 2150.0,
+      "new_price_usd": 1550.0,
       "used_price_usd": null,
       "used_source": null
     },
