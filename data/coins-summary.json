@@ -1,45 +1,61 @@
 {
-  "date": "2026-09-12",
+  "date": "2026-09-13",
   "coins": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
       "algo": "SHA-256",
-      "price_usd": 77268,
-      "volume_usd": 33603081041.887417,
-      "market_cap_usd": 1551774411556.4834
+      "price_usd": 77058,
+      "volume_usd": 14707729130.496964,
+      "market_cap_usd": 1548218105581.4924
     },
     {
       "symbol": "ZEC",
       "name": "Zcash",
       "algo": "Equihash",
-      "price_usd": 1128.12,
-      "volume_usd": 1767217234.6939209,
-      "market_cap_usd": 19088112757.109585
+      "price_usd": 1133.72,
+      "volume_usd": 630176395.7685031,
+      "market_cap_usd": 19194601391.6332
     },
     {
       "symbol": "XMR",
       "name": "Monero",
       "algo": "RandomX",
-      "price_usd": 537.38,
-      "volume_usd": 124336373.79331546,
-      "market_cap_usd": 10103074444.0717
+      "price_usd": 530.56,
+      "volume_usd": 99368963.80729161,
+      "market_cap_usd": 9977877177.77102
     },
     {
       "symbol": "KAS",
       "name": "Kaspa",
       "algo": "kHeavyHash",
-      "price_usd": 0.03545402,
-      "volume_usd": 14060202.965160238,
-      "market_cap_usd": 981794983.9305997
+      "price_usd": 0.03494073,
+      "volume_usd": 5276768.849636527,
+      "market_cap_usd": 967461082.0441079
     },
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
       "algo": "ETHash",
-      "price_usd": 7.71,
-      "volume_usd": 55371169.97748655,
-      "market_cap_usd": 1218945436.4580586
+      "price_usd": 7.62,
+      "volume_usd": 41182301.494377136,
+      "market_cap_usd": 1203634852.092211
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "algo": "Scrypt",
+      "price_usd": 54.03,
+      "volume_usd": 162380105.78754616,
+      "market_cap_usd": 4189378867.616809
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "algo": "Scrypt",
+      "price_usd": 0.0844,
+      "volume_usd": 327641139.33066225,
+      "market_cap_usd": 13151258400.002262
     }
   ]
 }
