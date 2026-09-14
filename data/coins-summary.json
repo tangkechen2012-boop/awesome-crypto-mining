@@ -1,61 +1,53 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "coins": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
       "algo": "SHA-256",
-      "price_usd": 77058,
-      "volume_usd": 14707729130.496964,
-      "market_cap_usd": 1548218105581.4924
+      "price_usd": 77671,
+      "volume_usd": 20198752868.05916,
+      "market_cap_usd": 1560127183975.6602
     },
     {
       "symbol": "ZEC",
       "name": "Zcash",
       "algo": "Equihash",
-      "price_usd": 1133.72,
-      "volume_usd": 630176395.7685031,
-      "market_cap_usd": 19194601391.6332
+      "price_usd": 1141.08,
+      "volume_usd": 1633624126.523131,
+      "market_cap_usd": 19340483288.61746
     },
     {
       "symbol": "XMR",
       "name": "Monero",
       "algo": "RandomX",
-      "price_usd": 530.56,
-      "volume_usd": 99368963.80729161,
-      "market_cap_usd": 9977877177.77102
+      "price_usd": 506.05,
+      "volume_usd": 99072631.79979466,
+      "market_cap_usd": 9500391270.823395
     },
     {
       "symbol": "KAS",
       "name": "Kaspa",
       "algo": "kHeavyHash",
-      "price_usd": 0.03494073,
-      "volume_usd": 5276768.849636527,
-      "market_cap_usd": 967461082.0441079
+      "price_usd": 0.0339345,
+      "volume_usd": 7470414.282261761,
+      "market_cap_usd": 940220414.7808994
     },
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
       "algo": "ETHash",
-      "price_usd": 7.62,
-      "volume_usd": 41182301.494377136,
-      "market_cap_usd": 1203634852.092211
+      "price_usd": 7.64,
+      "volume_usd": 50370339.046640165,
+      "market_cap_usd": 1208543367.7993288
     },
     {
       "symbol": "LTC",
       "name": "Litecoin",
       "algo": "Scrypt",
       "price_usd": 54.03,
-      "volume_usd": 162380105.78754616,
-      "market_cap_usd": 4189378867.616809
-    },
-    {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
-      "algo": "Scrypt",
-      "price_usd": 0.0844,
-      "volume_usd": 327641139.33066225,
-      "market_cap_usd": 13151258400.002262
+      "volume_usd": 216679854.77626458,
+      "market_cap_usd": 4193554119.5169253
     }
   ]
 }
