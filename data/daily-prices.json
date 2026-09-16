@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-15",
+  "date": "2026-09-16",
   "miners": [
     {
       "slug": "bitmain-antminer-s23-xp-hyd-bitcoin-miner-600th",
@@ -1047,7 +1047,7 @@
     {
       "slug": "bitmain-antminer-s21-xp-bitcoin-miner-270ths",
       "name": "Bitmain Antminer S21 XP Bitcoin Miner 270TH/S",
-      "new_price_usd": 2565.0,
+      "new_price_usd": 3300.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -1215,7 +1215,7 @@
     {
       "slug": "ibelink-bm-s3-siacoin-miner-19ths",
       "name": "iBeLink BM-S3 Siacoin Miner 19Th/s",
-      "new_price_usd": 2699.0,
+      "new_price_usd": 2500.0,
       "used_price_usd": null,
       "used_source": null
     },
