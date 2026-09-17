@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-16",
+  "date": "2026-09-17",
   "miners": [
     {
       "slug": "bitmain-antminer-s23-xp-hyd-bitcoin-miner-600th",
@@ -11,7 +11,7 @@
     {
       "slug": "bitmain-antminer-z15-zcash-miner",
       "name": "Bitmain Antminer Z15 Zcash Miner",
-      "new_price_usd": 3600.0,
+      "new_price_usd": 4300.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -1418,7 +1418,7 @@
     {
       "slug": "bitmain-antminer-z15-pro-zcash-miner",
       "name": "Bitmain Antminer Z15 Pro Zcash Miner",
-      "new_price_usd": 7500.0,
+      "new_price_usd": 9500.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -1901,7 +1901,7 @@
     {
       "slug": "bitmain-antminer-z15-zcash-miner",
       "name": "Bitmain Antminer Z15 Zcash Miner",
-      "new_price_usd": 4800.0,
+      "new_price_usd": 5500.0,
       "used_price_usd": null,
       "used_source": null
     },
