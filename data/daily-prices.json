@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "miners": [
     {
       "slug": "bitmain-antminer-s23-xp-hyd-bitcoin-miner-600th",
@@ -725,7 +725,7 @@
     {
       "slug": "goldshell-al-max-alephium-miner-83ths",
       "name": "Goldshell AL MAX Alephium Miner 8.3TH/s",
-      "new_price_usd": 2459.0,
+      "new_price_usd": 1800.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -879,7 +879,7 @@
     {
       "slug": "iceriver-al3-alephium-miner-15ths",
       "name": "ICERIVER AL3 Alephium Miner 15TH/s",
-      "new_price_usd": 900.0,
+      "new_price_usd": 1900.0,
       "used_price_usd": null,
       "used_source": null
     },
