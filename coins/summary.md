@@ -1,14 +1,14 @@
 # 💰 Coin Prices
 
-> **Last updated:** 2026-09-18 | **Source:** CoinGecko
+> **Last updated:** 2026-09-19 | **Source:** CoinGecko
 
 <!-- AUTO-UPDATED BY GITHUB ACTIONS -->
 
 | Coin | Algorithm | Price (USD) | 24h Volume | Market Cap | Details |
 |------|-----------|-------------|------------|------------|---------|
-| BTC | SHA-256 | $77,410.00 | $26.4B | $1.6T | [View](coins/bitcoin.md) |
-| ZEC | Equihash | $1,496.06 | $2.5B | $25.3B | [View](coins/zcash.md) |
-| XMR | RandomX | $528.6500 | $128.2M | $9.9B | [View](coins/monero.md) |
-| KAS | kHeavyHash | $0.034770 | $11.6M | $963.2M | [View](coins/kaspa.md) |
-| ETC | ETHash | $7.7800 | $54.6M | $1.2B | [View](coins/ethereum-classic.md) |
-| LTC | Scrypt | $54.9300 | $236.4M | $4.3B | [View](coins/litecoin.md) |
+| BTC | SHA-256 | $81,036.00 | $42.6B | $1.6T | [View](coins/bitcoin.md) |
+| ZEC | Equihash | $1,563.22 | $1.7B | $26.5B | [View](coins/zcash.md) |
+| XMR | RandomX | $571.0700 | $213.7M | $10.7B | [View](coins/monero.md) |
+| KAS | kHeavyHash | $0.038081 | $22.6M | $1.1B | [View](coins/kaspa.md) |
+| ETC | ETHash | $8.2100 | $67.7M | $1.3B | [View](coins/ethereum-classic.md) |
+| LTC | Scrypt | $57.2100 | $435.8M | $4.4B | [View](coins/litecoin.md) |
