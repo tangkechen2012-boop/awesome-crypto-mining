@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "miners": [
     {
       "slug": "bitmain-antminer-s23-xp-hyd-bitcoin-miner-600th",
@@ -172,7 +172,7 @@
     {
       "slug": "goldshell-sc5-pro-ii-siacoin-miner-14ths",
       "name": "Goldshell SC5 Pro II Siacoin Miner 14TH/s",
-      "new_price_usd": 1750.0,
+      "new_price_usd": 1990.0,
       "used_price_usd": null,
       "used_source": null
     },
