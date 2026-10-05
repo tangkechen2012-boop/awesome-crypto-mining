@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-04",
+  "date": "2026-10-05",
   "miners": [
     {
       "slug": "bitmain-antminer-s23-xp-hyd-bitcoin-miner-600th",
@@ -2076,7 +2076,7 @@
     {
       "slug": "antminer-k7-ckb-miner-635ths",
       "name": "Antminer K7 CKB Miner 63.5Th/s",
-      "new_price_usd": 500.0,
+      "new_price_usd": 1500.0,
       "used_price_usd": null,
       "used_source": null
     },
