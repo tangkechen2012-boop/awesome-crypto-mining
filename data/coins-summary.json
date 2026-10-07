@@ -1,45 +1,45 @@
 {
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "coins": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
       "algo": "SHA-256",
-      "price_usd": 85803,
-      "volume_usd": 27219816610.96329,
-      "market_cap_usd": 1724113752532.6418
+      "price_usd": 84099,
+      "volume_usd": 32753945974.8318,
+      "market_cap_usd": 1690553486381.4902
     },
     {
       "symbol": "ZEC",
       "name": "Zcash",
       "algo": "Equihash",
-      "price_usd": 1341.27,
-      "volume_usd": 796675725.7167538,
-      "market_cap_usd": 22740015907.98421
+      "price_usd": 1322.16,
+      "volume_usd": 761351723.4362376,
+      "market_cap_usd": 22436544224.68772
     },
     {
       "symbol": "XMR",
       "name": "Monero",
       "algo": "RandomX",
-      "price_usd": 560.82,
-      "volume_usd": 136709364.65419307,
-      "market_cap_usd": 10550504269.884573
+      "price_usd": 566.07,
+      "volume_usd": 127214406.04890342,
+      "market_cap_usd": 10628349804.004133
     },
     {
       "symbol": "KAS",
       "name": "Kaspa",
       "algo": "kHeavyHash",
-      "price_usd": 0.04293426,
-      "volume_usd": 17347886.846747633,
-      "market_cap_usd": 1190848305.6937914
+      "price_usd": 0.04193442,
+      "volume_usd": 13085477.907347882,
+      "market_cap_usd": 1164009964.8508058
     },
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
       "algo": "ETHash",
-      "price_usd": 8.88,
-      "volume_usd": 53373524.08615388,
-      "market_cap_usd": 1409380131.0881357
+      "price_usd": 8.49,
+      "volume_usd": 67003554.05827069,
+      "market_cap_usd": 1347892534.9605472
     }
   ]
 }
