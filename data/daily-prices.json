@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "miners": [
     {
       "slug": "goldshell-sc5-pro-ii-ultra-blake2b-miner-24ths",
@@ -361,7 +361,7 @@
     {
       "slug": "fluminer-t3-bitcoin-miner-115ths",
       "name": "FLUMINER T3 Bitcoin Miner 115TH/S",
-      "new_price_usd": 1890.0,
+      "new_price_usd": 1800.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -2027,7 +2027,7 @@
     {
       "slug": "bitmain-antminer-d9-dash-miner-1770-ghs",
       "name": "Bitmain Antminer D9 Dash Miner 1770 Gh/s",
-      "new_price_usd": 1350.0,
+      "new_price_usd": 1400.0,
       "used_price_usd": null,
       "used_source": null
     },
