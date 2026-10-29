@@ -1,10 +1,10 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "miners": [
     {
       "slug": "goldshell-sc5-pro-ii-ultra-blake2b-miner-24ths",
       "name": "Goldshell SC5 PRO II Ultra Blake2B Miner 24TH/s",
-      "new_price_usd": 5800.0,
+      "new_price_usd": 5300.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -172,7 +172,7 @@
     {
       "slug": "goldshell-sc5-pro-ii-siacoin-miner-14ths",
       "name": "Goldshell SC5 Pro II Siacoin Miner 14TH/s",
-      "new_price_usd": 3500.0,
+      "new_price_usd": 3000.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -1208,7 +1208,7 @@
     {
       "slug": "ibelink-bm-s3-blake2b-miner-19ths",
       "name": "iBeLink BM-S3 Blake2B Miner 19Th/s",
-      "new_price_usd": 5250.0,
+      "new_price_usd": 4500.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -1222,7 +1222,7 @@
     {
       "slug": "goldshell-sc5-pro-siacoin-miner-11ths",
       "name": "Goldshell SC5 Pro Siacoin Miner 11TH/s",
-      "new_price_usd": 3500.0,
+      "new_price_usd": 3000.0,
       "used_price_usd": null,
       "used_source": null
     },
