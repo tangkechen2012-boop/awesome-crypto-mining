@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "miners": [
     {
       "slug": "goldshell-sc5-pro-ii-ultra-blake2b-miner-24ths",
@@ -347,7 +347,7 @@
     {
       "slug": "bitmain-antminer-l11-20ghs-scrypt-miner-for-ltc-dogecoin",
       "name": "Bitmain Antminer L11 20GH/s Scrypt Miner for LTC & DOGECOIN",
-      "new_price_usd": 5350.0,
+      "new_price_usd": 5200.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -837,7 +837,7 @@
     {
       "slug": "bitmain-antminer-s21-bitcoin-miner",
       "name": "Bitmain Antminer S21+ Bitcoin Miner",
-      "new_price_usd": 1600.0,
+      "new_price_usd": 1538.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -872,7 +872,7 @@
     {
       "slug": "bitmain-antminer-s21e-xp-hyd-3u-bitcoin-miner-860ths",
       "name": "Bitmain Antminer S21e XP Hyd 3U Bitcoin Miner 860TH/S",
-      "new_price_usd": 7900.0,
+      "new_price_usd": 7750.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -1047,7 +1047,7 @@
     {
       "slug": "bitmain-antminer-s21-xp-bitcoin-miner-270ths",
       "name": "Bitmain Antminer S21 XP Bitcoin Miner 270TH/S",
-      "new_price_usd": 3300.0,
+      "new_price_usd": 3100.0,
       "used_price_usd": null,
       "used_source": null
     },
