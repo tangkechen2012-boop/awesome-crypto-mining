@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "miners": [
     {
       "slug": "goldshell-sc5-pro-ii-ultra-blake2b-miner-24ths",
@@ -438,7 +438,7 @@
     {
       "slug": "ibelink-bm-s3-blake2b-miner-25ths",
       "name": "iBeLink BM-S3+ Blake2B Miner 25Th/s",
-      "new_price_usd": 15888.0,
+      "new_price_usd": 8800.0,
       "used_price_usd": null,
       "used_source": null
     },
