@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "miners": [
     {
       "slug": "goldshell-sc5-pro-ii-ultra-blake2b-miner-24ths",
@@ -1892,8 +1892,8 @@
       "used_source": null
     },
     {
-      "slug": "bitmain-antminer-z15-zcash-miner",
-      "name": "Bitmain Antminer Z15 Zcash Miner",
+      "slug": "bitmain-antminer-z15-420-ksols-zcash-miner",
+      "name": "Bitmain Antminer Z15 420 KSol/s Zcash Miner",
       "new_price_usd": 6200.0,
       "used_price_usd": null,
       "used_source": null
