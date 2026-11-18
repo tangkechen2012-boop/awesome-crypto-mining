@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "miners": [
     {
       "slug": "goldshell-sc5-pro-ii-ultra-blake2b-miner-24ths",
@@ -347,7 +347,7 @@
     {
       "slug": "bitmain-antminer-l11-20ghs-scrypt-miner-for-ltc-dogecoin",
       "name": "Bitmain Antminer L11 20GH/s Scrypt Miner for LTC & DOGECOIN",
-      "new_price_usd": 5200.0,
+      "new_price_usd": 4990.0,
       "used_price_usd": null,
       "used_source": null
     },
