@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "miners": [
     {
       "slug": "goldshell-sc5-pro-ii-ultra-blake2b-miner-24ths",
@@ -74,7 +74,7 @@
     {
       "slug": "bitmain-antminer-s21plus-bitcoin-miner",
       "name": "Bitmain Antminer S21+Plus Bitcoin Miner",
-      "new_price_usd": 1600.0,
+      "new_price_usd": 1700.0,
       "used_price_usd": null,
       "used_source": null
     },
@@ -837,7 +837,7 @@
     {
       "slug": "bitmain-antminer-s21-bitcoin-miner",
       "name": "Bitmain Antminer S21+ Bitcoin Miner",
-      "new_price_usd": 1538.0,
+      "new_price_usd": 1700.0,
       "used_price_usd": null,
       "used_source": null
     },
